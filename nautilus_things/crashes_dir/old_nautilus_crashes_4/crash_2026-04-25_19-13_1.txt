@@ -1,0 +1,561 @@
+denixx@denixx-u2604-1:~$ DEBUGINFOD_URLS=https://debuginfod.ubuntu.com G_SLICE=always-malloc G_DEBUG=fatal-criticals,fatal-warnings,gc-friendly MALLOC_CHECK_=3 MALLOC_PERTURB_=85 gdb -ex run --args nautilus
+GNU gdb (Ubuntu 17.1-2ubuntu1) 17.1
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from nautilus...
+Reading symbols from /usr/lib/debug/.build-id/05/6718ac2937766b0bf4c9827cd2661af4707c87.debug...
+Starting program: /usr/bin/nautilus 
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.ubuntu.com>
+Enable debuginfod for this session? (y or [n]) y
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffeebff6c0 (LWP 25316)]
+[New Thread 0x7fffee3fe6c0 (LWP 25317)]
+[New Thread 0x7fffedbfd6c0 (LWP 25318)]
+[New Thread 0x7fffed3fc6c0 (LWP 25320)]
+[New Thread 0x7fffecbfb6c0 (LWP 25321)]
+[New Thread 0x7fffdffff6c0 (LWP 25322)]
+[New Thread 0x7fffdf7fe6c0 (LWP 25323)]
+[New Thread 0x7fffdeffd6c0 (LWP 25324)]
+** Message: 19:11:35.749: Connecting to org.freedesktop.Tracker3.Miner.Files
+[New Thread 0x7fffde7fc6c0 (LWP 25325)]
+[New Thread 0x7fffddffb6c0 (LWP 25326)]
+[New Thread 0x7fffdd7fa6c0 (LWP 25327)]
+[New Thread 0x7fffdcff96c0 (LWP 25328)]
+[New Thread 0x7fffcbfff6c0 (LWP 25329)]
+[New Thread 0x7fffcb7fe6c0 (LWP 25330)]
+[New Thread 0x7fffcaffd6c0 (LWP 25331)]
+[New Thread 0x7fffca7fc6c0 (LWP 25332)]
+[New Thread 0x7fffc9ffb6c0 (LWP 25333)]
+[New Thread 0x7fffc97fa6c0 (LWP 25334)]
+[New Thread 0x7fffc8ff96c0 (LWP 25335)]
+[New Thread 0x7fffb3fff6c0 (LWP 25336)]
+[New Thread 0x7fffb37fe6c0 (LWP 25337)]
+[New Thread 0x7fff869ff6c0 (LWP 25338)]
+[New Thread 0x7fff85dff6c0 (LWP 25339)]
+[New Thread 0x7fff939ff6c0 (LWP 25340)]
+[New Thread 0x7fff931fe6c0 (LWP 25341)]
+[New Thread 0x7fff929fd6c0 (LWP 25342)]
+[Thread 0x7fffddffb6c0 (LWP 25326) exited]
+[New Thread 0x7fffddffb6c0 (LWP 25347)]
+[New Thread 0x7fff921fc6c0 (LWP 25348)]
+[New Thread 0x7fff91ffb6c0 (LWP 25349)]
+[New Thread 0x7fff91dfa6c0 (LWP 25350)]
+[Detaching after fork from child process 25351]
+[New Thread 0x7fff91bf96c0 (LWP 25354)]
+[Detaching after fork from child process 25355]
+[Thread 0x7fff91ffb6c0 (LWP 25349) exited]
+[Thread 0x7fff91dfa6c0 (LWP 25350) exited]
+[New Thread 0x7fff919f86c0 (LWP 25361)]
+[New Thread 0x7fff911f76c0 (LWP 25362)]
+[New Thread 0x7fff909f66c0 (LWP 25363)]
+[New Thread 0x7fff855fe6c0 (LWP 25364)]
+[Thread 0x7fff855fe6c0 (LWP 25364) exited]
+[Thread 0x7fff909f66c0 (LWP 25363) exited]
+[Thread 0x7fffdf7fe6c0 (LWP 25323) exited]
+[Thread 0x7fffecbfb6c0 (LWP 25321) exited]
+[Thread 0x7fff91bf96c0 (LWP 25354) exited]
+
+(org.gnome.Nautilus:25307): GLib-GObject-CRITICAL **: 19:13:14.728: ../../../gobject/gclosure.c:830: unable to remove uninstalled invalidation notifier: 0x7ffff7d80e20 (0x7fff68006df0)
+
+Thread 1 "nautilus" received signal SIGTRAP, Trace/breakpoint trap.
+_g_log_abort (breakpoint=breakpoint@entry=1) at ../../../glib/gmessages.c:452
+⚠️ warning: 452	../../../glib/gmessages.c: Немає такого файла або каталогу
+(gdb) bt full
+#0  _g_log_abort (breakpoint=breakpoint@entry=1) at ../../../glib/gmessages.c:452
+        debugger_present = <optimized out>
+        proc_status = 0x555556a85bb0 "\310*A\365\377\177"
+        len = 1548
+#1  0x00007ffff7c62212 in g_logv (log_domain=0x7ffff7d9a015 "GLib-GObject", log_level=G_LOG_LEVEL_CRITICAL, format=<optimized out>, args=<optimized out>) at ../../../glib/gmessages.c:1313
+        domain = 0x0
+        data = <optimized out>
+        depth = <optimized out>
+        log_func = <optimized out>
+        domain_fatal_mask = <optimized out>
+        masquerade_fatal = <optimized out>
+        test_level = <optimized out>
+        was_fatal = 0
+        was_recursion = 0
+        buffer = <optimized out>
+        msg_alloc = 0x55555681b750 "../../../gobject/gclosure.c:830: unable to remove uninstalled invalidation notifier: 0x7ffff7d80e20 (0x7fff68006df0)"
+        msg = 0x55555681b750 "../../../gobject/gclosure.c:830: unable to remove uninstalled invalidation notifier: 0x7ffff7d80e20 (0x7fff68006df0)"
+        i = 3
+        size = <optimized out>
+#2  0x00007ffff7c624d3 in g_log (log_domain=<optimized out>, log_level=<optimized out>, format=<optimized out>) at ../../../glib/gmessages.c:1355
+        args = {{gp_offset = 40, fp_offset = 48, overflow_arg_area = 0x7fffffffae00, reg_save_area = 0x7fffffffad40}}
+#3  0x00007ffff7d86d7f in remove_invalid_closure_notify (handler=0x555556a2b8e0, instance=0x7fff68006df0) at ../../../gobject/gsignal.c:4094
+No locals.
+#4  remove_invalid_closure_notify (handler=0x555556a2b8e0, instance=0x7fff68006df0) at ../../../gobject/gsignal.c:4089
+No locals.
+#5  signal_handler_disconnect_unlocked (instance=0x7fff68006df0, handler_id=120655) at ../../../gobject/gsignal.c:2719
+        handler = 0x555556a2b8e0
+#6  0x00007ffff7d86e6d in g_signal_handler_disconnect (instance=instance@entry=0x7fff68006df0, handler_id=120655) at ../../../gobject/gsignal.c:2704
+        __func__ = "g_signal_handler_disconnect"
+#7  0x00007ffff7d8b334 in g_signal_group_unbind (self=0x555556991cc0) at ../../../gobject/gsignalgroup.c:295
+        handler = <optimized out>
+        handler_id = <optimized out>
+        target = 0x7fff68006df0
+        i = 2
+        __func__ = <optimized out>
+        _g_boolean_var_27 = <optimized out>
+        __inst = <optimized out>
+        __t = <optimized out>
+        __r = <optimized out>
+#8  g_signal_group_unbind (self=0x555556991cc0) at ../../../gobject/gsignalgroup.c:244
+        target = <optimized out>
+        i = <optimized out>
+        __func__ = "g_signal_group_unbind"
+        handler = <optimized out>
+        handler_id = <optimized out>
+        _g_boolean_var_28 = <optimized out>
+        _g_boolean_var_29 = <optimized out>
+        _g_boolean_var_30 = <optimized out>
+        _pp = <optimized out>
+        _ptr = <optimized out>
+#9  0x00007ffff7d8b4c8 in g_signal_group_dispose (object=0x555556991cc0) at ../../../gobject/gsignalgroup.c:528
+        self = 0x555556991cc0
+#10 0x00007ffff7d79685 in g_object_unref (_object=0x555556991cc0) at ../../../gobject/gobject.c:4839
+        object = 0x555556991cc0
+--Type <RET> for more, q to quit, c to continue without paging--c
+        old_ref = 1
+        toggle_notify = 0x5555556f8d30
+        toggle_data = 0x5555566bf090
+        nqueue_is_frozen = 1
+        obj_gtype = <optimized out>
+        retry_beginning = <optimized out>
+        retry_decrement = <optimized out>
+        __func__ = "g_object_unref"
+#11 0x0000555555631ee6 in nautilus_grid_cell_dispose (object=0x555556266bd0) at ../src/nautilus-grid-cell.c:244
+        _pp = 0x555556266bf0
+        _ptr = <optimized out>
+        self = 0x555556266bd0
+#12 0x00007ffff7d79685 in g_object_unref (_object=0x555556266bd0) at ../../../gobject/gobject.c:4839
+        object = 0x555556266bd0
+        old_ref = 1
+        toggle_notify = 0x7ffff7d79bea <g_object_notify_by_pspec+394>
+        toggle_data = 0x7fffffffb030
+        nqueue_is_frozen = 1
+        obj_gtype = <optimized out>
+        retry_beginning = <optimized out>
+        retry_decrement = <optimized out>
+        __func__ = "g_object_unref"
+#13 0x00007ffff6bedc21 in gtk_list_item_set_child (self=0x555556849ec0, child=0x0) at ../../../gtk/gtklistitem.c:387
+        _pp = 0x555556849ee0
+        _ptr = <optimized out>
+        __func__ = <optimized out>
+        _g_boolean_var_13 = <optimized out>
+        _g_boolean_var_14 = <optimized out>
+#14 gtk_list_item_set_child (self=0x555556849ec0, child=0x0) at ../../../gtk/gtklistitem.c:372
+        __func__ = "gtk_list_item_set_child"
+        _pp = <optimized out>
+        _ptr = <optimized out>
+#15 0x00007ffff6c63938 in gtk_signal_list_item_factory_teardown (factory=0x555556537750, item=0x555556849ec0, unbind=<optimized out>, func=<optimized out>, data=<optimized out>) at ../../../gtk/gtksignallistitemfactory.c:145
+No locals.
+#16 0x00007ffff6be7d80 in gtk_list_factory_widget_teardown_factory (self=0x55555672ba30) at ../../../gtk/gtklistfactorywidget.c:139
+        priv = 0x55555672b8b0
+        item = 0x555556849ec0
+        __func__ = <optimized out>
+#17 gtk_list_factory_widget_clear_factory (self=self@entry=0x55555672ba30) at ../../../gtk/gtklistfactorywidget.c:250
+        priv = 0x55555672b8b0
+#18 0x00007ffff6be7df5 in gtk_list_factory_widget_dispose (object=0x55555672ba30) at ../../../gtk/gtklistfactorywidget.c:259
+        self = 0x55555672ba30
+#19 0x00007ffff7d79685 in g_object_unref (_object=0x55555672ba30) at ../../../gobject/gobject.c:4839
+        object = 0x55555672ba30
+        old_ref = 1
+        toggle_notify = 0x7ffff7d699f1 <g_object_notify_queue_thaw+49>
+        toggle_data = 0x7fffffffb170
+        nqueue_is_frozen = 1
+        obj_gtype = <optimized out>
+        retry_beginning = <optimized out>
+        retry_decrement = <optimized out>
+        __func__ = "g_object_unref"
+#20 0x00007ffff7c45b3e in g_hash_table_remove_all_nodes (hash_table=0x5555569c2e40, notify=<optimized out>, destruction=<optimized out>) at ../../../glib/ghash.c:665
+        i = 0
+        key = <optimized out>
+        value = <optimized out>
+        old_size = <optimized out>
+        old_keys = 0x555556991830
+        old_values = 0x55555697f190
+        old_hashes = 0x55555695d120
+        old_have_big_keys = 1
+        old_have_big_values = 1
+#21 0x00007ffff7c470ed in g_hash_table_remove_all_nodes (hash_table=0x5555569c2e40, notify=1, destruction=0) at ../../../glib/ghash.c:587
+        i = <optimized out>
+        key = <optimized out>
+        value = <optimized out>
+        old_size = <optimized out>
+        old_keys = <optimized out>
+        old_values = <optimized out>
+        old_hashes = <optimized out>
+        old_have_big_keys = <optimized out>
+        old_have_big_values = <optimized out>
+#22 g_hash_table_remove_all (hash_table=0x5555569c2e40) at ../../../glib/ghash.c:1880
+        __func__ = "g_hash_table_remove_all"
+#23 0x00007ffff7c48e9a in g_hash_table_destroy (hash_table=0x5555569c2e40) at ../../../glib/ghash.c:1471
+        __func__ = "g_hash_table_destroy"
+#24 0x00007ffff6be8413 in gtk_list_item_change_finish (change=change@entry=0x7fffffffb2d0) at ../../../gtk/gtklistitemmanager.c:83
+        _pp = 0x7fffffffb2d0
+        _ptr = <optimized out>
+        widget = <optimized out>
+#25 0x00007ffff6bef178 in gtk_list_item_manager_model_items_changed_cb (model=<optimized out>, position=<optimized out>, removed=<optimized out>, added=<optimized out>, self=<optimized out>)
+    at ../../../gtk/gtklistitemmanager.c:1614
+        change = {deleted_items = 0x0, recycled_items = {head = 0x0, tail = 0x0, length = 0}, recycled_headers = {head = 0x0, tail = 0x0, length = 0}}
+        l = 0x0
+        n_items = 0
+        __func__ = "gtk_list_item_manager_model_items_changed_cb"
+#26 0x00007ffff7d6968c in g_closure_invoke (closure=0x5555565447c0, return_value=0x0, n_param_values=4, param_values=0x7fffffffb560, invocation_hint=0x7fffffffb4b0) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7e3ad70 <_g_cclosure_marshal_VOID__UINT_UINT_UINT>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x5555565447a0
+        __func__ = "g_closure_invoke"
+#27 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffb6c0, detail=detail@entry=0, instance=instance@entry=0x555556254d70, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffb560) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x555556544b20
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffba50, instance = 0x555556254d70, ihint = {signal_id = 16, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x555556535370
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#28 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555556254d70, signal_id=signal_id@entry=16, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffb820) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#29 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555556254d70, signal_id=16, detail=0, var_args=var_args@entry=0x7fffffffb820) at ../../../gobject/gsignal.c:3304
+No locals.
+#30 0x00007ffff7d89e83 in g_signal_emit (instance=<optimized out>, signal_id=<optimized out>, detail=<optimized out>) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 48, fp_offset = 48, overflow_arg_area = 0x7fffffffb900, reg_save_area = 0x7fffffffb840}}
+#31 0x00007ffff7d6968c in g_closure_invoke (closure=0x555556536630, return_value=0x0, n_param_values=4, param_values=0x7fffffffbb10, invocation_hint=0x7fffffffba60) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7e3ad70 <_g_cclosure_marshal_VOID__UINT_UINT_UINT>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 1, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 1, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 536870914}
+        real_closure = 0x555556536610
+        __func__ = "g_closure_invoke"
+#32 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffbc70, detail=detail@entry=0, instance=instance@entry=0x555556535ae0, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffbb10) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x55555652f800
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffc340, instance = 0x555556535ae0, ihint = {signal_id = 16, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x55555652fc80
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#33 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555556535ae0, signal_id=signal_id@entry=16, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffbdd0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#34 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555556535ae0, signal_id=16, detail=0, var_args=var_args@entry=0x7fffffffbdd0) at ../../../gobject/gsignal.c:3304
+No locals.
+#35 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x555556535ae0, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 48, fp_offset = 48, overflow_arg_area = 0x7fffffffbeb0, reg_save_area = 0x7fffffffbdf0}}
+#36 0x00007ffff7e894f4 in g_list_model_items_changed (list=list@entry=0x555556535ae0, position=position@entry=0, removed=removed@entry=7, added=added@entry=0) at ../../../gio/glistmodel.c:314
+        __func__ = "g_list_model_items_changed"
+#37 0x00007ffff6c72cf9 in gtk_sort_list_model_items_changed_cb (model=<optimized out>, position=<optimized out>, removed=7, added=<optimized out>, self=0x555556535ae0) at ../../../gtk/gtksortlistmodel.c:797
+        runs = {0, 0, 140737326868464, 0, 0, 0, 105, 9, 0, 15707306145643311104, 1, 6, 0, 0, 93825005360256, 84, 140737488339248, 140737306560124, 140737225344840, 0, 206158430248, 140737225344064, 140737488338880, 
+          140737307186289, 46, 321126492, 140737488339200, 140737326829150, 7728, 92, 0, 0, 140737488338976, 1, 0, 0, 0, 140737488339008, 93824994648608, 92, 0, 15707306145643311104, 0, 15707306145643311104, 7728, 
+          15707306145643311104, 93825005425512, 341, 0, 93825007479472, 140737488339168, 140737326831497, 1434053040, 140737326827241, 140737488339200, 15707306145643311104, 93825011978120, 93824994634160, 0, 0, 93825001554928, 
+          84, 140737488339248, 140737326832614, 93825005360256, 84, 140737488339248, 93825007521488, 93825001553904, 0, 93825005360256, 84, 140737488339424, 140736179494321, 1416, 93825007521488, 93825007522304, 93825001553904, 
+          93823560581461, 140737245156608, 0, 140737488342112, 140737488339968, 0, 140737488339376, 140737351606269, 140737488339408}
+        i = <optimized out>
+        n_items = 0
+        start = 0
+        end = <optimized out>
+        was_sorting = 0
+#38 0x00007ffff7d6968c in g_closure_invoke (closure=0x555556536140, return_value=0x0, n_param_values=4, param_values=0x7fffffffc400, invocation_hint=0x7fffffffc350) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7e3ad70 <_g_cclosure_marshal_VOID__UINT_UINT_UINT>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555556536120
+        __func__ = "g_closure_invoke"
+#39 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffc560, detail=detail@entry=0, instance=instance@entry=0x555556534a60, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffc400) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x555556527e50
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffc950, instance = 0x555556534a60, ihint = {signal_id = 16, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x555556527e50
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#40 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555556534a60, signal_id=signal_id@entry=16, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffc6c0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#41 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555556534a60, signal_id=16, detail=0, var_args=var_args@entry=0x7fffffffc6c0) at ../../../gobject/gsignal.c:3304
+No locals.
+#42 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x555556534a60, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 48, fp_offset = 48, overflow_arg_area = 0x7fffffffc7a0, reg_save_area = 0x7fffffffc6e0}}
+#43 0x00007ffff7e894f4 in g_list_model_items_changed (list=list@entry=0x555556534a60, position=position@entry=0, removed=removed@entry=7, added=added@entry=0) at ../../../gio/glistmodel.c:314
+        __func__ = "g_list_model_items_changed"
+#44 0x00007ffff6d1d193 in gtk_tree_list_model_items_changed_cb (model=0x555556534fb0, position=0, removed=<optimized out>, added=<optimized out>, node=<optimized out>) at ../../../gtk/gtktreelistmodel.c:388
+        self = 0x555556534a60
+        child = <optimized out>
+        i = <optimized out>
+        tree_position = <optimized out>
+        tree_removed = 7
+        tree_added = 0
+        n_local = <optimized out>
+        __func__ = "gtk_tree_list_model_items_changed_cb"
+#45 0x00007ffff7d6968c in g_closure_invoke (closure=0x555556534af0, return_value=0x0, n_param_values=4, param_values=0x7fffffffca10, invocation_hint=0x7fffffffc960) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7e3ad70 <_g_cclosure_marshal_VOID__UINT_UINT_UINT>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555556534ad0
+        __func__ = "g_closure_invoke"
+#46 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffcb70, detail=detail@entry=0, instance=instance@entry=0x555556534fb0, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffca10) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x55555652f280
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffcf50, instance = 0x555556534fb0, ihint = {signal_id = 16, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x55555652f280
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#47 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555556534fb0, signal_id=signal_id@entry=16, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffccd0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#48 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555556534fb0, signal_id=16, detail=0, var_args=var_args@entry=0x7fffffffccd0) at ../../../gobject/gsignal.c:3304
+No locals.
+#49 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x555556534fb0, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 48, fp_offset = 48, overflow_arg_area = 0x7fffffffcdb0, reg_save_area = 0x7fffffffccf0}}
+#50 0x00007ffff7e894f4 in g_list_model_items_changed (list=list@entry=0x555556534fb0, position=<optimized out>, removed=<optimized out>, added=<optimized out>) at ../../../gio/glistmodel.c:314
+        __func__ = "g_list_model_items_changed"
+#51 0x00007ffff6b95558 in gtk_filter_list_model_items_changed_cb (model=<optimized out>, position=0, removed=7, added=0, self=0x555556534fb0) at ../../../gtk/gtkfilterlistmodel.c:505
+        filter_removed = <optimized out>
+        filter_added = <optimized out>
+        __func__ = "gtk_filter_list_model_items_changed_cb"
+#52 0x00007ffff7d6968c in g_closure_invoke (closure=0x555556535040, return_value=0x0, n_param_values=4, param_values=0x7fffffffd010, invocation_hint=0x7fffffffcf60) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7e3ad70 <_g_cclosure_marshal_VOID__UINT_UINT_UINT>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555556535020
+        __func__ = "g_closure_invoke"
+#53 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffd170, detail=detail@entry=0, instance=instance@entry=0x555556254e90, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffd010) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x55555652c900
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffd550, instance = 0x555556254e90, ihint = {signal_id = 16, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x55555652c900
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#54 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555556254e90, signal_id=signal_id@entry=16, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd2d0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#55 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555556254e90, signal_id=16, detail=0, var_args=var_args@entry=0x7fffffffd2d0) at ../../../gobject/gsignal.c:3304
+No locals.
+#56 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x555556254e90, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 48, fp_offset = 48, overflow_arg_area = 0x7fffffffd3b0, reg_save_area = 0x7fffffffd2f0}}
+#57 0x00007ffff7e894f4 in g_list_model_items_changed (list=list@entry=0x555556254e90, position=position@entry=0, removed=removed@entry=7, added=added@entry=0) at ../../../gio/glistmodel.c:314
+        __func__ = "g_list_model_items_changed"
+#58 0x00007ffff7e89bc3 in g_list_store_items_changed (store=0x555556254e90, position=0, removed=7, added=0) at ../../../gio/gliststore.c:82
+No locals.
+#59 g_list_store_remove_all (store=0x555556254e90) at ../../../gio/gliststore.c:437
+        n_items = 7
+        __func__ = <optimized out>
+        _g_boolean_var_24 = <optimized out>
+#60 g_list_store_remove_all (store=0x555556254e90) at ../../../gio/gliststore.c:427
+        n_items = <optimized out>
+        __func__ = "g_list_store_remove_all"
+#61 0x0000555555600d82 in nautilus_view_model_remove_all_items (self=0x555556254d70) at ../src/nautilus-view-model.c:606
+No locals.
+#62 files_view_clear (self=<optimized out>) at ../src/nautilus-files-view.c:8482
+No locals.
+#63 0x00007ffff7d6968c in g_closure_invoke (closure=0x5555564fde90, return_value=0x0, n_param_values=1, param_values=0x7fffffffd610, invocation_hint=0x7fffffffd560) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7d6e700 <g_cclosure_marshal_VOID__VOID>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x5555564fde70
+        __func__ = "g_closure_invoke"
+#64 0x00007ffff7d880c1 in signal_emit_unlocked_R (node=node@entry=0x7fffffffd720, detail=detail@entry=0, instance=instance@entry=0x5555561dc4f0, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffd610) at ../../../gobject/gsignal.c:3969
+        accumulator = <optimized out>
+        emission = {next = 0x0, instance = 0x5555561dc4f0, ihint = {signal_id = 439, detail = 0, run_type = (G_SIGNAL_RUN_LAST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 140736951508112}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x0
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#65 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x5555561dc4f0, signal_id=signal_id@entry=439, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd880) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#66 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555561dc4f0, signal_id=439, detail=0, var_args=var_args@entry=0x7fffffffd880) at ../../../gobject/gsignal.c:3304
+No locals.
+#67 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x5555561dc4f0, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffd960, reg_save_area = 0x7fffffffd8a0}}
+#68 0x000055555560a04e in emit_clear (self=0x5555561dc4f0) at ../src/nautilus-files-view.c:8494
+No locals.
+#69 emit_clear (self=0x5555561dc4f0) at ../src/nautilus-files-view.c:8486
+No locals.
+#70 load_directory (self=0x5555561dc4f0, directory=0x5555566789f0) at ../src/nautilus-files-view.c:8583
+        attributes = <optimized out>
+        __func__ = "load_directory"
+#71 0x00005555555fe7fb in nautilus_files_view_set_location (self=0x5555561dc4f0, location=<optimized out>) at ../src/nautilus-files-view.c:3676
+        directory = 0x5555566789f0
+#72 0x00005555555eccd7 in apply_pending_location_and_selection_on_view (self=0x555555c32e00) at ../src/nautilus-window-slot.c:2142
+No locals.
+#73 got_file_info_for_view_selection_callback (file=0x5555566ad2f0, callback_data=0x555555c32e00) at ../src/nautilus-window-slot.c:2079
+        view_id = 2
+        ready_file = 0x5555566ad2f0
+        error = <optimized out>
+        self = 0x555555c32e00
+        location = 0x555556675690
+        __func__ = "got_file_info_for_view_selection_callback"
+#74 0x000055555559d44e in ready_callback_call (directory=0x55555659ab10, callback=<synthetic pointer>) at ../src/nautilus-directory-async.c:1244
+        file_list = <optimized out>
+#75 call_ready_callbacks_at_idle (callback_data=<error reading variable: value has been optimized out>) at ../src/nautilus-directory-async.c:1844
+        callback = {file = 0x5555566ad2f0, callback = {directory = 0x5555555ec9e0 <got_file_info_for_view_selection_callback>, file = 0x5555555ec9e0 <got_file_info_for_view_selection_callback>}, callback_data = 0x555555c32e00, 
+          request = 132}
+        directory = 0x55555659ab10
+        hash_iter = {dummy1 = 0x5555566bb490, dummy2 = 0x555556633330, dummy3 = 0xc8, dummy4 = 5, dummy5 = 21845, dummy6 = 0x51}
+        node = 0x555556713ae0
+#76 0x00007ffff7c580c9 in g_idle_dispatch (source=<optimized out>, callback=<optimized out>, user_data=<optimized out>) at ../../../glib/gmain.c:6487
+        once_callback = <optimized out>
+        idle_source = <optimized out>
+        again = <optimized out>
+#77 0x00007ffff7c5bb9b in g_main_dispatch (context=0x555555710fb0) at ../../../glib/gmain.c:3591
+        user_data = 0x55555659ab10
+        callback = 0x55555559d3d0 <call_ready_callbacks_at_idle>
+        gaig_temp = <optimized out>
+        gaig_temp = <optimized out>
+        cb_data = 0x5555566514d0
+        need_destroy = <optimized out>
+        dispatch = 0x7ffff7c580b0 <g_idle_dispatch>
+        prev_source = 0x0
+        was_in_call = 0
+        cb_funcs = 0x7ffff7d51380 <g_source_callback_funcs>
+        begin_time_nsec = 7728321161147
+        source = 0x55555663c400
+        current = 0x5555557188d0
+        i = 0
+        __func__ = "g_main_dispatch"
+#78 0x00007ffff7c5d1d7 in g_main_context_dispatch_unlocked (context=0x555555710fb0) at ../../../glib/gmain.c:4451
+No locals.
+#79 g_main_context_iterate_unlocked (context=context@entry=0x555555710fb0, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../../../glib/gmain.c:4516
+        max_priority = 200
+        timeout_usec = 0
+        some_ready = 1
+        nfds = 3
+        allocated_nfds = <optimized out>
+        fds = 0x5555562abe90
+        begin_time_nsec = <optimized out>
+#80 0x00007ffff7c5d3c3 in g_main_context_iteration (context=context@entry=0x555555710fb0, may_block=may_block@entry=1) at ../../../glib/gmain.c:4582
+        retval = <optimized out>
+#81 0x00007ffff7ea2acd in g_application_run (application=application@entry=0x5555556fa8b0, argc=argc@entry=1, argv=argv@entry=0x7fffffffdde8) at ../../../gio/gapplication.c:2742
+        arguments = 0x55555577c610
+        status = 0
+        context = 0x555555710fb0
+        acquired_context = <optimized out>
+        __func__ = "g_application_run"
+#82 0x000055555558c5d3 in main (argc=1, argv=0x7fffffffdde8) at ../src/nautilus-main.c:77
+        retval = <optimized out>
+        application = 0x5555556fa8b0
+(gdb) 
+

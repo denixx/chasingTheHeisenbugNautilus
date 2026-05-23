@@ -1,0 +1,872 @@
+ 27268940      4 drwxrwxr-x  11 denixx   denixx       4096 кві 25 18:24 toNewer_26.04_2/
+ 27263558      4 drwxr-xr-x   2 denixx   denixx       4096 кві 14 19:55 toNewer_26.04_2/old_1_working
+ 27263566      4 drwxrwxr-x   3 denixx   denixx       4096 кві 24 21:24 toNewer_26.04_2/.cache
+ 27263567      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome
+ 27263568      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default
+ 27265306      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Code\ Cache
+ 27265340     36 drwx------   3 denixx   denixx      36864 кві 23 19:46 toNewer_26.04_2/.cache/google-chrome/Default/Code\ Cache/js
+ 27265345      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.cache/google-chrome/Default/Code\ Cache/js/index-dir
+ 27265307      4 drwx------   3 denixx   denixx       4096 кві 12 00:12 toNewer_26.04_2/.cache/google-chrome/Default/Code\ Cache/wasm
+ 27265310      4 drwx------   2 denixx   denixx       4096 кві 12 00:12 toNewer_26.04_2/.cache/google-chrome/Default/Code\ Cache/wasm/index-dir
+ 27263569      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Cache
+ 27265303      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.cache/google-chrome/Default/Cache/No_Vary_Search
+ 27263570     80 drwx------   3 denixx   denixx      77824 кві 23 19:46 toNewer_26.04_2/.cache/google-chrome/Default/Cache/Cache_Data
+ 27264577      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.cache/google-chrome/Default/Cache/Cache_Data/index-dir
+ 27266287      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage
+ 27266288      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext
+ 27266289      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+ 27266290      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+ 27266294      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code\ Cache
+ 27266295      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code\ Cache/js
+ 27266297      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code\ Cache/js/index-dir
+ 27266300      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code\ Cache/wasm
+ 27266302      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code\ Cache/wasm/index-dir
+ 27266291      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache
+ 27266293      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/No_Vary_Search
+ 27266292      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/Cache_Data
+ 27268860      4 drwxr-xr-x   7 denixx   denixx       4096 кві 12 00:19 toNewer_26.04_2/cursor_ide
+ 27268864      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:06 toNewer_26.04_2/cursor_ide/project_2
+ 27268875      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:23 toNewer_26.04_2/cursor_ide/project_3
+ 27268874      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:45 toNewer_26.04_2/cursor_ide/project_6
+ 27268862      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:38 toNewer_26.04_2/cursor_ide/project_1
+ 27268884      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 22:54 toNewer_26.04_2/cursor_ide/project_4
+ 27268887      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:47 toNewer_26.04_2/cursor_ide/project_4/css
+ 27268802      4 drwxr-xr-x   2 denixx   denixx       4096 кві 23 20:29 toNewer_26.04_2/gpu-goodboot27-u2604
+ 27266304      4 drwxrwxr-x   4 denixx   denixx       4096 кві 24 21:25 toNewer_26.04_2/.config
+ 27266305      4 drwxr-xr-x  23 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor
+ 27266926      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/CachedProfilesData
+ 27266927      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/CachedProfilesData/__default__profile__
+ 27266811      4 drwxr-xr-x   6 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/User
+ 27266812      4 drwxr-xr-x   4 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/User/globalStorage
+ 27266863      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-mcp
+ 27266864      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-mcp/mcp-oauth-attempts
+ 27266816      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:39 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits
+ 27266817      4 drwxr-xr-x   5 denixx   denixx       4096 кві 11 23:05 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints
+ 27266830      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 23:05 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/deaf010f-4ec2-4f88-8afe-0ee7a5410038
+ 27266831      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:05 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/deaf010f-4ec2-4f88-8afe-0ee7a5410038/files
+ 27266840      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:05 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/deaf010f-4ec2-4f88-8afe-0ee7a5410038/diffs
+ 27266850      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 22:54 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/648e4eca-f3ff-4ab1-a84d-64a616e3f589
+ 27266851      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:54 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/648e4eca-f3ff-4ab1-a84d-64a616e3f589/files
+ 27266852      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:54 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/648e4eca-f3ff-4ab1-a84d-64a616e3f589/diffs
+ 27266818      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 22:23 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/537266f9-8837-4039-b3e3-97dc4f21af47
+ 27266819      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:23 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/537266f9-8837-4039-b3e3-97dc4f21af47/files
+ 27266820      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:23 toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/537266f9-8837-4039-b3e3-97dc4f21af47/diffs
+ 27266898      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/User/snippets
+ 27266873      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/User/History
+ 27266874      4 drwxr-xr-x   2 denixx   denixx       4096 кві 11 23:46 toNewer_26.04_2/.config/Cursor/User/History/6655d318
+ 27266882      4 drwxr-xr-x   4 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/User/workspaceStorage
+ 27266883      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/User/workspaceStorage/07c884efa366944901257e3d076451f1
+ 27266886      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:31 toNewer_26.04_2/.config/Cursor/User/workspaceStorage/07c884efa366944901257e3d076451f1/anysphere.cursor-retrieval
+ 27266890      4 drwxr-xr-x   3 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/User/workspaceStorage/e0b1abfc5db508a602324a8819fc08fd
+ 27266891      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/User/workspaceStorage/e0b1abfc5db508a602324a8819fc08fd/anysphere.cursor-retrieval
+ 27266314      4 drwxr-xr-x   3 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/sentry
+ 27266316      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/sentry/queue
+ 27266363      4 drwxr-xr-x   4 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/CachedData
+ 27266389      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50
+ 27266390      4 drwx------   4 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome
+ 27266391      4 drwx------   3 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/js
+ 27266398      4 drwx------   2 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/js/index-dir
+ 27266409      4 drwx------   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/wasm
+ 27266411      4 drwx------   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/wasm/index-dir
+ 27266364      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060
+ 27266365      4 drwxr-xr-x   4 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome
+ 27266366      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/js
+ 27266368      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/js/index-dir
+ 27266385      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/wasm
+ 27266387      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/wasm/index-dir
+ 27266350      4 drwxr-xr-x   4 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Code\ Cache
+ 27266351      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Code\ Cache/js
+ 27266353      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Code\ Cache/js/index-dir
+ 27266355      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Code\ Cache/wasm
+ 27266357      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Code\ Cache/wasm/index-dir
+ 27266907      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/GPUCache
+ 27266343      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Shared\ Dictionary
+ 27266344      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Shared\ Dictionary/cache
+ 27266346      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Shared\ Dictionary/cache/index-dir
+ 27266326      4 drwxr-xr-x   4 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Cache
+ 27266340      4 drwxr-xr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/Cache/No_Vary_Search
+ 27266327      4 drwxr-xr-x   3 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/Cache/Cache_Data
+ 27266332      4 drwxr-xr-x   2 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/Cache/Cache_Data/index-dir
+ 27266306      4 drwxr-xr-x   6 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Crashpad
+ 27266308      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Crashpad/pending
+ 27266307      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Crashpad/new
+ 27266309      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Crashpad/completed
+ 27266310      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Crashpad/attachments
+ 27266998      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions
+ 27266999      4 drwx------  11 denixx   denixx       4096 кві 12 00:13 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser
+ 27267023      4 drwx------   4 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code\ Cache
+ 27267024      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code\ Cache/js
+ 27267026      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code\ Cache/js/index-dir
+ 27267028      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code\ Cache/wasm
+ 27267030      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code\ Cache/wasm/index-dir
+ 27267042      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/GPUCache
+ 27267032      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Shared\ Dictionary
+ 27267033      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Shared\ Dictionary/cache
+ 27267035      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Shared\ Dictionary/cache/index-dir
+ 27267011      4 drwx------   4 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache
+ 27267020      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache/No_Vary_Search
+ 27267012      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache/Cache_Data
+ 27267014      4 drwx------   2 denixx   denixx       4096 кві 11 22:01 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache/Cache_Data/index-dir
+ 27267002      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/blob_storage
+ 27267003      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/blob_storage/21eade45-5c51-4f23-829b-7ed886ce748b
+ 27267060      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Session\ Storage
+ 27267004      4 drwx------   3 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Local\ Storage
+ 27267005      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Local\ Storage/leveldb
+ 27267048      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/DawnWebGPUCache
+ 27267054      4 drwx------   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/DawnGraphiteCache
+ 27266992      4 drwxr-xr-x   2 denixx   denixx       4096 кві 11 22:04 toNewer_26.04_2/.config/Cursor/process-monitor
+ 27266361      4 drwxr-xr-x   3 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/blob_storage
+ 27266362      4 drwx------   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/blob_storage/63ac4bad-1487-4866-8990-88beaeae6928
+ 27266899      4 drwxr-xr-x   2 denixx   denixx       4096 кві 12 00:15 toNewer_26.04_2/.config/Cursor/Session\ Storage
+ 27266416      4 drwxr-xr-x  11 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs
+ 27266683      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 22:16 toNewer_26.04_2/.config/Cursor/logs/20260411T225925
+ 27266684      4 drwxrwxr-x   5 denixx   denixx       4096 кві 12 00:13 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1
+ 27266701      4 drwxrwxr-x  14 denixx   denixx       4096 кві 11 22:21 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost
+ 27266707      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.json-language-features
+ 27266742      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:21 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.css-language-features
+ 27266724      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-socket
+ 27266702      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:00 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/output_logging_20260411T225944
+ 27266734      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-mcp
+ 27266740      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-commits
+ 27266730      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-agent-exec
+ 27266726      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-always-local
+ 27266719      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-retrieval
+ 27266715      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.git
+ 27266717      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.github
+ 27266711      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/output_logging_20260411T225930
+ 27266693      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/output_20260411T225928
+ 27266686      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/output_20260411T225941
+ 27266472      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948
+ 27266474      4 drwxr-xr-x   6 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1
+ 27266487      4 drwxr-xr-x  17 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost
+ 27266524      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.json-language-features
+ 27266530      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:04 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.css-language-features
+ 27266511      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-socket
+ 27266502      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T162952
+ 27266535      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T172141
+ 27266488      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:38 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T163121
+ 27266506      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-mcp
+ 27266513      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-commits
+ 27266499      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-agent-exec
+ 27266515      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-always-local
+ 27266526      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T172201
+ 27266519      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-retrieval
+ 27266495      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.git
+ 27266532      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/webWorker
+ 27266497      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.github
+ 27266544      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/output_20260313T172200
+ 27266482      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/output_20260313T162951
+ 27266540      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:31 toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/output_20260313T163120
+ 27266556      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626
+ 27266557      4 drwxrwxr-x   5 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1
+ 27266558      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/output_20260411T172642
+ 27266573      4 drwxrwxr-x  12 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost
+ 27266597      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-socket
+ 27266574      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/output_logging_20260411T172642
+ 27266603      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-mcp
+ 27266580      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/output_logging_20260411T172630
+ 27266608      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-commits
+ 27266593      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-agent-exec
+ 27266599      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-always-local
+ 27266588      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-retrieval
+ 27266584      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/vscode.git
+ 27266586      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/vscode.github
+ 27266565      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/output_20260411T172629
+ 27266471      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:53 toNewer_26.04_2/.config/Cursor/logs/20260312T225353
+ 27266417      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:53 toNewer_26.04_2/.config/Cursor/logs/20260312T225310
+ 27266418      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856
+ 27266420      4 drwxr-xr-x   4 denixx   denixx       4096 бер 12 21:55 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1
+ 27266427      4 drwxr-xr-x  10 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost
+ 27266451      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-socket
+ 27266442      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/output_logging_20260312T224900
+ 27266446      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:53 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-mcp
+ 27266439      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-agent-exec
+ 27266453      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-always-local
+ 27266434      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-retrieval
+ 27266430      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/vscode.git
+ 27266432      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/vscode.github
+ 27266457      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/output_20260312T224859
+ 27266619      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253
+ 27266620      4 drwxrwxr-x   5 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1
+ 27266626      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/output_20260411T182256
+ 27266630      4 drwxrwxr-x  12 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost
+ 27266653      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-socket
+ 27266635      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-mcp
+ 27266640      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-commits
+ 27266631      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/output_logging_20260411T182358
+ 27266659      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-agent-exec
+ 27266649      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/output_logging_20260411T182259
+ 27266655      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-always-local
+ 27266644      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-retrieval
+ 27266663      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/vscode.git
+ 27266665      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:22 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/vscode.github
+ 27266621      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/output_20260411T182357
+ 27266753      4 drwxrwxr-x   3 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449
+ 27266754      4 drwxrwxr-x   4 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1
+ 27266765      4 drwxrwxr-x  12 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost
+ 27266796      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/vscode.css-language-features
+ 27266785      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-socket
+ 27266770      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-mcp
+ 27266776      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-commits
+ 27266766      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-agent-exec
+ 27266787      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-always-local
+ 27266780      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-retrieval
+ 27266791      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/output_logging_20260412T011454
+ 27266798      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/vscode.git
+ 27266800      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/vscode.github
+ 27266758      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/output_20260412T011452
+ 27266682      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:16 toNewer_26.04_2/.config/Cursor/logs/20260411T231631
+ 27266415      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Backups
+ 27266318      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Local\ Storage
+ 27266319      4 drwxr-xr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/Local\ Storage/leveldb
+ 27266997      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:21 toNewer_26.04_2/.config/Cursor/Workspaces
+ 27266913      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/DawnWebGPUCache
+ 27266919      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/DawnGraphiteCache
+ 27266359      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.config/Cursor/Dictionaries
+ 27266933      4 drwxr-xr-x   4 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots
+ 27266948      4 drwxr-xr-x   7 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/snapshots/codebases
+ 27266953      4 drwxr-xr-x   5 denixx   denixx       4096 бер 13 16:12 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603
+ 27266955      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:34 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/objects
+ 27266956      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:12 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/objects/pack
+ 27266966      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:17 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/staging
+ 27266961      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:34 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/refs
+ 27266962      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:34 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/refs/cursor
+ 27266963      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:17 toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/refs/cursor/snapshots
+ 27266983      4 drwxr-xr-x   4 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.config/Cursor/snapshots/codebases/9d546a8a-8ee1-436a-af34-2f65192293e4
+ 27266984      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/snapshots/codebases/9d546a8a-8ee1-436a-af34-2f65192293e4/objects
+ 27266985      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.config/Cursor/snapshots/codebases/9d546a8a-8ee1-436a-af34-2f65192293e4/refs
+ 27266949      4 drwxr-xr-x   4 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.config/Cursor/snapshots/codebases/c4e3aad8-c916-4a3e-91a2-394c3789e9ad
+ 27266950      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots/codebases/c4e3aad8-c916-4a3e-91a2-394c3789e9ad/objects
+ 27266951      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots/codebases/c4e3aad8-c916-4a3e-91a2-394c3789e9ad/refs
+ 27266987      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.config/Cursor/snapshots/codebases/ef0561a5-b03f-40f7-9256-0f6cdb2f18c8
+ 27266988      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/snapshots/codebases/ef0561a5-b03f-40f7-9256-0f6cdb2f18c8/objects
+ 27266989      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.config/Cursor/snapshots/codebases/ef0561a5-b03f-40f7-9256-0f6cdb2f18c8/refs
+ 27266967      4 drwxr-xr-x   5 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a
+ 27266968      4 drwxr-xr-x   3 denixx   denixx       4096 кві 11 22:15 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/objects
+ 27266969      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:06 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/objects/pack
+ 27266981      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:10 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/staging
+ 27266976      4 drwxr-xr-x   3 denixx   denixx       4096 кві 11 22:15 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/refs
+ 27266977      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 22:15 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/refs/cursor
+ 27266978      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:10 toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/refs/cursor/snapshots
+ 27266934      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots/roots
+ 27266935      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20
+ 27266936      4 drwxr-xr-x   4 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20/objects
+ 27266937      4 drwxr-xr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20/objects/pack
+ 27266942      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20/objects/info
+ 27267071      4 drwx------  37 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome
+ 27268172      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/ActorSafetyLists
+ 27268173      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/ActorSafetyLists/8.6294.2057
+ 27268174      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/ActorSafetyLists/8.6294.2057/_metadata
+ 27268224      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/WasmTtsEngine
+ 27268225      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/WasmTtsEngine/20260407.1
+ 27268226      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/WasmTtsEngine/20260407.1/_metadata
+ 27268055      4 drwx------   2 denixx   denixx       4096 кві 11 23:55 toNewer_26.04_2/.config/google-chrome/Safe\ Browsing
+ 27268080      4 drwx------   4 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter
+ 27268081      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter/Unindexed\ Rules
+ 27268082      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter/Unindexed\ Rules/9.66.0
+ 27268083      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter/Unindexed\ Rules/9.66.0/_metadata
+ 27268088      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter/Indexed\ Rules
+ 27268089      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter/Indexed\ Rules/37
+ 27268090      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Subresource\ Filter/Indexed\ Rules/37/9.66.0
+ 27268108      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/PrivacySandboxAttestationsPreloaded
+ 27267114      4 drwx------  43 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default
+ 27267342      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/BudgetDatabase
+ 27267241      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/WebStorage
+ 27267984      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Local\ Extension\ Settings
+ 27267985      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Local\ Extension\ Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+ 27268005      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Sessions
+ 27267313      4 drwx------   3 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/GCM\ Store
+ 27267319      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/GCM\ Store/Encryption
+ 27267218      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extension\ Scripts
+ 27267177      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Segmentation\ Platform
+ 27267182      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Segmentation\ Platform/SignalDB
+ 27267186      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Segmentation\ Platform/SignalStorageConfigDB
+ 27267178      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Segmentation\ Platform/SegmentInfoDB
+ 27267209      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extension\ Rules
+ 27267144      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/ClientCertificates
+ 27267355      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications
+ 27267356      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Temp
+ 27267357      4 drwx------   9 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources
+ 27267438      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml
+ 27267439      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Icons
+ 27267447      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Icons\ Monochrome
+ 27267449      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted\ Icons
+ 27267450      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted\ Icons/Icons
+ 27267452      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted\ Icons/Icons\ Monochrome
+ 27267453      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted\ Icons/Icons\ Maskable
+ 27267448      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/agimnkijcaahngcdmfeangaknmldooml/Icons\ Maskable
+ 27267374      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb
+ 27267375      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons
+ 27267383      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons\ Monochrome
+ 27267385      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted\ Icons
+ 27267386      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted\ Icons/Icons
+ 27267388      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted\ Icons/Icons\ Monochrome
+ 27267389      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted\ Icons/Icons\ Maskable
+ 27267384      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons\ Maskable
+ 27267358      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm
+ 27267359      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons
+ 27267367      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons\ Monochrome
+ 27267369      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted\ Icons
+ 27267370      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted\ Icons/Icons
+ 27267372      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted\ Icons/Icons\ Monochrome
+ 27267373      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted\ Icons/Icons\ Maskable
+ 27267368      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons\ Maskable
+ 27267406      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf
+ 27267407      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons
+ 27267415      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons\ Monochrome
+ 27267417      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted\ Icons
+ 27267418      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted\ Icons/Icons
+ 27267420      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted\ Icons/Icons\ Monochrome
+ 27267421      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted\ Icons/Icons\ Maskable
+ 27267416      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons\ Maskable
+ 27267390      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak
+ 27267391      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Icons
+ 27267399      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Icons\ Monochrome
+ 27267401      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Trusted\ Icons
+ 27267402      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Trusted\ Icons/Icons
+ 27267404      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Trusted\ Icons/Icons\ Monochrome
+ 27267405      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Trusted\ Icons/Icons\ Maskable
+ 27267400      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/aghbiahbpaijignceidepookljebhfak/Icons\ Maskable
+ 27267454      4 drwx------   6 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi
+ 27267467      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Icons
+ 27267476      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Icons\ Monochrome
+ 27267455      4 drwx------   5 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted\ Icons
+ 27267456      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted\ Icons/Icons
+ 27267465      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted\ Icons/Icons\ Monochrome
+ 27267466      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted\ Icons/Icons\ Maskable
+ 27267477      4 drwx------   2 denixx   denixx       4096 кві 11 16:30 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Icons\ Maskable
+ 27267422      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag
+ 27267423      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Icons
+ 27267431      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Icons\ Monochrome
+ 27267433      4 drwx------   5 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Trusted\ Icons
+ 27267434      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Trusted\ Icons/Icons
+ 27267436      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Trusted\ Icons/Icons\ Monochrome
+ 27267437      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Trusted\ Icons/Icons\ Maskable
+ 27267432      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Web\ Applications/Manifest\ Resources/kefjledonklijopmnomlcbpllchaibag/Icons\ Maskable
+ 27267247      4 drwx------   2 denixx   denixx       4096 кві 11 22:01 toNewer_26.04_2/.config/google-chrome/Default/GPUCache
+ 27267121      4 drwx------   3 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Sync\ Data
+ 27267122      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Sync\ Data/LevelDB
+ 27267149      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Site\ Characteristics\ Database
+ 27267485      4 drwx------   5 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions
+ 27267937      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/Temp
+ 27267486      4 drwx------   4 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+ 27267487      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0
+ 27267494      4 drwx------  83 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales
+ 27267501      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ne
+ 27267503      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/am
+ 27267591      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ca
+ 27267617      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/mr
+ 27267609      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ja
+ 27267557      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/iw
+ 27267575      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en_US
+ 27267635      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/it
+ 27267589      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en
+ 27267621      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hr
+ 27267655      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/es_419
+ 27267531      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ka
+ 27267499      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/az
+ 27267539      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/or
+ 27267597      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/et
+ 27267543      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/bg
+ 27267505      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/gl
+ 27267641      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/af
+ 27267603      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ko
+ 27267507      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/km
+ 27267579      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/no
+ 27267565      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en_CA
+ 27267619      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/as
+ 27267495      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/uk
+ 27267651      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zh_HK
+ 27267595      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ur
+ 27267515      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ta
+ 27267527      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/kk
+ 27267573      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pt_BR
+ 27267613      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ro
+ 27267553      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/de
+ 27267585      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/vi
+ 27267587      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zu
+ 27267537      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/id
+ 27267633      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fi
+ 27267583      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sk
+ 27267639      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zh_TW
+ 27267643      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sq
+ 27267577      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/be
+ 27267517      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/lv
+ 27267649      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/uz
+ 27267631      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sw
+ 27267623      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sl
+ 27267563      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/si
+ 27267523      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/es
+ 27267571      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/eu
+ 27267555      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/el
+ 27267637      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pa
+ 27267611      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pt_PT
+ 27267509      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ru
+ 27267549      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ml
+ 27267593      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fr_CA
+ 27267541      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ms
+ 27267653      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/cy
+ 27267497      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/lo
+ 27267567      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hy
+ 27267551      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/da
+ 27267615      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/lt
+ 27267605      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/th
+ 27267533      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fa
+ 27267581      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pl
+ 27267607      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/nl
+ 27267625      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ar
+ 27267647      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/is
+ 27267559      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sv
+ 27267569      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/te
+ 27267599      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/gu
+ 27267511      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/cs
+ 27267545      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/my
+ 27267521      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zh_CN
+ 27267529      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fil
+ 27267629      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fr
+ 27267525      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sr
+ 27267627      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/kn
+ 27267519      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en_GB
+ 27267601      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/tr
+ 27267645      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/mn
+ 27267561      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hu
+ 27267547      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hi
+ 27267513      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/bn
+ 27267535      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/mk
+ 27267489      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_metadata
+ 27267661      4 drwx------   4 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0
+ 27267668      4 drwx------  83 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales
+ 27267757      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ne
+ 27267703      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/am
+ 27267693      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ca
+ 27267761      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/mr
+ 27267685      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ja
+ 27267825      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/iw
+ 27267689      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en_US
+ 27267731      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/it
+ 27267709      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en
+ 27267829      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hr
+ 27267809      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/es_419
+ 27267773      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ka
+ 27267725      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/az
+ 27267683      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/or
+ 27267737      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/et
+ 27267819      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/bg
+ 27267821      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/gl
+ 27267669      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/af
+ 27267733      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ko
+ 27267681      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/km
+ 27267785      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/no
+ 27267739      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en_CA
+ 27267743      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/as
+ 27267747      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/uk
+ 27267675      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zh_HK
+ 27267719      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ur
+ 27267677      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ta
+ 27267713      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/kk
+ 27267745      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pt_BR
+ 27267755      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ro
+ 27267691      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/de
+ 27267741      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/vi
+ 27267789      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zu
+ 27267769      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/id
+ 27267749      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fi
+ 27267799      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sk
+ 27267817      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zh_TW
+ 27267805      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sq
+ 27267787      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/be
+ 27267753      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/lv
+ 27267759      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/uz
+ 27267763      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sw
+ 27267701      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sl
+ 27267777      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/si
+ 27267721      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/es
+ 27267807      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/eu
+ 27267783      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/el
+ 27267717      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pa
+ 27267781      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pt_PT
+ 27267771      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ru
+ 27267723      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ml
+ 27267687      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fr_CA
+ 27267815      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ms
+ 27267707      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/cy
+ 27267801      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/lo
+ 27267671      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hy
+ 27267797      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/da
+ 27267715      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/lt
+ 27267729      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/th
+ 27267791      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fa
+ 27267727      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pl
+ 27267765      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/nl
+ 27267775      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ar
+ 27267795      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/is
+ 27267705      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sv
+ 27267813      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/te
+ 27267811      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/gu
+ 27267767      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/cs
+ 27267827      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/my
+ 27267695      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zh_CN
+ 27267793      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fil
+ 27267673      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fr
+ 27267699      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sr
+ 27267697      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/kn
+ 27267751      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en_GB
+ 27267711      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/tr
+ 27267679      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/mn
+ 27267779      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hu
+ 27267803      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hi
+ 27267823      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/bn
+ 27267735      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/mk
+ 27267663      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_metadata
+ 27267835      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda
+ 27267836      4 drwx------   7 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0
+ 27267851      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/css
+ 27267840      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/images
+ 27267855      4 drwx------  42 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales
+ 27267932      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ca
+ 27267896      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ja
+ 27267898      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/it
+ 27267922      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/en
+ 27267904      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/hr
+ 27267916      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/es_419
+ 27267914      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/et
+ 27267934      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/bg
+ 27267894      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ko
+ 27267862      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/uk
+ 27267882      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/pt_BR
+ 27267878      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ro
+ 27267926      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/de
+ 27267860      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/vi
+ 27267900      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/id
+ 27267912      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/fi
+ 27267874      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sk
+ 27267856      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/zh_TW
+ 27267890      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/lv
+ 27267872      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sl
+ 27267918      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/es
+ 27267924      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/el
+ 27267880      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/pt_PT
+ 27267876      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ru
+ 27267888      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/nb
+ 27267928      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/da
+ 27267892      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/lt
+ 27267866      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/th
+ 27267884      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/pl
+ 27267886      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/nl
+ 27267868      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sv
+ 27267930      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/cs
+ 27267858      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/zh_CN
+ 27267910      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/fil
+ 27267908      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/fr
+ 27267870      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sr
+ 27267920      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/en_GB
+ 27267864      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/tr
+ 27267902      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/hu
+ 27267906      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/hi
+ 27267849      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/html
+ 27267837      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_metadata
+ 27267136      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Shared\ Dictionary
+ 27267137      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Shared\ Dictionary/cache
+ 27267139      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Shared\ Dictionary/cache/index-dir
+ 27267271      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Service\ Worker
+ 27267272      4 drwx------   3 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Service\ Worker/ScriptCache
+ 27267274      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/Default/Service\ Worker/ScriptCache/index-dir
+ 27267281      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Service\ Worker/Database
+ 27267205      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/PersistentOriginTrials
+ 27267331      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/AutofillAiModelCache
+ 27267992      4 drwx------   4 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Default/Download\ Service
+ 27267993      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Default/Download\ Service/Files
+ 27267994      4 drwx------   2 denixx   denixx       4096 кві 11 21:53 toNewer_26.04_2/.config/google-chrome/Default/Download\ Service/EntryDB
+ 27268043      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Platform\ Notifications
+ 27267169      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/chrome_cart_db
+ 27267295      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Extension\ State
+ 27267307      4 drwx------   2 denixx   denixx       4096 кві 11 21:53 toNewer_26.04_2/.config/google-chrome/Default/DataSharing
+ 27267327      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/optimization_guide_hint_cache_store
+ 27267118      4 drwx------   3 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/blob_storage
+ 27267119      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/blob_storage/e8edb567-6ff9-45b0-8bbc-a755080c6aae
+ 27267157      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/discounts_db
+ 27267478      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Session\ Storage
+ 27267346      4 drwx------   4 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Feature\ Engagement\ Tracker
+ 27267347      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Feature\ Engagement\ Tracker/AvailabilityDB
+ 27267351      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Feature\ Engagement\ Tracker/EventDB
+ 27267165      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/discount_infos_db
+ 27267173      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/parcel_tracking_db
+ 27268019      4 drwx------   4 denixx   denixx       4096 кві 11 23:58 toNewer_26.04_2/.config/google-chrome/Default/IndexedDB
+ 27268020      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb
+ 27268029      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/IndexedDB/https_cursor.com_0.indexeddb.leveldb
+ 27267190      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Local\ Storage
+ 27267191      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/Local\ Storage/leveldb
+ 27267335      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/AutofillStrikeDatabase
+ 27267259      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/DawnWebGPUCache
+ 27267161      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/commerce_subscription_db
+ 27267265      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/DawnGraphiteCache
+ 27267938      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage
+ 27267939      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext
+ 27267940      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+ 27267941      4 drwx------   8 denixx   denixx       4096 кві 11 17:25 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+ 27267962      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache
+ 27267955      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Shared\ Dictionary
+ 27267956      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Shared\ Dictionary/cache
+ 27267958      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Shared\ Dictionary/cache/index-dir
+ 27267942      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session\ Storage
+ 27267948      4 drwx------   3 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local\ Storage
+ 27267949      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local\ Storage/leveldb
+ 27267968      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/DawnWebGPUCache
+ 27267974      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/DawnGraphiteCache
+ 27268010      4 drwx------   3 denixx   denixx       4096 кві 11 17:20 toNewer_26.04_2/.config/google-chrome/Default/Accounts
+ 27268011      4 drwx------   2 denixx   denixx       4096 кві 11 17:20 toNewer_26.04_2/.config/google-chrome/Default/Accounts/Avatar\ Images
+ 27268015      4 drwx------   2 denixx   denixx       4096 кві 11 23:45 toNewer_26.04_2/.config/google-chrome/Default/VideoDecodeStats
+ 27267225      4 drwx------   3 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/shared_proto_db
+ 27267226      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/Default/shared_proto_db/metadata
+ 27268037      4 drwx------   2 denixx   denixx       4096 кві 11 21:53 toNewer_26.04_2/.config/google-chrome/Default/Collaboration
+ 27268297      4 drwx------  10 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store
+ 27268298      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/25
+ 27268299      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/25/6F07B761A2DB9435
+ 27268300      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/25/6F07B761A2DB9435/F5D540B468181C73
+ 27268331      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/45
+ 27268332      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/45/6F07B761A2DB9435
+ 27268333      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/45/6F07B761A2DB9435/F7DC71088A6A9C6F
+ 27268309      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/2
+ 27268310      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/2/6F07B761A2DB9435
+ 27268311      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/2/6F07B761A2DB9435/11DAA0547CC81B2A
+ 27268319      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/15
+ 27268320      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/15/6F07B761A2DB9435
+ 27268321      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/15/6F07B761A2DB9435/D7F299A9C3DA85B4
+ 27268336      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/43
+ 27268337      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/43/6F07B761A2DB9435
+ 27268338      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/43/6F07B761A2DB9435/F94358552F7A242B
+ 27268304      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/9
+ 27268305      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/9/6F07B761A2DB9435
+ 27268306      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/9/6F07B761A2DB9435/676886A309B41577
+ 27268314      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/20
+ 27268315      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/20/6F07B761A2DB9435
+ 27268316      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/20/6F07B761A2DB9435/285A8B223DA63AC7
+ 27268326      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/26
+ 27268327      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/26/6F07B761A2DB9435
+ 27268328      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/26/6F07B761A2DB9435/C43A3F840C6E3AFF
+ 27268093      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/WidevineCdm
+ 27268095      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/TrustTokenKeyCommitments
+ 27268096      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/TrustTokenKeyCommitments/2026.3.23.1
+ 27268097      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/TrustTokenKeyCommitments/2026.3.23.1/_metadata
+ 27267084      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/NativeMessagingHosts
+ 27268342      4 drwx------   2 denixx   denixx       4096 кві 11 23:54 toNewer_26.04_2/.config/google-chrome/DeferredBrowserMetrics
+ 27267111      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/segmentation_platform
+ 27268102      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/OptimizationHints
+ 27268103      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/OptimizationHints/654
+ 27268104      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/OptimizationHints/654/_metadata
+ 27268281      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/GraphiteDawnCache
+ 27268243      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/ZxcvbnData
+ 27268244      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/ZxcvbnData/3
+ 27268245      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/ZxcvbnData/3/_metadata
+ 27267077      4 drwx------   6 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Crash\ Reports
+ 27267079      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Crash\ Reports/pending
+ 27267078      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Crash\ Reports/new
+ 27267080      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Crash\ Reports/completed
+ 27267081      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Crash\ Reports/attachments
+ 27268255      4 drwx------   2 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/extensions_crx_cache
+ 27268186      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/AmountExtractionHeuristicRegexes
+ 27268187      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/AmountExtractionHeuristicRegexes/4
+ 27268188      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/AmountExtractionHeuristicRegexes/4/_metadata
+ 27268178      4 drwx------   3 denixx   denixx       4096 кві 14 20:29 toNewer_26.04_2/.config/google-chrome/CertificateRevocation
+ 27268179      4 drwx------   3 denixx   denixx       4096 кві 11 21:54 toNewer_26.04_2/.config/google-chrome/CertificateRevocation/10458
+ 27268180      4 drwx------   2 denixx   denixx       4096 кві 11 21:54 toNewer_26.04_2/.config/google-chrome/CertificateRevocation/10458/_metadata
+ 27268109      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/FileTypePolicies
+ 27268110      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/FileTypePolicies/145.0.7584.0
+ 27268111      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/FileTypePolicies/145.0.7584.0/_metadata
+ 27268212      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/SafetyTips
+ 27268213      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/SafetyTips/3091
+ 27268214      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/SafetyTips/3091/_metadata
+ 27268115      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/hyphen-data
+ 27268116      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/hyphen-data/120.0.6050.0
+ 27268117      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/hyphen-data/120.0.6050.0/_metadata
+ 27268204      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/PKIMetadata
+ 27268205      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/PKIMetadata/1634
+ 27268206      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/PKIMetadata/1634/_metadata
+ 27268198      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/MEIPreload
+ 27268199      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/MEIPreload/1.1.0.3
+ 27268200      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/MEIPreload/1.1.0.3/_metadata
+ 27268218      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Crowd\ Deny
+ 27268219      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Crowd\ Deny/2026.4.9.61
+ 27268220      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/Crowd\ Deny/2026.4.9.61/_metadata
+ 27267073      4 drwx------   2 denixx   denixx       4096 кві 23 19:46 toNewer_26.04_2/.config/google-chrome/BrowserMetrics
+ 27268288      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/FirstPartySetsPreloaded
+ 27268289      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/FirstPartySetsPreloaded/2025.7.24.0
+ 27268290      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/FirstPartySetsPreloaded/2025.7.24.0/_metadata
+ 27268237      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/CaptchaProviders
+ 27268238      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/CaptchaProviders/8.5419.4434
+ 27268239      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/CaptchaProviders/8.5419.4434/_metadata
+ 27268258      4 drwx------   2 denixx   denixx       4096 кві 12 00:10 toNewer_26.04_2/.config/google-chrome/GrShaderCache
+ 27268192      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/SSLErrorAssistant
+ 27268193      4 drwx------   3 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/SSLErrorAssistant/7
+ 27268194      4 drwx------   2 denixx   denixx       4096 кві 11 16:29 toNewer_26.04_2/.config/google-chrome/SSLErrorAssistant/7/_metadata
+ 27268185      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/OriginTrials
+ 27268092      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/OnDeviceHeadSuggestModel
+ 27267104      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/ShaderCache
+ 27267085      4 drwx------   2 denixx   denixx       4096 кві 11 21:54 toNewer_26.04_2/.config/google-chrome/component_crx_cache
+ 27268053      4 drwx------   2 denixx   denixx       4096 кві 11 16:28 toNewer_26.04_2/.config/google-chrome/Dictionaries
+ 27268797      4 drwx------   2 denixx   denixx       4096 бер 28 19:03 toNewer_26.04_2/.ssh
+ 27268896      4 drwxrwxr-x   3 denixx   denixx       4096 кві 14 21:37 toNewer_26.04_2/new_dmcub_1
+ 27268898      4 drwxrwxr-x   2 denixx   denixx       4096 кві 14 21:22 toNewer_26.04_2/new_dmcub_1/gpu-goodboot24-u2604
+ 27268831      4 drwxr-xr-x   2 denixx   denixx       4096 кві 23 20:25 toNewer_26.04_2/gpu-goodboot26-u2604
+ 27268344      4 drwxr-xr-x   7 denixx   denixx       4096 кві 11 22:01 toNewer_26.04_2/.cursor
+ 27268347      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:48 toNewer_26.04_2/.cursor/extensions
+ 27268349      4 drwxr-xr-x   2 denixx   denixx       4096 кві 11 23:41 toNewer_26.04_2/.cursor/ai-tracking
+ 27268638      4 drwxr-xr-x  10 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.cursor/projects
+ 27268702      4 drwxr-xr-x   5 denixx   denixx       4096 бер 13 15:39 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1
+ 27268709      4 drwxr-xr-x   4 denixx   denixx       4096 бер 13 16:02 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/agent-transcripts
+ 27268712      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:02 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/agent-transcripts/9fefb1f7-0060-4b3f-8ca1-ca97732a0312
+ 27268710      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:34 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/agent-transcripts/ba056ae6-b1b4-4508-9dce-61573da3b1d7
+ 27268714      4 drwxr-xr-x   4 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps
+ 27268720      4 drwxrwxr-x   5 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma
+ 27268769      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma/prompts
+ 27268739      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma/resources
+ 27268721      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma/tools
+ 27268715      4 drwxrwxr-x   3 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/plugin-figma-figma
+ 27268716      4 drwxrwxr-x   2 denixx   denixx       4096 кві 12 00:14 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/plugin-figma-figma/tools
+ 27268703      4 drwxr-xr-x   2 denixx   denixx       4096 кві 11 23:35 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/terminals
+ 27268639      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 22:16 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace
+ 27268641      4 drwxrwxr-x   6 denixx   denixx       4096 кві 11 23:48 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts
+ 27268648      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:48 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/bc20d75c-df4e-4297-9b03-f3bb53cc41f4
+ 27268644      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:17 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/815e6dba-ffbb-4238-9820-799519622974
+ 27268646      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:16 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/9084edd7-3c34-4431-971d-c5fae8bc8bc4
+ 27268642      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 22:45 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/8c697ca3-8c27-4423-bb14-76b737e6c966
+ 27268640      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:27 toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/terminals
+ 27268789      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd
+ 27268790      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd/mcps
+ 27268791      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd/mcps/user-Figma
+ 27268792      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 21:59 toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd/mcps/user-Figma/tools
+ 27268782      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334
+ 27268783      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334/mcps
+ 27268784      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334/mcps/user-Figma
+ 27268785      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334/mcps/user-Figma/tools
+ 27268775      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 17:23 toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a
+ 27268776      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 17:24 toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a/mcps
+ 27268777      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 17:24 toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a/mcps/user-Figma
+ 27268778      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 17:24 toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a/mcps/user-Figma/tools
+ 27268650      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/projects/tmp-0648f664-ef3a-4a97-bfb5-4abfe0b6fa89
+ 27268651      4 drwxr-xr-x   3 denixx   denixx       4096 бер 12 21:55 toNewer_26.04_2/.cursor/projects/tmp-0648f664-ef3a-4a97-bfb5-4abfe0b6fa89/mcps
+ 27268652      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/projects/tmp-0648f664-ef3a-4a97-bfb5-4abfe0b6fa89/mcps/cursor-ide-browser
+ 27268773      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.cursor/projects/tmp-2a3f055a-f113-4ae4-97ec-ea0ca6d99db6
+ 27268774      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 16:22 toNewer_26.04_2/.cursor/projects/tmp-2a3f055a-f113-4ae4-97ec-ea0ca6d99db6/mcps
+ 27268655      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef
+ 27268656      4 drwxr-xr-x   3 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps
+ 27268657      4 drwxr-xr-x   5 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma
+ 27268698      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma/prompts
+ 27268672      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma/resources
+ 27268658      4 drwxr-xr-x   2 denixx   denixx       4096 бер 13 15:29 toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma/tools
+ 27268373      4 drwxr-xr-x   4 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins
+ 27268375      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache
+ 27268376      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public
+ 27268377      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma
+ 27268378      4 drwxrwxr-x   8 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4
+ 27268456      4 drwxrwxr-x   7 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git
+ 27268464      4 drwxrwxr-x  74 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects
+ 27268527      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/66
+ 27268483      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/bc
+ 27268574      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/8a
+ 27268467      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/64
+ 27268477      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/71
+ 27268598      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/81
+ 27268509      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/dc
+ 27268600      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/1b
+ 27268507      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/63
+ 27268561      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/91
+ 27268583      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/3e
+ 27268525      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/bd
+ 27268515      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/f8
+ 27268473      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/9d
+ 27268563      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/ae
+ 27268469      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4f
+ 27268499      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/2e
+ 27268604      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/55
+ 27268557      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/9a
+ 27268614      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/pack
+ 27268552      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/11
+ 27268493      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/0c
+ 27268548      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/5f
+ 27268559      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/09
+ 27268585      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/d6
+ 27268475      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/0e
+ 27268606      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/7d
+ 27268505      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/98
+ 27268495      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/10
+ 27268511      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/e6
+ 27268579      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/d1
+ 27268581      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/52
+ 27268513      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4e
+ 27268537      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/93
+ 27268465      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4b
+ 27268517      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/c2
+ 27268594      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/1f
+ 27268565      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/bb
+ 27268519      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/20
+ 27268535      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/05
+ 27268485      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/04
+ 27268569      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/f3
+ 27268571      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/c6
+ 27268481      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/62
+ 27268533      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/e3
+ 27268543      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/85
+ 27268479      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/f1
+ 27268545      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/16
+ 27268610      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/96
+ 27268590      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4a
+ 27268602      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/0d
+ 27268471      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/ab
+ 27268577      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/db
+ 27268523      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/21
+ 27268489      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/fa
+ 27268491      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/a0
+ 27268487      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/56
+ 27268592      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/e4
+ 27268567      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/30
+ 27268531      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/eb
+ 27268497      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/40
+ 27268613      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/info
+ 27268550      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/73
+ 27268608      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/88
+ 27268539      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/01
+ 27268529      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/c7
+ 27268555      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/a5
+ 27268503      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/b2
+ 27268521      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/8e
+ 27268541      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/6f
+ 27268587      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/34
+ 27268501      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/37
+ 27268615      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/refs
+ 27268616      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/refs/tags
+ 27268617      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/refs/heads
+ 27268458      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/logs
+ 27268618      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/info
+ 27268621      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/hooks
+ 27268439      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/figma-power
+ 27268440      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/figma-power/steering
+ 27268379      4 drwxrwxr-x   9 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills
+ 27268380      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-use
+ 27268381      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-use/references
+ 27268382      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-use/references/working-with-design-systems
+ 27268428      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-create-new-file
+ 27268426      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-design
+ 27268432      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-code-connect
+ 27268433      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-code-connect/references
+ 27268404      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-implement-design
+ 27268430      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-create-design-system-rules
+ 27268406      4 drwxrwxr-x   4 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-library
+ 27268407      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-library/scripts
+ 27268417      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-library/references
+ 27268452      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.cursor-plugin
+ 27268454      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.claude-plugin
+ 27268449      4 drwxrwxr-x   3 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.github
+ 27268450      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 23:47 toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.github/plugin
+ 27268374      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/plugins/local
+ 27268351      4 drwxr-xr-x  12 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/skills-cursor
+ 27268360      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/skills-cursor/shell
+ 27268356      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/skills-cursor/statusline
+ 27268370      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/skills-cursor/migrate-to-skills
+ 27268366      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/skills-cursor/create-subagent
+ 27268364      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/skills-cursor/update-cursor-settings
+ 27268354      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/skills-cursor/create-hook
+ 27268352      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/skills-cursor/babysit
+ 27268362      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/skills-cursor/create-skill
+ 27268358      4 drwxrwxr-x   2 denixx   denixx       4096 кві 11 16:26 toNewer_26.04_2/.cursor/skills-cursor/update-cli-config
+ 27268368      4 drwxr-xr-x   2 denixx   denixx       4096 бер 12 21:49 toNewer_26.04_2/.cursor/skills-cursor/create-rule

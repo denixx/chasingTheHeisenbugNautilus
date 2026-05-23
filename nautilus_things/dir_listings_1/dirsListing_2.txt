@@ -1,0 +1,872 @@
+toNewer_26.04_2/
+toNewer_26.04_2/old_1_working
+toNewer_26.04_2/.cache
+toNewer_26.04_2/.cache/google-chrome
+toNewer_26.04_2/.cache/google-chrome/Default
+toNewer_26.04_2/.cache/google-chrome/Default/Code Cache
+toNewer_26.04_2/.cache/google-chrome/Default/Code Cache/js
+toNewer_26.04_2/.cache/google-chrome/Default/Code Cache/js/index-dir
+toNewer_26.04_2/.cache/google-chrome/Default/Code Cache/wasm
+toNewer_26.04_2/.cache/google-chrome/Default/Code Cache/wasm/index-dir
+toNewer_26.04_2/.cache/google-chrome/Default/Cache
+toNewer_26.04_2/.cache/google-chrome/Default/Cache/No_Vary_Search
+toNewer_26.04_2/.cache/google-chrome/Default/Cache/Cache_Data
+toNewer_26.04_2/.cache/google-chrome/Default/Cache/Cache_Data/index-dir
+toNewer_26.04_2/.cache/google-chrome/Default/Storage
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/js/index-dir
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Code Cache/wasm/index-dir
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/No_Vary_Search
+toNewer_26.04_2/.cache/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Cache/Cache_Data
+toNewer_26.04_2/cursor_ide
+toNewer_26.04_2/cursor_ide/project_2
+toNewer_26.04_2/cursor_ide/project_3
+toNewer_26.04_2/cursor_ide/project_6
+toNewer_26.04_2/cursor_ide/project_1
+toNewer_26.04_2/cursor_ide/project_4
+toNewer_26.04_2/cursor_ide/project_4/css
+toNewer_26.04_2/gpu-goodboot27-u2604
+toNewer_26.04_2/.config
+toNewer_26.04_2/.config/Cursor
+toNewer_26.04_2/.config/Cursor/CachedProfilesData
+toNewer_26.04_2/.config/Cursor/CachedProfilesData/__default__profile__
+toNewer_26.04_2/.config/Cursor/User
+toNewer_26.04_2/.config/Cursor/User/globalStorage
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-mcp/mcp-oauth-attempts
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/deaf010f-4ec2-4f88-8afe-0ee7a5410038
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/deaf010f-4ec2-4f88-8afe-0ee7a5410038/files
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/deaf010f-4ec2-4f88-8afe-0ee7a5410038/diffs
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/648e4eca-f3ff-4ab1-a84d-64a616e3f589
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/648e4eca-f3ff-4ab1-a84d-64a616e3f589/files
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/648e4eca-f3ff-4ab1-a84d-64a616e3f589/diffs
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/537266f9-8837-4039-b3e3-97dc4f21af47
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/537266f9-8837-4039-b3e3-97dc4f21af47/files
+toNewer_26.04_2/.config/Cursor/User/globalStorage/anysphere.cursor-commits/checkpoints/537266f9-8837-4039-b3e3-97dc4f21af47/diffs
+toNewer_26.04_2/.config/Cursor/User/snippets
+toNewer_26.04_2/.config/Cursor/User/History
+toNewer_26.04_2/.config/Cursor/User/History/6655d318
+toNewer_26.04_2/.config/Cursor/User/workspaceStorage
+toNewer_26.04_2/.config/Cursor/User/workspaceStorage/07c884efa366944901257e3d076451f1
+toNewer_26.04_2/.config/Cursor/User/workspaceStorage/07c884efa366944901257e3d076451f1/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/User/workspaceStorage/e0b1abfc5db508a602324a8819fc08fd
+toNewer_26.04_2/.config/Cursor/User/workspaceStorage/e0b1abfc5db508a602324a8819fc08fd/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/sentry
+toNewer_26.04_2/.config/Cursor/sentry/queue
+toNewer_26.04_2/.config/Cursor/CachedData
+toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50
+toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome
+toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/js
+toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/js/index-dir
+toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/wasm
+toNewer_26.04_2/.config/Cursor/CachedData/475871d112608994deb2e3065dfb7c6b0baa0c50/chrome/wasm/index-dir
+toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060
+toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome
+toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/js
+toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/js/index-dir
+toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/wasm
+toNewer_26.04_2/.config/Cursor/CachedData/224838f96445be37e3db643a163a817c15b36060/chrome/wasm/index-dir
+toNewer_26.04_2/.config/Cursor/Code Cache
+toNewer_26.04_2/.config/Cursor/Code Cache/js
+toNewer_26.04_2/.config/Cursor/Code Cache/js/index-dir
+toNewer_26.04_2/.config/Cursor/Code Cache/wasm
+toNewer_26.04_2/.config/Cursor/Code Cache/wasm/index-dir
+toNewer_26.04_2/.config/Cursor/GPUCache
+toNewer_26.04_2/.config/Cursor/Shared Dictionary
+toNewer_26.04_2/.config/Cursor/Shared Dictionary/cache
+toNewer_26.04_2/.config/Cursor/Shared Dictionary/cache/index-dir
+toNewer_26.04_2/.config/Cursor/Cache
+toNewer_26.04_2/.config/Cursor/Cache/No_Vary_Search
+toNewer_26.04_2/.config/Cursor/Cache/Cache_Data
+toNewer_26.04_2/.config/Cursor/Cache/Cache_Data/index-dir
+toNewer_26.04_2/.config/Cursor/Crashpad
+toNewer_26.04_2/.config/Cursor/Crashpad/pending
+toNewer_26.04_2/.config/Cursor/Crashpad/new
+toNewer_26.04_2/.config/Cursor/Crashpad/completed
+toNewer_26.04_2/.config/Cursor/Crashpad/attachments
+toNewer_26.04_2/.config/Cursor/Partitions
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code Cache
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code Cache/js
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code Cache/js/index-dir
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code Cache/wasm
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Code Cache/wasm/index-dir
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/GPUCache
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Shared Dictionary
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Shared Dictionary/cache
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Shared Dictionary/cache/index-dir
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache/No_Vary_Search
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache/Cache_Data
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Cache/Cache_Data/index-dir
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/blob_storage
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/blob_storage/21eade45-5c51-4f23-829b-7ed886ce748b
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Session Storage
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Local Storage
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/Local Storage/leveldb
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/DawnWebGPUCache
+toNewer_26.04_2/.config/Cursor/Partitions/cursor-browser/DawnGraphiteCache
+toNewer_26.04_2/.config/Cursor/process-monitor
+toNewer_26.04_2/.config/Cursor/blob_storage
+toNewer_26.04_2/.config/Cursor/blob_storage/63ac4bad-1487-4866-8990-88beaeae6928
+toNewer_26.04_2/.config/Cursor/Session Storage
+toNewer_26.04_2/.config/Cursor/logs
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.json-language-features
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.css-language-features
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-socket
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/output_logging_20260411T225944
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-commits
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-agent-exec
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-always-local
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.git
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/vscode.github
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/exthost/output_logging_20260411T225930
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/output_20260411T225928
+toNewer_26.04_2/.config/Cursor/logs/20260411T225925/window1/output_20260411T225941
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.json-language-features
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.css-language-features
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-socket
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T162952
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T172141
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T163121
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-commits
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-agent-exec
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-always-local
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/output_logging_20260313T172201
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.git
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/webWorker
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/exthost/vscode.github
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/output_20260313T172200
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/output_20260313T162951
+toNewer_26.04_2/.config/Cursor/logs/20260313T162948/window1/output_20260313T163120
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/output_20260411T172642
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-socket
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/output_logging_20260411T172642
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/output_logging_20260411T172630
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-commits
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-agent-exec
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-always-local
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/vscode.git
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/exthost/vscode.github
+toNewer_26.04_2/.config/Cursor/logs/20260411T172626/window1/output_20260411T172629
+toNewer_26.04_2/.config/Cursor/logs/20260312T225353
+toNewer_26.04_2/.config/Cursor/logs/20260312T225310
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-socket
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/output_logging_20260312T224900
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-agent-exec
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-always-local
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/vscode.git
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/exthost/vscode.github
+toNewer_26.04_2/.config/Cursor/logs/20260312T224856/window1/output_20260312T224859
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/output_20260411T182256
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-socket
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-commits
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/output_logging_20260411T182358
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-agent-exec
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/output_logging_20260411T182259
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-always-local
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/vscode.git
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/exthost/vscode.github
+toNewer_26.04_2/.config/Cursor/logs/20260411T182253/window1/output_20260411T182357
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/vscode.css-language-features
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-socket
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-mcp
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-commits
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-agent-exec
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-always-local
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/anysphere.cursor-retrieval
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/output_logging_20260412T011454
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/vscode.git
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/exthost/vscode.github
+toNewer_26.04_2/.config/Cursor/logs/20260412T011449/window1/output_20260412T011452
+toNewer_26.04_2/.config/Cursor/logs/20260411T231631
+toNewer_26.04_2/.config/Cursor/Backups
+toNewer_26.04_2/.config/Cursor/Local Storage
+toNewer_26.04_2/.config/Cursor/Local Storage/leveldb
+toNewer_26.04_2/.config/Cursor/Workspaces
+toNewer_26.04_2/.config/Cursor/DawnWebGPUCache
+toNewer_26.04_2/.config/Cursor/DawnGraphiteCache
+toNewer_26.04_2/.config/Cursor/Dictionaries
+toNewer_26.04_2/.config/Cursor/snapshots
+toNewer_26.04_2/.config/Cursor/snapshots/codebases
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/objects
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/objects/pack
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/staging
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/refs
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/refs/cursor
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/db0fc925-82df-4c2c-b87f-4f63a1e82603/refs/cursor/snapshots
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/9d546a8a-8ee1-436a-af34-2f65192293e4
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/9d546a8a-8ee1-436a-af34-2f65192293e4/objects
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/9d546a8a-8ee1-436a-af34-2f65192293e4/refs
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/c4e3aad8-c916-4a3e-91a2-394c3789e9ad
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/c4e3aad8-c916-4a3e-91a2-394c3789e9ad/objects
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/c4e3aad8-c916-4a3e-91a2-394c3789e9ad/refs
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/ef0561a5-b03f-40f7-9256-0f6cdb2f18c8
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/ef0561a5-b03f-40f7-9256-0f6cdb2f18c8/objects
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/ef0561a5-b03f-40f7-9256-0f6cdb2f18c8/refs
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/objects
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/objects/pack
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/staging
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/refs
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/refs/cursor
+toNewer_26.04_2/.config/Cursor/snapshots/codebases/89c62b9a-3e52-4973-9473-5c01a426940a/refs/cursor/snapshots
+toNewer_26.04_2/.config/Cursor/snapshots/roots
+toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20
+toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20/objects
+toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20/objects/pack
+toNewer_26.04_2/.config/Cursor/snapshots/roots/cursor-aaddca20/objects/info
+toNewer_26.04_2/.config/google-chrome
+toNewer_26.04_2/.config/google-chrome/ActorSafetyLists
+toNewer_26.04_2/.config/google-chrome/ActorSafetyLists/8.6294.2057
+toNewer_26.04_2/.config/google-chrome/ActorSafetyLists/8.6294.2057/_metadata
+toNewer_26.04_2/.config/google-chrome/WasmTtsEngine
+toNewer_26.04_2/.config/google-chrome/WasmTtsEngine/20260407.1
+toNewer_26.04_2/.config/google-chrome/WasmTtsEngine/20260407.1/_metadata
+toNewer_26.04_2/.config/google-chrome/Safe Browsing
+toNewer_26.04_2/.config/google-chrome/Subresource Filter
+toNewer_26.04_2/.config/google-chrome/Subresource Filter/Unindexed Rules
+toNewer_26.04_2/.config/google-chrome/Subresource Filter/Unindexed Rules/9.66.0
+toNewer_26.04_2/.config/google-chrome/Subresource Filter/Unindexed Rules/9.66.0/_metadata
+toNewer_26.04_2/.config/google-chrome/Subresource Filter/Indexed Rules
+toNewer_26.04_2/.config/google-chrome/Subresource Filter/Indexed Rules/37
+toNewer_26.04_2/.config/google-chrome/Subresource Filter/Indexed Rules/37/9.66.0
+toNewer_26.04_2/.config/google-chrome/PrivacySandboxAttestationsPreloaded
+toNewer_26.04_2/.config/google-chrome/Default
+toNewer_26.04_2/.config/google-chrome/Default/BudgetDatabase
+toNewer_26.04_2/.config/google-chrome/Default/WebStorage
+toNewer_26.04_2/.config/google-chrome/Default/Local Extension Settings
+toNewer_26.04_2/.config/google-chrome/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+toNewer_26.04_2/.config/google-chrome/Default/Sessions
+toNewer_26.04_2/.config/google-chrome/Default/GCM Store
+toNewer_26.04_2/.config/google-chrome/Default/GCM Store/Encryption
+toNewer_26.04_2/.config/google-chrome/Default/Extension Scripts
+toNewer_26.04_2/.config/google-chrome/Default/Segmentation Platform
+toNewer_26.04_2/.config/google-chrome/Default/Segmentation Platform/SignalDB
+toNewer_26.04_2/.config/google-chrome/Default/Segmentation Platform/SignalStorageConfigDB
+toNewer_26.04_2/.config/google-chrome/Default/Segmentation Platform/SegmentInfoDB
+toNewer_26.04_2/.config/google-chrome/Default/Extension Rules
+toNewer_26.04_2/.config/google-chrome/Default/ClientCertificates
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Temp
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/agimnkijcaahngcdmfeangaknmldooml/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mpnpojknpmmopombnjdcgaaiekajbnjb/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fmgjjmmmlfnkbppncabfkddbjimcfncm/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/fhihpiojkbmbpdjeoajapmgkhlnakfjf/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/aghbiahbpaijignceidepookljebhfak/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/mdpkiolbdkhdjpekfbkbmhigcaggjagi/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Trusted Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Trusted Icons/Icons
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Trusted Icons/Icons Monochrome
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Trusted Icons/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/Web Applications/Manifest Resources/kefjledonklijopmnomlcbpllchaibag/Icons Maskable
+toNewer_26.04_2/.config/google-chrome/Default/GPUCache
+toNewer_26.04_2/.config/google-chrome/Default/Sync Data
+toNewer_26.04_2/.config/google-chrome/Default/Sync Data/LevelDB
+toNewer_26.04_2/.config/google-chrome/Default/Site Characteristics Database
+toNewer_26.04_2/.config/google-chrome/Default/Extensions
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/Temp
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ne
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/am
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ca
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/mr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ja
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/iw
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en_US
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/it
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/es_419
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ka
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/az
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/or
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/et
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/bg
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/gl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/af
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ko
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/km
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/no
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en_CA
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/as
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/uk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zh_HK
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ur
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ta
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/kk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pt_BR
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ro
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/de
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/vi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/id
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zh_TW
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sq
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/be
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/lv
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/uz
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sw
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/si
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/es
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/eu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/el
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pa
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pt_PT
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ru
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ml
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fr_CA
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ms
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/cy
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/lo
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hy
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/da
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/lt
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/th
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fa
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/pl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/nl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/ar
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/is
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sv
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/te
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/gu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/cs
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/my
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/zh_CN
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fil
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/fr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/sr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/kn
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/en_GB
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/tr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/mn
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/hi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/bn
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_locales/mk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.102.1_0/_metadata
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ne
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/am
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ca
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/mr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ja
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/iw
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en_US
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/it
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/es_419
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ka
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/az
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/or
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/et
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/bg
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/gl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/af
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ko
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/km
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/no
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en_CA
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/as
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/uk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zh_HK
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ur
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ta
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/kk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pt_BR
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ro
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/de
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/vi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/id
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zh_TW
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sq
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/be
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/lv
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/uz
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sw
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/si
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/es
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/eu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/el
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pa
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pt_PT
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ru
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ml
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fr_CA
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ms
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/cy
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/lo
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hy
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/da
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/lt
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/th
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fa
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/pl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/nl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/ar
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/is
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sv
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/te
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/gu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/cs
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/my
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/zh_CN
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fil
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/fr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/sr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/kn
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/en_GB
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/tr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/mn
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/hi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/bn
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_locales/mk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.104.1_0/_metadata
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/css
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/images
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ca
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ja
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/it
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/en
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/hr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/es_419
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/et
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/bg
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ko
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/uk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/pt_BR
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ro
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/de
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/vi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/id
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/fi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sk
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/zh_TW
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/lv
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/es
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/el
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/pt_PT
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/ru
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/nb
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/da
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/lt
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/th
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/pl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/nl
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sv
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/cs
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/zh_CN
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/fil
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/fr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/sr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/en_GB
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/tr
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/hu
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_locales/hi
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/html
+toNewer_26.04_2/.config/google-chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/_metadata
+toNewer_26.04_2/.config/google-chrome/Default/Shared Dictionary
+toNewer_26.04_2/.config/google-chrome/Default/Shared Dictionary/cache
+toNewer_26.04_2/.config/google-chrome/Default/Shared Dictionary/cache/index-dir
+toNewer_26.04_2/.config/google-chrome/Default/Service Worker
+toNewer_26.04_2/.config/google-chrome/Default/Service Worker/ScriptCache
+toNewer_26.04_2/.config/google-chrome/Default/Service Worker/ScriptCache/index-dir
+toNewer_26.04_2/.config/google-chrome/Default/Service Worker/Database
+toNewer_26.04_2/.config/google-chrome/Default/PersistentOriginTrials
+toNewer_26.04_2/.config/google-chrome/Default/AutofillAiModelCache
+toNewer_26.04_2/.config/google-chrome/Default/Download Service
+toNewer_26.04_2/.config/google-chrome/Default/Download Service/Files
+toNewer_26.04_2/.config/google-chrome/Default/Download Service/EntryDB
+toNewer_26.04_2/.config/google-chrome/Default/Platform Notifications
+toNewer_26.04_2/.config/google-chrome/Default/chrome_cart_db
+toNewer_26.04_2/.config/google-chrome/Default/Extension State
+toNewer_26.04_2/.config/google-chrome/Default/DataSharing
+toNewer_26.04_2/.config/google-chrome/Default/optimization_guide_hint_cache_store
+toNewer_26.04_2/.config/google-chrome/Default/blob_storage
+toNewer_26.04_2/.config/google-chrome/Default/blob_storage/e8edb567-6ff9-45b0-8bbc-a755080c6aae
+toNewer_26.04_2/.config/google-chrome/Default/discounts_db
+toNewer_26.04_2/.config/google-chrome/Default/Session Storage
+toNewer_26.04_2/.config/google-chrome/Default/Feature Engagement Tracker
+toNewer_26.04_2/.config/google-chrome/Default/Feature Engagement Tracker/AvailabilityDB
+toNewer_26.04_2/.config/google-chrome/Default/Feature Engagement Tracker/EventDB
+toNewer_26.04_2/.config/google-chrome/Default/discount_infos_db
+toNewer_26.04_2/.config/google-chrome/Default/parcel_tracking_db
+toNewer_26.04_2/.config/google-chrome/Default/IndexedDB
+toNewer_26.04_2/.config/google-chrome/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb
+toNewer_26.04_2/.config/google-chrome/Default/IndexedDB/https_cursor.com_0.indexeddb.leveldb
+toNewer_26.04_2/.config/google-chrome/Default/Local Storage
+toNewer_26.04_2/.config/google-chrome/Default/Local Storage/leveldb
+toNewer_26.04_2/.config/google-chrome/Default/AutofillStrikeDatabase
+toNewer_26.04_2/.config/google-chrome/Default/DawnWebGPUCache
+toNewer_26.04_2/.config/google-chrome/Default/commerce_subscription_db
+toNewer_26.04_2/.config/google-chrome/Default/DawnGraphiteCache
+toNewer_26.04_2/.config/google-chrome/Default/Storage
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/GPUCache
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Shared Dictionary
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Shared Dictionary/cache
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Shared Dictionary/cache/index-dir
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Session Storage
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/Local Storage/leveldb
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/DawnWebGPUCache
+toNewer_26.04_2/.config/google-chrome/Default/Storage/ext/nmmhkkegccagdldgiimedpiccmgmieda/def/DawnGraphiteCache
+toNewer_26.04_2/.config/google-chrome/Default/Accounts
+toNewer_26.04_2/.config/google-chrome/Default/Accounts/Avatar Images
+toNewer_26.04_2/.config/google-chrome/Default/VideoDecodeStats
+toNewer_26.04_2/.config/google-chrome/Default/shared_proto_db
+toNewer_26.04_2/.config/google-chrome/Default/shared_proto_db/metadata
+toNewer_26.04_2/.config/google-chrome/Default/Collaboration
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/25
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/25/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/25/6F07B761A2DB9435/F5D540B468181C73
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/45
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/45/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/45/6F07B761A2DB9435/F7DC71088A6A9C6F
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/2
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/2/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/2/6F07B761A2DB9435/11DAA0547CC81B2A
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/15
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/15/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/15/6F07B761A2DB9435/D7F299A9C3DA85B4
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/43
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/43/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/43/6F07B761A2DB9435/F94358552F7A242B
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/9
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/9/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/9/6F07B761A2DB9435/676886A309B41577
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/20
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/20/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/20/6F07B761A2DB9435/285A8B223DA63AC7
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/26
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/26/6F07B761A2DB9435
+toNewer_26.04_2/.config/google-chrome/optimization_guide_model_store/26/6F07B761A2DB9435/C43A3F840C6E3AFF
+toNewer_26.04_2/.config/google-chrome/WidevineCdm
+toNewer_26.04_2/.config/google-chrome/TrustTokenKeyCommitments
+toNewer_26.04_2/.config/google-chrome/TrustTokenKeyCommitments/2026.3.23.1
+toNewer_26.04_2/.config/google-chrome/TrustTokenKeyCommitments/2026.3.23.1/_metadata
+toNewer_26.04_2/.config/google-chrome/NativeMessagingHosts
+toNewer_26.04_2/.config/google-chrome/DeferredBrowserMetrics
+toNewer_26.04_2/.config/google-chrome/segmentation_platform
+toNewer_26.04_2/.config/google-chrome/OptimizationHints
+toNewer_26.04_2/.config/google-chrome/OptimizationHints/654
+toNewer_26.04_2/.config/google-chrome/OptimizationHints/654/_metadata
+toNewer_26.04_2/.config/google-chrome/GraphiteDawnCache
+toNewer_26.04_2/.config/google-chrome/ZxcvbnData
+toNewer_26.04_2/.config/google-chrome/ZxcvbnData/3
+toNewer_26.04_2/.config/google-chrome/ZxcvbnData/3/_metadata
+toNewer_26.04_2/.config/google-chrome/Crash Reports
+toNewer_26.04_2/.config/google-chrome/Crash Reports/pending
+toNewer_26.04_2/.config/google-chrome/Crash Reports/new
+toNewer_26.04_2/.config/google-chrome/Crash Reports/completed
+toNewer_26.04_2/.config/google-chrome/Crash Reports/attachments
+toNewer_26.04_2/.config/google-chrome/extensions_crx_cache
+toNewer_26.04_2/.config/google-chrome/AmountExtractionHeuristicRegexes
+toNewer_26.04_2/.config/google-chrome/AmountExtractionHeuristicRegexes/4
+toNewer_26.04_2/.config/google-chrome/AmountExtractionHeuristicRegexes/4/_metadata
+toNewer_26.04_2/.config/google-chrome/CertificateRevocation
+toNewer_26.04_2/.config/google-chrome/CertificateRevocation/10458
+toNewer_26.04_2/.config/google-chrome/CertificateRevocation/10458/_metadata
+toNewer_26.04_2/.config/google-chrome/FileTypePolicies
+toNewer_26.04_2/.config/google-chrome/FileTypePolicies/145.0.7584.0
+toNewer_26.04_2/.config/google-chrome/FileTypePolicies/145.0.7584.0/_metadata
+toNewer_26.04_2/.config/google-chrome/SafetyTips
+toNewer_26.04_2/.config/google-chrome/SafetyTips/3091
+toNewer_26.04_2/.config/google-chrome/SafetyTips/3091/_metadata
+toNewer_26.04_2/.config/google-chrome/hyphen-data
+toNewer_26.04_2/.config/google-chrome/hyphen-data/120.0.6050.0
+toNewer_26.04_2/.config/google-chrome/hyphen-data/120.0.6050.0/_metadata
+toNewer_26.04_2/.config/google-chrome/PKIMetadata
+toNewer_26.04_2/.config/google-chrome/PKIMetadata/1634
+toNewer_26.04_2/.config/google-chrome/PKIMetadata/1634/_metadata
+toNewer_26.04_2/.config/google-chrome/MEIPreload
+toNewer_26.04_2/.config/google-chrome/MEIPreload/1.1.0.3
+toNewer_26.04_2/.config/google-chrome/MEIPreload/1.1.0.3/_metadata
+toNewer_26.04_2/.config/google-chrome/Crowd Deny
+toNewer_26.04_2/.config/google-chrome/Crowd Deny/2026.4.9.61
+toNewer_26.04_2/.config/google-chrome/Crowd Deny/2026.4.9.61/_metadata
+toNewer_26.04_2/.config/google-chrome/BrowserMetrics
+toNewer_26.04_2/.config/google-chrome/FirstPartySetsPreloaded
+toNewer_26.04_2/.config/google-chrome/FirstPartySetsPreloaded/2025.7.24.0
+toNewer_26.04_2/.config/google-chrome/FirstPartySetsPreloaded/2025.7.24.0/_metadata
+toNewer_26.04_2/.config/google-chrome/CaptchaProviders
+toNewer_26.04_2/.config/google-chrome/CaptchaProviders/8.5419.4434
+toNewer_26.04_2/.config/google-chrome/CaptchaProviders/8.5419.4434/_metadata
+toNewer_26.04_2/.config/google-chrome/GrShaderCache
+toNewer_26.04_2/.config/google-chrome/SSLErrorAssistant
+toNewer_26.04_2/.config/google-chrome/SSLErrorAssistant/7
+toNewer_26.04_2/.config/google-chrome/SSLErrorAssistant/7/_metadata
+toNewer_26.04_2/.config/google-chrome/OriginTrials
+toNewer_26.04_2/.config/google-chrome/OnDeviceHeadSuggestModel
+toNewer_26.04_2/.config/google-chrome/ShaderCache
+toNewer_26.04_2/.config/google-chrome/component_crx_cache
+toNewer_26.04_2/.config/google-chrome/Dictionaries
+toNewer_26.04_2/.ssh
+toNewer_26.04_2/new_dmcub_1
+toNewer_26.04_2/new_dmcub_1/gpu-goodboot24-u2604
+toNewer_26.04_2/gpu-goodboot26-u2604
+toNewer_26.04_2/.cursor
+toNewer_26.04_2/.cursor/extensions
+toNewer_26.04_2/.cursor/ai-tracking
+toNewer_26.04_2/.cursor/projects
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/agent-transcripts
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/agent-transcripts/9fefb1f7-0060-4b3f-8ca1-ca97732a0312
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/agent-transcripts/ba056ae6-b1b4-4508-9dce-61573da3b1d7
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma/prompts
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma/resources
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/user-Figma/tools
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/plugin-figma-figma
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/mcps/plugin-figma-figma/tools
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-project-1/terminals
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/bc20d75c-df4e-4297-9b03-f3bb53cc41f4
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/815e6dba-ffbb-4238-9820-799519622974
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/9084edd7-3c34-4431-971d-c5fae8bc8bc4
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/agent-transcripts/8c697ca3-8c27-4423-bb14-76b737e6c966
+toNewer_26.04_2/.cursor/projects/home-denixx-cursor-ide-projects-code-workspace/terminals
+toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd
+toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd/mcps
+toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd/mcps/user-Figma
+toNewer_26.04_2/.cursor/projects/tmp-c1a6aeb0-b3b9-4ddb-b0e6-65fbee4c35cd/mcps/user-Figma/tools
+toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334
+toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334/mcps
+toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334/mcps/user-Figma
+toNewer_26.04_2/.cursor/projects/tmp-462a87fe-d625-45b4-856f-a565b26f9334/mcps/user-Figma/tools
+toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a
+toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a/mcps
+toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a/mcps/user-Figma
+toNewer_26.04_2/.cursor/projects/tmp-e704b397-f4a9-43d4-bc5e-9052fb5b201a/mcps/user-Figma/tools
+toNewer_26.04_2/.cursor/projects/tmp-0648f664-ef3a-4a97-bfb5-4abfe0b6fa89
+toNewer_26.04_2/.cursor/projects/tmp-0648f664-ef3a-4a97-bfb5-4abfe0b6fa89/mcps
+toNewer_26.04_2/.cursor/projects/tmp-0648f664-ef3a-4a97-bfb5-4abfe0b6fa89/mcps/cursor-ide-browser
+toNewer_26.04_2/.cursor/projects/tmp-2a3f055a-f113-4ae4-97ec-ea0ca6d99db6
+toNewer_26.04_2/.cursor/projects/tmp-2a3f055a-f113-4ae4-97ec-ea0ca6d99db6/mcps
+toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef
+toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps
+toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma
+toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma/prompts
+toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma/resources
+toNewer_26.04_2/.cursor/projects/tmp-3373b74e-bfb3-47c7-8a0f-8b094f4493ef/mcps/user-Figma/tools
+toNewer_26.04_2/.cursor/plugins
+toNewer_26.04_2/.cursor/plugins/cache
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/66
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/bc
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/8a
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/64
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/71
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/81
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/dc
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/1b
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/63
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/91
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/3e
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/bd
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/f8
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/9d
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/ae
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4f
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/2e
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/55
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/9a
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/pack
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/11
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/0c
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/5f
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/09
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/d6
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/0e
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/7d
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/98
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/10
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/e6
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/d1
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/52
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4e
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/93
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4b
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/c2
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/1f
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/bb
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/20
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/05
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/04
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/f3
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/c6
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/62
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/e3
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/85
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/f1
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/16
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/96
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/4a
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/0d
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/ab
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/db
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/21
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/fa
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/a0
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/56
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/e4
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/30
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/eb
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/40
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/info
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/73
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/88
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/01
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/c7
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/a5
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/b2
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/8e
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/6f
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/34
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/objects/37
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/refs
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/refs/tags
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/refs/heads
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/logs
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/info
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.git/hooks
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/figma-power
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/figma-power/steering
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-use
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-use/references
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-use/references/working-with-design-systems
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-create-new-file
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-design
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-code-connect
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-code-connect/references
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-implement-design
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-create-design-system-rules
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-library
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-library/scripts
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/skills/figma-generate-library/references
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.cursor-plugin
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.claude-plugin
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.github
+toNewer_26.04_2/.cursor/plugins/cache/cursor-public/figma/9680714bad40503ef37a9f815fd1d2cd15150af4/.github/plugin
+toNewer_26.04_2/.cursor/plugins/local
+toNewer_26.04_2/.cursor/skills-cursor
+toNewer_26.04_2/.cursor/skills-cursor/shell
+toNewer_26.04_2/.cursor/skills-cursor/statusline
+toNewer_26.04_2/.cursor/skills-cursor/migrate-to-skills
+toNewer_26.04_2/.cursor/skills-cursor/create-subagent
+toNewer_26.04_2/.cursor/skills-cursor/update-cursor-settings
+toNewer_26.04_2/.cursor/skills-cursor/create-hook
+toNewer_26.04_2/.cursor/skills-cursor/babysit
+toNewer_26.04_2/.cursor/skills-cursor/create-skill
+toNewer_26.04_2/.cursor/skills-cursor/update-cli-config
+toNewer_26.04_2/.cursor/skills-cursor/create-rule

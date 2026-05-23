@@ -1,0 +1,37 @@
+pkill -f 'org.gnome.Nautilus.Devel'; sleep 2
+flatpak run --devel --command=bash org.gnome.Nautilus.Devel
+
+
+crash_run () {
+    local renderer="${1:-vulkan}"
+    local stamp; stamp=$(date +%Y-%m-%d_%H-%M-%S)
+    local logfile="$HOME/nautilus-flatpak-${renderer}-${stamp}.txt"
+    local renv="GSK_RENDERER=vulkan"
+    [ "$renderer" = "gl" ] && renv="GSK_RENDERER=gl"
+    [ "$renderer" = "cairo" ] && renv="GSK_RENDERER=cairo"
+
+    echo "==> $renv  log=$logfile"
+    env $renv \
+        G_SLICE=always-malloc MALLOC_CHECK_=3 MALLOC_PERTURB_=85 G_DEBUG=gc-friendly \
+        gdb -ex 'set pagination off' \
+            -ex "set logging file $logfile" \
+            -ex 'set logging overwrite on' \
+            -ex 'set logging enabled on' \
+            -ex 'handle SIGPIPE nostop noprint pass' \
+            -ex run \
+            --args nautilus --new-window /home/denixx
+}
+
+
+crash_run vulkan
+crash_run gl
+crash_run cairo
+
+
+bt full
+thread apply all bt
+info shared
+quit
+
+
+/home/denixx/nautilus-flatpak-vulkan-nomalloc-22-00-19.txt

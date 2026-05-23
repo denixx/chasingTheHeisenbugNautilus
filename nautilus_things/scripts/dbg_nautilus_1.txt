@@ -1,0 +1,1 @@
+DEBUGINFOD_URLS=https://debuginfod.ubuntu.com G_SLICE=always-malloc G_DEBUG=fatal-criticals,fatal-warnings,gc-friendly MALLOC_CHECK_=3 MALLOC_PERTURB_=85 gdb -ex run --args nautilus

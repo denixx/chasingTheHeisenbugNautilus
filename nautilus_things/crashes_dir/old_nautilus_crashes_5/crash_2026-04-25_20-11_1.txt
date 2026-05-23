@@ -1,0 +1,831 @@
+denixx@denixx-u2604-1:~$ DEBUGINFOD_URLS=https://debuginfod.ubuntu.com G_SLICE=always-malloc G_DEBUG=fatal-criticals,fatal-warnings,gc-friendly MALLOC_CHECK_=3 MALLOC_PERTURB_=85 gdb -ex run --args nautilus
+GNU gdb (Ubuntu 17.1-2ubuntu1) 17.1
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from nautilus...
+Reading symbols from /usr/lib/debug/.build-id/05/6718ac2937766b0bf4c9827cd2661af4707c87.debug...
+Starting program: /usr/bin/nautilus 
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.ubuntu.com>
+Enable debuginfod for this session? (y or [n]) y
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffeebff6c0 (LWP 34554)]
+[New Thread 0x7fffee3fe6c0 (LWP 34555)]
+[New Thread 0x7fffedbfd6c0 (LWP 34556)]
+[New Thread 0x7fffed3fc6c0 (LWP 34558)]
+[New Thread 0x7fffecbfb6c0 (LWP 34559)]
+[New Thread 0x7fffdffff6c0 (LWP 34560)]
+[New Thread 0x7fffdf7fe6c0 (LWP 34561)]
+[New Thread 0x7fffdeffd6c0 (LWP 34562)]
+** Message: 20:10:44.431: Connecting to org.freedesktop.Tracker3.Miner.Files
+[New Thread 0x7fffde7fc6c0 (LWP 34563)]
+[New Thread 0x7fffddffb6c0 (LWP 34564)]
+[New Thread 0x7fffdd3ff6c0 (LWP 34565)]
+[New Thread 0x7fffdcbfe6c0 (LWP 34566)]
+[New Thread 0x7fffc3fff6c0 (LWP 34567)]
+[New Thread 0x7fffc37fe6c0 (LWP 34568)]
+[New Thread 0x7fffc2ffd6c0 (LWP 34569)]
+[New Thread 0x7fffc27fc6c0 (LWP 34570)]
+[New Thread 0x7fffc1ffb6c0 (LWP 34571)]
+[New Thread 0x7fffc17fa6c0 (LWP 34572)]
+[New Thread 0x7fffc0ff96c0 (LWP 34573)]
+[New Thread 0x7fffbbfff6c0 (LWP 34574)]
+[New Thread 0x7fffbb7fe6c0 (LWP 34575)]
+[New Thread 0x7fffbaffd6c0 (LWP 34576)]
+[New Thread 0x7fffba7fc6c0 (LWP 34577)]
+[New Thread 0x7fffb9ffb6c0 (LWP 34578)]
+[New Thread 0x7fffb97fa6c0 (LWP 34579)]
+[New Thread 0x7fffb8ff96c0 (LWP 34580)]
+[New Thread 0x7fffb3fff6c0 (LWP 34581)]
+[New Thread 0x7fffb09ff6c0 (LWP 34582)]
+[New Thread 0x7fff8a7ff6c0 (LWP 34583)]
+[New Thread 0x7fffa3fff6c0 (LWP 34584)]
+[New Thread 0x7fffa37fe6c0 (LWP 34585)]
+[New Thread 0x7fffa2ffd6c0 (LWP 34586)]
+[New Thread 0x7fffa27fc6c0 (LWP 34594)]
+[Thread 0x7fffb8ff96c0 (LWP 34580) exited]
+[Thread 0x7fffa27fc6c0 (LWP 34594) exited]
+[Thread 0x7fffc2ffd6c0 (LWP 34569) exited]
+[Thread 0x7fffdeffd6c0 (LWP 34562) exited]
+[Thread 0x7fffc1ffb6c0 (LWP 34571) exited]
+[Thread 0x7fffdf7fe6c0 (LWP 34561) exited]
+[Thread 0x7fffdffff6c0 (LWP 34560) exited]
+[Thread 0x7fffecbfb6c0 (LWP 34559) exited]
+[New Thread 0x7fffc1ffb6c0 (LWP 34595)]
+[New Thread 0x7fffdffff6c0 (LWP 34596)]
+[New Thread 0x7fffdeffd6c0 (LWP 34597)]
+[New Thread 0x7fffdf7fe6c0 (LWP 34598)]
+[Thread 0x7fffdffff6c0 (LWP 34596) exited]
+[Thread 0x7fffc1ffb6c0 (LWP 34595) exited]
+[Thread 0x7fffbaffd6c0 (LWP 34576) exited]
+[Thread 0x7fffc37fe6c0 (LWP 34568) exited]
+[New Thread 0x7fffdffff6c0 (LWP 34599)]
+[New Thread 0x7fffc1ffb6c0 (LWP 34600)]
+[New Thread 0x7fffbaffd6c0 (LWP 34601)]
+[New Thread 0x7fffc37fe6c0 (LWP 34602)]
+[Detaching after fork from child process 34603]
+[New Thread 0x7fffecbf86c0 (LWP 34606)]
+[Detaching after fork from child process 34607]
+[Thread 0x7fffbaffd6c0 (LWP 34601) exited]
+[Thread 0x7fffc37fe6c0 (LWP 34602) exited]
+
+Thread 1 "nautilus" received signal SIGSEGV, Segmentation fault.
+Download failed: Некоректний аргумент.  Continuing without source file ./malloc/./malloc/malloc.c.
+0x00007ffff52b2a23 in _int_malloc (av=av@entry=0x7ffff5412ac0 <main_arena>, bytes=bytes@entry=97) at ./malloc/malloc.c:3886
+⚠️ warning: 3886	./malloc/malloc.c: Немає такого файла або каталогу
+(gdb) bt full
+#0  0x00007ffff52b2a23 in _int_malloc (av=av@entry=0x7ffff5412ac0 <main_arena>, bytes=bytes@entry=97) at ./malloc/malloc.c:3886
+        tc_victim = 0x5555569bb1d0
+        tc_idx = <optimized out>
+        p = <optimized out>
+        nb = <optimized out>
+        idx = <optimized out>
+        bin = 0x7ffff5412b28 <main_arena+104>
+        victim = 0x555556791c80
+        size = <optimized out>
+        victim_index = <optimized out>
+        remainder = <optimized out>
+        remainder_size = <optimized out>
+        block = <optimized out>
+        bit = <optimized out>
+        map = <optimized out>
+        fwd = <optimized out>
+        bck = 0x555500000000
+        tcache_unsorted_count = <optimized out>
+        tcache_nb = <optimized out>
+        tc_idx = <optimized out>
+        return_cached = <optimized out>
+        __PRETTY_FUNCTION__ = "_int_malloc"
+#1  0x00007ffff52b456a in _int_realloc (av=av@entry=0x7ffff5412ac0 <main_arena>, oldp=oldp@entry=0x555556781330, oldsize=96, nb=112) at ./malloc/malloc.c:4620
+        newp = <optimized out>
+        newsize = <optimized out>
+        newmem = <optimized out>
+        next = 0x555556781390
+        remainder = <optimized out>
+        remainder_size = <optimized out>
+        __PRETTY_FUNCTION__ = "_int_realloc"
+        nextsize = <optimized out>
+#2  0x00007ffff52b5a9f in __GI___libc_realloc (oldmem=oldmem@entry=0x555556781340, bytes=bytes@entry=104) at ./malloc/malloc.c:3480
+        ar_ptr = 0x7ffff5412ac0 <main_arena>
+        nb = 112
+        newp = <optimized out>
+        oldp = 0x555556781330
+        usable = <optimized out>
+        oldsize = <optimized out>
+        __PRETTY_FUNCTION__ = "__libc_realloc"
+#3  0x00007ffff7c631ca in g_realloc (mem=mem@entry=0x555556781340, n_bytes=104) at ../../../glib/gmem.c:171
+        newmem = <optimized out>
+#4  0x00007ffff7d7ffec in g_bsearch_array_grow (barray=0x555556781340, bconfig=0x7ffff7db6070 <g_signal_hlbsa_bconfig>, index_=2) at ../../../glib/gbsearcharray.h:210
+        old_size = <optimized out>
+        new_size = <optimized out>
+        node = <optimized out>
+        __func__ = <optimized out>
+#5  g_bsearch_array_insert (barray=0x555556781340, bconfig=bconfig@entry=0x7ffff7db6070 <g_signal_hlbsa_bconfig>, key_node=key_node@entry=0x7fffffffa410) at ../../../glib/gbsearcharray.h:239
+        index_ = 2
+        node = <optimized out>
+        _g_boolean_var_18 = <optimized out>
+#6  0x00007ffff7d80653 in handler_list_ensure (signal_id=1451873184, instance=0x5555563db030) at ../../../gobject/gsignal.c:398
+        hlbsa = <optimized out>
+        key = {signal_id = 189, handlers = 0x0, tail_before = 0x0, tail_after = 0x0}
+#7  handler_insert (signal_id=signal_id@entry=189, instance=instance@entry=0x5555563db030, handler=handler@entry=0x55555689d3a0) at ../../../gobject/gsignal.c:709
+--Type <RET> for more, q to quit, c to continue without paging--c
+        hlist = <optimized out>
+        __func__ = "handler_insert"
+#8  0x00007ffff7d83d2f in g_signal_connect_data (instance=instance@entry=0x5555563db030, detailed_signal=detailed_signal@entry=0x7ffff70be3f4 "unpaired-release", 
+    c_handler=c_handler@entry=0x7ffff6c02e60 <gesture_unpaired_release>, data=data@entry=0x5555566a33e0, destroy_data=destroy_data@entry=0x0, connect_flags=connect_flags@entry=G_CONNECT_DEFAULT) at ../../../gobject/gsignal.c:2561
+        handler = 0x55555689d3a0
+        node = 0x55555581cd80
+        signal_id = 189
+        handler_seq_no = 47830
+        detail = <optimized out>
+        itype = <optimized out>
+        swapped = 0
+        after = 0
+        __func__ = "g_signal_connect_data"
+#9  0x00007ffff6c0176f in gtk_model_button_init (self=0x5555566a33e0) at ../../../gtk/gtkmodelbutton.c:1575
+        controller = <optimized out>
+        gesture = 0x5555563db030
+#10 0x00007ffff7d95ac1 in g_type_create_instance (type=<optimized out>) at ../../../gobject/gtype.c:1900
+        node = 0x5555558c9c10
+        instance = <optimized out>
+        class = 0x5555559615a0
+        allocated = <optimized out>
+        private_size = <optimized out>
+        ivar_size = <optimized out>
+        i = <optimized out>
+#11 0x00007ffff7d7b3e4 in g_object_new_internal (class=0x5555559615a0, params=0x7fffffffa7d0, n_params=1) at ../../../gobject/gobject.c:2671
+        nqueue_is_frozen = <optimized out>
+        object = <optimized out>
+        i = <optimized out>
+        __func__ = <optimized out>
+        _g_boolean_var_65 = <optimized out>
+#12 0x00007ffff7d7d5bb in g_object_new_internal (class=0x5555559615a0, params=0x7fffffffa7d0, n_params=1) at ../../../gobject/gobject.c:2987
+        nqueue_is_frozen = 0
+        object = <optimized out>
+        i = <optimized out>
+        __func__ = <optimized out>
+        _g_boolean_var_66 = <optimized out>
+        node = <optimized out>
+        value = <optimized out>
+        pspec = <optimized out>
+        j = <optimized out>
+        user_specified = <optimized out>
+#13 g_object_new_valist (object_type=<optimized out>, first_property_name=first_property_name@entry=0x7ffff70c3597 "indicator-size-group", var_args=var_args@entry=0x7fffffffaaa0) at ../../../gobject/gobject.c:3009
+        vtabs_stack = {0x5555556dc110, 0x0, 0x0, 0x0, 0x0, 0x0, 0x4208000043b70000, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0}
+        params = 0x7fffffffa7d0
+        values = 0x7fffffffa8d0
+        params_stack = {{pspec = 0x555555961ca0, value = 0x7fffffffa8d0}, {pspec = 0x0, value = 0x0}, {pspec = 0x0, value = 0x0}, {pspec = 0x0, value = 0x100000001}, {pspec = 0x1, value = 0x100000000}, {pspec = 0x1, 
+            value = 0x0}, {pspec = 0x0, value = 0x5815c59784d2f100}, {pspec = 0x0, value = 0x555555a6aa10}, {pspec = 0x0, value = 0x5555557c2c00}, {pspec = 0x0, value = 0x7ffff7584540 <px_singletons>}, {pspec = 0x7fffffffaa90, 
+            value = 0x7ffff6d403a4 <gtk_widget_do_pick+260>}, {pspec = 0x0, value = 0x0}, {pspec = 0x7fffffffa938, value = 0x5555557bffb0}, {pspec = 0x7fffffffa8f0, 
+            value = 0x7ffff6c2295e <gtk_css_boxes_apply_border_radius+974>}, {pspec = 0x40367c0000000000, value = 0x40602d6000000000}, {pspec = 0x5555557ee2d0, value = 0x41b3e00043016b00}}
+        values_stack = {{g_type = 93824995857760, data = {{v_int = 1439749136, v_uint = 1439749136, v_long = 93825000330256, v_ulong = 93825000330256, v_int64 = 93825000330256, v_uint64 = 93825000330256, 
+                v_float = 2.87011525e+13, v_double = 4.6355709384223101e-310, v_pointer = 0x555555d0d410}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, 
+                v_pointer = 0x0}}}, {g_type = 140737343145664, data = {{v_int = 1091567616, v_uint = 1091567616, v_long = 4656722015792660480, v_ulong = 4656722015792660480, v_int64 = 4656722015792660480, 
+                v_uint64 = 4656722015792660480, v_float = 9, v_double = 2048.0004963874817, v_pointer = 0x40a0000041100000}, {v_int = -151048355, v_uint = 4143918941, v_long = 140737337306973, v_ulong = 140737337306973, 
+                v_int64 = 140737337306973, v_uint64 = 140737337306973, v_float = -2.58788348e+33, v_double = 6.9533483450546977e-310, v_pointer = 0x7ffff6ff2f5d <gsk_rounded_rect_contains_point+13>}}}, {g_type = 140737488333456, 
+            data = {{v_int = -153952336, v_uint = 4141014960, v_long = 140737334402992, v_ulong = 140737334402992, v_int64 = 140737334402992, v_uint64 = 140737334402992, v_float = -2.13851418e+33, 
+                v_double = 6.9533482015789729e-310, v_pointer = 0x7ffff6d2dfb0 <gtk_widget_real_contains+416>}, {v_int = -1014150528, v_uint = 3280816768, v_long = 4723114928113535616, v_ulong = 4723114928113535616, 
+                v_int64 = 4723114928113535616, v_uint64 = 4723114928113535616, v_float = -282.582031, v_double = 58458136.443989754, v_pointer = 0x418be000c38d4a80}}}, {g_type = 4737786809101582336, data = {{v_int = 0, 
+                v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = -1014150528, v_uint = 3280816768, v_long = 4723114928113535616, v_ulong = 4723114928113535616, 
+                v_int64 = 4723114928113535616, v_uint64 = 4723114928113535616, v_float = -282.582031, v_double = 58458136.443989754, v_pointer = 0x418be000c38d4a80}}}, {g_type = 93825007562128, data = {{v_int = -1063256064, 
+                v_uint = 3231711232, v_long = -4566650018921971712, v_ulong = 13880094054787579904, v_int64 = -4566650018921971712, v_uint64 = 13880094054787579904, v_float = -5, v_double = -2048.0014696121216, 
+                v_pointer = 0xc0a00000c0a00000}, {v_int = 1107820544, v_uint = 1107820544, v_long = 4758053007424749568, v_ulong = 4758053007424749568, v_int64 = 4758053007424749568, v_uint64 = 4758053007424749568, v_float = 34, 
+                v_double = 12884904001, v_pointer = 0x4208000042080000}}}, {g_type = 4688247213184253952, data = {{v_int = 1091567616, v_uint = 1091567616, v_long = 4688247213184253952, v_ulong = 4688247213184253952, 
+                v_int64 = 4688247213184253952, v_uint64 = 4688247213184253952, v_float = 9, v_double = 262144.06353759766, v_pointer = 0x4110000041100000}, {v_int = 1091567616, v_uint = 1091567616, v_long = 4688247213184253952, 
+                v_ulong = 4688247213184253952, v_int64 = 4688247213184253952, v_uint64 = 4688247213184253952, v_float = 9, v_double = 262144.06353759766, v_pointer = 0x4110000041100000}}}, {g_type = 4688247213184253952, data = {{
+                v_int = -1063256064, v_uint = 3231711232, v_long = -4566650018921971712, v_ulong = 13880094054787579904, v_int64 = -4566650018921971712, v_uint64 = 13880094054787579904, v_float = -5, 
+                v_double = -2048.0014696121216, v_pointer = 0xc0a00000c0a00000}, {v_int = 1107820544, v_uint = 1107820544, v_long = 4758053007424749568, v_ulong = 4758053007424749568, v_int64 = 4758053007424749568, 
+                v_uint64 = 4758053007424749568, v_float = 34, v_double = 12884904001, v_pointer = 0x4208000042080000}}}, {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, 
+                v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}, {g_type = 0, data = {{v_int = 0, v_uint = 0, 
+                v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 1103101952, v_uint = 1103101952, v_long = 4737786809096863744, v_ulong = 4737786809096863744, 
+                v_int64 = 4737786809096863744, v_uint64 = 4737786809096863744, v_float = 24, v_double = 536871043.5, v_pointer = 0x41c0000041c00000}}}, {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, 
+                v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}, {g_type = 0, 
+            data = {{v_int = -151001649, v_uint = 4143965647, v_long = 140737337353679, v_ulong = 140737337353679, v_int64 = 140737337353679, v_uint64 = 140737337353679, v_float = -2.59511088e+33, 
+                v_double = 6.9533483473622807e-310, v_pointer = 0x7ffff6ffe5cf <gsk_transform_to_translate+63>}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, 
+                v_pointer = 0x0}}}, {g_type = 93825010149168, data = {{v_int = -21972, v_uint = 4294945324, v_long = 140737488333356, v_ulong = 140737488333356, v_int64 = 140737488333356, v_uint64 = 140737488333356, 
+                v_float = -nan(0x7faa2c), v_double = 6.9533558067494433e-310, v_pointer = 0x7fffffffaa2c}, {v_int = -21968, v_uint = 4294945328, v_long = 140737488333360, v_ulong = 140737488333360, v_int64 = 140737488333360, 
+                v_uint64 = 140737488333360, v_float = -nan(0x7faa30), v_double = 6.9533558067496409e-310, v_pointer = 0x7fffffffaa30}}}, {g_type = 140737488333456, data = {{v_int = -150994315, v_uint = 4143972981, 
+                v_long = 140737337361013, v_ulong = 140737337361013, v_int64 = 140737337361013, v_uint64 = 140737337361013, v_float = -2.5963431e+33, v_double = 6.9533483477246284e-310, 
+                v_pointer = 0x7ffff7000275 <gsk_transform_transform_point+437>}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}, {g_type = 0, data = {{
+                v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, 
+                v_double = 0, v_pointer = 0x0}}}, {g_type = 0, data = {{v_int = -138123859, v_uint = 4156843437, v_long = 140737350231469, v_ulong = 140737350231469, v_int64 = 140737350231469, v_uint64 = 140737350231469, 
+                v_float = -7.96681574e+33, v_double = 6.953348983609644e-310, v_pointer = 0x7ffff7c465ad <g_hash_table_lookup+45>}, {v_int = -150162915, v_uint = 4144804381, v_long = 140737338192413, v_ulong = 140737338192413, 
+                v_int64 = 140737338192413, v_uint64 = 140737338192413, v_float = -2.85364893e+33, v_double = 6.9533483888012462e-310, v_pointer = 0x7ffff70cb21d}}}, {g_type = 4294967296, data = {{v_int = 0, v_uint = 0, 
+                v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 1449123088, v_uint = 1449123088, v_long = 93825009704208, v_ulong = 93825009704208, 
+                v_int64 = 93825009704208, v_uint64 = 93825009704208, v_float = 6.15351373e+13, v_double = 4.635571401557075e-310, v_pointer = 0x5555565fdd10}}}}
+        name = <optimized out>
+        vtabs = 0x7fffffffa750
+        n_params = 1
+        n_params_alloc = 16
+        class = 0x5555559615a0
+        unref_class = <optimized out>
+        object = <optimized out>
+        __func__ = "g_object_new_valist"
+#14 0x00007ffff7d7d99f in g_object_new (object_type=<optimized out>, first_property_name=first_property_name@entry=0x7ffff70c3597 "indicator-size-group") at ../../../gobject/gobject.c:2484
+        object = <optimized out>
+        var_args = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffab80, reg_save_area = 0x7fffffffaac0}}
+#15 0x00007ffff6dd2ab8 in gtk_menu_section_box_insert_func (item=0x5555565fdcc0, position=1, user_data=0x555555aa4a70) at ../../../gtk/gtkmenusectionbox.c:407
+        box = 0x555555aa4a70
+        widget = <optimized out>
+        __func__ = "gtk_menu_section_box_insert_func"
+#16 0x00007ffff6dd19ac in gtk_menu_tracker_item_visibility_changed (item=<optimized out>, pspec=<optimized out>, user_data=0x5555565f7600) at ../../../gtk/gtkmenutracker.c:245
+        tracker = 0x5555565f7600
+        section = 0x5555565fddb0
+        is_now_visible = <optimized out>
+        was_visible = <optimized out>
+        offset = 1
+        __func__ = "gtk_menu_tracker_item_visibility_changed"
+#17 0x00007ffff7d6968c in g_closure_invoke (closure=0x5555565fe540, return_value=0x0, n_param_values=2, param_values=0x7fffffffae60, invocation_hint=0x7fffffffadb0) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7d6f250 <g_cclosure_marshal_VOID__PARAM>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x5555565fe520
+        __func__ = "g_closure_invoke"
+#18 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffaf90, detail=detail@entry=1900, instance=instance@entry=0x5555565fdcc0, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffae60) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x5555565fe4e0
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffb610, instance = 0x5555565fdcc0, ihint = {signal_id = 1, detail = 1900, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x5555565fe4e0
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#19 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x5555565fdcc0, signal_id=signal_id@entry=1, detail=detail@entry=1900, var_args=var_args@entry=0x7fffffffb0f0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#20 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555565fdcc0, signal_id=1, detail=1900, var_args=var_args@entry=0x7fffffffb0f0) at ../../../gobject/gsignal.c:3304
+No locals.
+#21 0x00007ffff7d89e83 in g_signal_emit (instance=<optimized out>, signal_id=<optimized out>, detail=<optimized out>) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffb1d0, reg_save_area = 0x7fffffffb110}}
+#22 0x00007ffff7d75cd4 in g_object_dispatch_properties_changed (object=0x5555565fdcc0, n_pspecs=<optimized out>, pspecs=<optimized out>) at ../../../gobject/gobject.c:1894
+        i = <optimized out>
+#23 0x00007ffff7d79be2 in g_object_notify_by_spec_internal (object=0x5555565fdcc0, pspec=0x55555595f130) at ../../../gobject/gobject.c:1999
+        object_flags = <optimized out>
+        needs_notify = 1
+        in_init = <optimized out>
+#24 g_object_notify_by_pspec (object=0x5555565fdcc0, pspec=0x55555595f130) at ../../../gobject/gobject.c:2105
+        __func__ = "g_object_notify_by_pspec"
+#25 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x5555565fdcc0, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#26 gtk_action_muxer_action_enabled_changed (muxer=0x555556593d60, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fde50
+#27 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555556593d60, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#28 gtk_action_muxer_action_enabled_changed (muxer=0x555555a91620, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fdef0
+#29 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555a91620, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#30 gtk_action_muxer_action_enabled_changed (muxer=0x555555a8f210, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fdf50
+#31 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555a8f210, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#32 gtk_action_muxer_action_enabled_changed (muxer=0x555555aca120, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fe260
+#33 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555aca120, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#34 gtk_action_muxer_action_enabled_changed (muxer=0x555555a564e0, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fe2c0
+#35 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555a564e0, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#36 gtk_action_muxer_action_enabled_changed (muxer=0x555555c09190, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fe320
+#37 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555c09190, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#38 gtk_action_muxer_action_enabled_changed (muxer=0x555555c09bf0, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fe380
+#39 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555c09bf0, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#40 gtk_action_muxer_action_enabled_changed (muxer=0x555555c0a510, action_name=0x555556897940 "slot.stop", enabled=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fe3e0
+#41 0x00007ffff6d5fdd7 in gtk_action_observer_action_enabled_changed (observer=0x555555c0a510, observable=<optimized out>, action_name=<optimized out>, enabled=<optimized out>) at ../../../gtk/gtkactionobserver.c:105
+        __func__ = <optimized out>
+#42 gtk_action_muxer_action_enabled_changed (muxer=0x55555586b520, action_name=action_name@entry=0x555556897940 "slot.stop", enabled=enabled@entry=1) at ../../../gtk/gtkactionmuxer.c:377
+        iter = <optimized out>
+        action = <optimized out>
+        node = 0x5555565fe440
+#43 0x00007ffff6d5ff00 in gtk_action_muxer_group_action_enabled_changed (action_group=<optimized out>, action_name=<optimized out>, enabled=1, user_data=0x555555c23a50) at ../../../gtk/gtkactionmuxer.c:390
+        group = 0x555555c23a50
+        fullname = 0x555556897940 "slot.stop"
+#44 0x00007ffff7d6968c in g_closure_invoke (closure=0x555555d11e80, return_value=0x0, n_param_values=3, param_values=0x7fffffffb6d0, invocation_hint=0x7fffffffb620) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7e3ab60 <_g_cclosure_marshal_VOID__STRING_BOOLEAN>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555555d11e60
+        __func__ = "g_closure_invoke"
+#45 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffb810, detail=detail@entry=2612, instance=instance@entry=0x555555c31480, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffb6d0) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x555555d11e20
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffbba0, instance = 0x555555c31480, ihint = {signal_id = 4, detail = 2612, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x555555c34770
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#46 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555555c31480, signal_id=signal_id@entry=4, detail=detail@entry=2612, var_args=var_args@entry=0x7fffffffb970) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#47 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555555c31480, signal_id=4, detail=2612, var_args=var_args@entry=0x7fffffffb970) at ../../../gobject/gsignal.c:3304
+No locals.
+#48 0x00007ffff7d89e83 in g_signal_emit (instance=<optimized out>, signal_id=<optimized out>, detail=<optimized out>) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 40, fp_offset = 48, overflow_arg_area = 0x7fffffffba50, reg_save_area = 0x7fffffffb990}}
+#49 0x00007ffff7d6968c in g_closure_invoke (closure=0x555555c33690, return_value=0x0, n_param_values=2, param_values=0x7fffffffbc60, invocation_hint=0x7fffffffbbb0) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7d6f250 <g_cclosure_marshal_VOID__PARAM>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555555c33670
+        __func__ = "g_closure_invoke"
+#50 0x00007ffff7d87bc9 in signal_emit_unlocked_R (node=node@entry=0x7fffffffbd90, detail=detail@entry=1409, instance=instance@entry=0x555555c33520, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffbc60) at ../../../gobject/gsignal.c:3929
+        tmp = <optimized out>
+        handler = 0x555555c33630
+        accumulator = <optimized out>
+        emission = {next = 0x7fffffffc4c0, instance = 0x555555c33520, ihint = {signal_id = 1, detail = 1409, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x555555c33630
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#51 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x555555c33520, signal_id=signal_id@entry=1, detail=detail@entry=1409, var_args=var_args@entry=0x7fffffffbef0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#52 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555555c33520, signal_id=1, detail=1409, var_args=var_args@entry=0x7fffffffbef0) at ../../../gobject/gsignal.c:3304
+No locals.
+#53 0x00007ffff7d89e83 in g_signal_emit (instance=<optimized out>, signal_id=<optimized out>, detail=<optimized out>) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffbfd0, reg_save_area = 0x7fffffffbf10}}
+#54 0x00007ffff7d75cd4 in g_object_dispatch_properties_changed (object=0x555555c33520, n_pspecs=<optimized out>, pspecs=<optimized out>) at ../../../gobject/gobject.c:1894
+        i = <optimized out>
+#55 0x00007ffff7d7c392 in g_object_notify_by_spec_internal (object=0x555555c33520, pspec=<optimized out>) at ../../../gobject/gobject.c:1999
+        object_flags = <optimized out>
+        needs_notify = 1
+        in_init = <optimized out>
+#56 g_object_notify (object=0x555555c33520, property_name=0x7ffff7f2bf31 "enabled") at ../../../gobject/gobject.c:2049
+        pspec = <optimized out>
+        __func__ = <optimized out>
+        _g_boolean_var_52 = <optimized out>
+        _g_boolean_var_53 = <optimized out>
+#57 g_object_notify (object=object@entry=0x555555c33520, property_name=property_name@entry=0x7ffff7f2bf31 "enabled") at ../../../gobject/gobject.c:2026
+        pspec = <optimized out>
+        __func__ = "g_object_notify"
+        gapg_temp_newval = <optimized out>
+        gapg_temp_atomic = <optimized out>
+#58 0x00007ffff7ea9776 in g_simple_action_set_enabled (simple=0x555555c33520, enabled=<optimized out>) at ../../../gio/gsimpleaction.c:543
+        __func__ = <optimized out>
+        _g_boolean_var_15 = <optimized out>
+        __inst = <optimized out>
+        __t = <optimized out>
+        __r = <optimized out>
+#59 0x00005555555e944a in nautilus_window_slot_set_allow_stop (self=self@entry=0x555555c30ee0, allow=allow@entry=1) at ../src/nautilus-window-slot.c:3018
+        action_map = <optimized out>
+        stop_action = 0x555555c33520
+        reload_action = 0x555555c33310
+        __func__ = "nautilus_window_slot_set_allow_stop"
+#60 0x00005555555eaa8d in begin_location_change (self=0x555555c30ee0, location=0x5555567b8850, previous_location=0x5555566b03f0, new_selection=0x0, type=NAUTILUS_LOCATION_CHANGE_STANDARD, distance=0)
+    at ../src/nautilus-window-slot.c:1583
+        __func__ = "begin_location_change"
+#61 0x00007ffff6073056 in ?? () from /usr/lib/x86_64-linux-gnu/libffi.so.8
+No symbol table info available.
+#62 0x00007ffff606ed16 in ?? () from /usr/lib/x86_64-linux-gnu/libffi.so.8
+No symbol table info available.
+#63 0x00007ffff60717ae in ffi_call () from /usr/lib/x86_64-linux-gnu/libffi.so.8
+No symbol table info available.
+#64 0x00007ffff7d70366 in g_cclosure_marshal_generic_va (closure=<optimized out>, return_value=<optimized out>, instance=<optimized out>, args_list=<optimized out>, marshal_data=<optimized out>, n_params=<optimized out>, 
+    param_types=<optimized out>) at ../../../gobject/gclosure.c:1747
+        rtype = <optimized out>
+        rvalue = 0x0
+        n_args = <optimized out>
+        unsigned_n_params = <optimized out>
+        atypes = <optimized out>
+        args = <optimized out>
+        storage = 0x7fffffffc250
+        i = <optimized out>
+        cif = {abi = FFI_UNIX64, nargs = 4, arg_types = 0x7fffffffc2a0, rtype = 0x7ffff60761a0 <ffi_type_void>, bytes = 0, flags = 0}
+        cc = <optimized out>
+        enum_tmpval = <optimized out>
+        tmpval_used = 0
+        args_copy = {{gp_offset = 40, fp_offset = 48, overflow_arg_area = 0x7fffffffc730, reg_save_area = 0x7fffffffc670}}
+        __func__ = "g_cclosure_marshal_generic_va"
+        _g_boolean_var_66 = <optimized out>
+#65 0x00007ffff7d89cc9 in _g_closure_invoke_va (closure=0x555555b675e0, return_value=0x0, instance=0x5555557dbfd0, args=0x7fffffffc650, n_params=2, param_types=0x555555a60e30) at ../../../gobject/gclosure.c:980
+        marshal = <optimized out>
+        marshal_data = <optimized out>
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 1, n_fnotifiers = 0, n_inotifiers = 2, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 1, n_fnotifiers = 0, n_inotifiers = 2, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 1114114}
+        real_closure = 0x555555b675c0
+        __func__ = <optimized out>
+        _g_boolean_var_49 = <optimized out>
+#66 signal_emit_valist_unlocked (instance=instance@entry=0x5555557dbfd0, signal_id=signal_id@entry=311, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffc650) at ../../../gobject/gsignal.c:3465
+        return_accu = 0x0
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        emission = {next = 0x7fffffffc800, instance = 0x5555557dbfd0, ihint = {signal_id = 311, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 93824997479872}
+        instance_type = <optimized out>
+        emission_return = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, 
+              v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        rtype = 4
+        static_scope = 0
+        fastpath_handler = <optimized out>
+        closure = <optimized out>
+        run_type = <optimized out>
+        hlist = <optimized out>
+        l = <optimized out>
+        fastpath = <optimized out>
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 2, single_va_closure_is_valid = <optimized out>, 
+          single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, 
+          va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+        __func__ = "signal_emit_valist_unlocked"
+#67 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555557dbfd0, signal_id=311, detail=0, var_args=var_args@entry=0x7fffffffc650) at ../../../gobject/gsignal.c:3304
+No locals.
+#68 0x00007ffff7d89e83 in g_signal_emit (instance=<optimized out>, signal_id=<optimized out>, detail=<optimized out>) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffc730, reg_save_area = 0x7fffffffc670}}
+#69 0x00007ffff7d89cc9 in _g_closure_invoke_va (closure=0x55555658a6d0, return_value=0x0, instance=0x5555569b9490, args=0x7fffffffc990, n_params=0, param_types=0x0) at ../../../gobject/gclosure.c:980
+        marshal = <optimized out>
+        marshal_data = <optimized out>
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x55555658a6b0
+        __func__ = <optimized out>
+        _g_boolean_var_49 = <optimized out>
+#70 signal_emit_valist_unlocked (instance=instance@entry=0x5555569b9490, signal_id=signal_id@entry=197, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffc990) at ../../../gobject/gsignal.c:3465
+        return_accu = 0x0
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        emission = {next = 0x7fffffffcb70, instance = 0x5555569b9490, ihint = {signal_id = 197, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 93824994889424}
+        instance_type = <optimized out>
+        emission_return = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, 
+              v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        rtype = 4
+        static_scope = 0
+        fastpath_handler = <optimized out>
+        closure = <optimized out>
+        run_type = <optimized out>
+        hlist = <optimized out>
+        l = <optimized out>
+        fastpath = <optimized out>
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 0, single_va_closure_is_valid = <optimized out>, 
+          single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, 
+          va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+        __func__ = "signal_emit_valist_unlocked"
+#71 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555569b9490, signal_id=197, detail=0, var_args=var_args@entry=0x7fffffffc990) at ../../../gobject/gsignal.c:3304
+No locals.
+#72 0x00007ffff7d89e83 in g_signal_emit (instance=<optimized out>, signal_id=<optimized out>, detail=<optimized out>) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffca70, reg_save_area = 0x7fffffffc9b0}}
+#73 0x00007ffff6af0468 in _gtk_marshal_VOID__INT_DOUBLE_DOUBLEv (closure=<optimized out>, return_value=<optimized out>, instance=<optimized out>, args=<optimized out>, marshal_data=<optimized out>, n_params=<optimized out>, 
+    param_types=0x5555559a09c0) at gtk/gtkmarshalers.c:3688
+        cc = <optimized out>
+        data1 = <optimized out>
+        data2 = <optimized out>
+        callback = <optimized out>
+        arg0 = 120
+        arg1 = 0
+        arg2 = -nan(0xfffffffffffff)
+        args_copy = {{gp_offset = 32, fp_offset = 80, overflow_arg_area = 0x7fffffffcde0, reg_save_area = 0x7fffffffcd20}}
+#74 0x00007ffff7d89cc9 in _g_closure_invoke_va (closure=0x555556481640, return_value=0x0, instance=0x5555566c1260, args=0x7fffffffcd00, n_params=3, param_types=0x5555559a09c0) at ../../../gobject/gclosure.c:980
+        marshal = <optimized out>
+        marshal_data = <optimized out>
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555556481620
+        __func__ = <optimized out>
+        _g_boolean_var_49 = <optimized out>
+#75 signal_emit_valist_unlocked (instance=instance@entry=0x5555566c1260, signal_id=signal_id@entry=187, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffcd00) at ../../../gobject/gsignal.c:3465
+        return_accu = 0x0
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        emission = {next = 0x7fffffffcf80, instance = 0x5555566c1260, ihint = {signal_id = 187, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 93824995336928}
+        instance_type = <optimized out>
+        emission_return = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, 
+              v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        rtype = 4
+        static_scope = 0
+        fastpath_handler = <optimized out>
+        closure = <optimized out>
+        run_type = <optimized out>
+        hlist = <optimized out>
+        l = <optimized out>
+        fastpath = <optimized out>
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 3, single_va_closure_is_valid = <optimized out>, 
+          single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, 
+          va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+        __func__ = "signal_emit_valist_unlocked"
+#76 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555566c1260, signal_id=187, detail=0, var_args=var_args@entry=0x7fffffffcd00) at ../../../gobject/gsignal.c:3304
+No locals.
+#77 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x5555566c1260, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffcde0, reg_save_area = 0x7fffffffcd20}}
+#78 0x00007ffff6bac114 in gtk_gesture_click_end (gesture=0x5555566c1260, sequence=0x0) at ../../../gtk/gtkgestureclick.c:275
+        click = 0x5555566c1260
+        priv = 0x5555566c11b0
+        current = 0x0
+        x = 1.4179688692092896
+        y = 19.484376907348633
+        interpreted = 1
+        state = <optimized out>
+#79 0x00007ffff7d6d803 in g_cclosure_marshal_VOID__BOXEDv (closure=<optimized out>, return_value=<optimized out>, instance=<optimized out>, args=<optimized out>, marshal_data=<optimized out>, n_params=<optimized out>, 
+    param_types=0x55555584a3a0) at ../../../gobject/gmarshal.c:1686
+        cc = <optimized out>
+        data1 = <optimized out>
+        data2 = <optimized out>
+        callback = <optimized out>
+        arg0 = 0x0
+        args_copy = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffd1f0, reg_save_area = 0x7fffffffd130}}
+#80 0x00007ffff7d89cc9 in _g_closure_invoke_va (closure=0x5555558246e0, return_value=0x0, instance=0x5555566c1260, args=0x7fffffffd110, n_params=1, param_types=0x55555584a3a0) at ../../../gobject/gclosure.c:980
+        marshal = <optimized out>
+        marshal_data = <optimized out>
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x5555558246c0
+        __func__ = <optimized out>
+        _g_boolean_var_49 = <optimized out>
+#81 signal_emit_valist_unlocked (instance=instance@entry=0x5555566c1260, signal_id=signal_id@entry=182, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd110) at ../../../gobject/gsignal.c:3465
+        return_accu = 0x0
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        emission = {next = 0x7fffffffd780, instance = 0x5555566c1260, ihint = {signal_id = 182, detail = 0, run_type = (G_SIGNAL_RUN_LAST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 93824995336928}
+        instance_type = <optimized out>
+        emission_return = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, 
+              v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        rtype = 4
+        static_scope = 0
+        fastpath_handler = <optimized out>
+        closure = <optimized out>
+        run_type = <optimized out>
+        hlist = <optimized out>
+        l = <optimized out>
+        fastpath = <optimized out>
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 1, single_va_closure_is_valid = <optimized out>, 
+          single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, 
+          va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+        __func__ = "signal_emit_valist_unlocked"
+#82 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555566c1260, signal_id=182, detail=0, var_args=var_args@entry=0x7fffffffd110) at ../../../gobject/gsignal.c:3304
+No locals.
+#83 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x5555566c1260, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffd1f0, reg_save_area = 0x7fffffffd130}}
+#84 0x00007ffff6baeb9d in _gtk_gesture_set_recognized (gesture=0x5555566c1260, recognized=0, sequence=0x0) at ../../../gtk/gtkgesture.c:340
+        priv = <optimized out>
+#85 _gtk_gesture_check_recognized (gesture=gesture@entry=0x5555566c1260, sequence=sequence@entry=0x0) at ../../../gtk/gtkgesture.c:381
+        priv = 0x5555566c1200
+        has_matching_touchpoints = 0
+#86 0x00007ffff6bb125b in gtk_gesture_handle_event (controller=0x5555566c1260, event=0x555556897330, x=1.4179688692092896, y=19.484376907348633) at ../../../gtk/gtkgesture.c:686
+        was_claimed = 0
+        gesture = 0x5555566c1260
+        sequence = 0x0
+        priv = 0x5555566c1200
+        source_device = <optimized out>
+        was_recognized = 1
+        event_type = <optimized out>
+        phase = GDK_TOUCHPAD_GESTURE_PHASE_BEGIN
+        state = GDK_BUTTON1_MASK
+        target = 0x555556615c60
+#87 0x00007ffff6bb1fd9 in gtk_gesture_single_handle_event (controller=0x5555566c1260, event=0x555556897330, x=1.4179688692092896, y=<optimized out>) at ../../../gtk/gtkgesturesingle.c:226
+        sequence = <optimized out>
+        priv = 0x5555566c11e0
+        source_device = <optimized out>
+        source = <optimized out>
+        button = <optimized out>
+        state = <optimized out>
+        i = <optimized out>
+        retval = <optimized out>
+        event_type = <optimized out>
+#88 0x00007ffff6d326fe in gtk_event_controller_handle_event (controller=<optimized out>, event=<optimized out>, target=<optimized out>, x=<optimized out>, y=<optimized out>) at ../../../gtk/gtkeventcontroller.c:381
+        controller_class = 0x555555884690
+        priv = <optimized out>
+        retval = <optimized out>
+        __func__ = <optimized out>
+#89 gtk_widget_run_controllers (widget=widget@entry=0x5555569b9490, event=event@entry=0x555556897330, target=target@entry=0x555556615c60, x=1.4179688692092896, y=<optimized out>, phase=phase@entry=GTK_PHASE_CAPTURE)
+    at ../../../gtk/gtkwidget.c:4820
+        this_handled = <optimized out>
+        is_gesture = <optimized out>
+        type = <optimized out>
+        controller_phase = <optimized out>
+        next = 0x555556750870
+        priv = 0x5555569b9340
+        controller = 0x5555566c1260
+        handled = 0
+        l = <optimized out>
+        __func__ = "gtk_widget_run_controllers"
+#90 0x00007ffff6d32c18 in _gtk_widget_captured_event (widget=0x5555569b9490, event=0x555556897330, target=0x555556615c60) at ../../../gtk/gtkwidget.c:4986
+        return_val = 0
+        x = 1.4179688692092896
+        y = 19.484376907348633
+        __func__ = "_gtk_widget_captured_event"
+#91 0x00007ffff6bf6352 in gtk_propagate_event_internal (widget=0x5555569b9490, widget@entry=0x555556615c60, event=event@entry=0x555556897330, topmost=<optimized out>) at ../../../gtk/gtkmain.c:1999
+        handled_event = 0
+        target = 0x555556615c60
+        widget_array = {start = 0x55555673d0d0, end = 0x55555673d1a8, end_allocation = 0x55555673d1d0, preallocated = {0x555556615c60, 0x555556765770, 0x5555569b9490, 0x55555642d7f0, 0x555555a6a260, 0x555555a6aa10, 
+            0x5555557c2c00, 0x5555557dbfd0, 0x5555557bf370, 0x555555a5f900, 0x555555a5a420, 0x555555a550b0, 0x555555a580a0, 0x55555586f240, 0x5555557da030, 0x555555a28c10}}
+        i = <optimized out>
+#92 0x00007ffff6bf64e1 in gtk_propagate_event (widget=widget@entry=0x555556615c60, event=event@entry=0x555556897330) at ../../../gtk/gtkmain.c:2081
+        window_group = <optimized out>
+        event_widget = <optimized out>
+        topmost = <optimized out>
+        __func__ = "gtk_propagate_event"
+#93 0x00007ffff6bf6ec3 in gtk_main_do_event (event=0x555556897330) at ../../../gtk/gtkmain.c:1771
+        event_widget = 0x5555557b1450
+        target_widget = <optimized out>
+        grab_widget = 0x555556615c60
+        window_group = 0x555555c06140
+        rewritten_event = <optimized out>
+        tmp_list = <optimized out>
+        handled_event = 0
+        __func__ = "gtk_main_do_event"
+#94 0x00007ffff6ef5748 in _gdk_marshal_BOOLEAN__POINTERv (closure=<optimized out>, return_value=0x7fffffffd830, instance=<optimized out>, args=<optimized out>, marshal_data=<optimized out>, n_params=<optimized out>, 
+    param_types=0x555555cee310) at gdk/gdkmarshalers.c:302
+        cc = <optimized out>
+        data1 = <optimized out>
+        data2 = <optimized out>
+        callback = <optimized out>
+        v_return = <optimized out>
+        arg0 = 0x5555556cebd0
+        args_copy = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffd9f0, reg_save_area = 0x7fffffffd930}}
+        __func__ = "_gdk_marshal_BOOLEAN__POINTERv"
+#95 0x00007ffff6f9c7ba in gdk_surface_event_marshallerv (closure=0x555556237db0, return_value=0x7fffffffd830, instance=0x555555d528a0, args=0x7fffffffd910, marshal_data=0x0, n_params=1, param_types=0x555555cee310)
+    at ../../../gdk/gdksurface.c:465
+        args_copy = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffd9f0, reg_save_area = 0x7fffffffd930}}
+        event = 0x555556897330
+#96 0x00007ffff7d89cc9 in _g_closure_invoke_va (closure=0x555556237db0, return_value=0x7fffffffd830, instance=0x555555d528a0, args=0x7fffffffd910, n_params=1, param_types=0x555555cee310) at ../../../gobject/gclosure.c:980
+        marshal = <optimized out>
+        marshal_data = <optimized out>
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555556237d90
+        __func__ = <optimized out>
+        _g_boolean_var_49 = <optimized out>
+#97 signal_emit_valist_unlocked (instance=instance@entry=0x555555d528a0, signal_id=signal_id@entry=411, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd910) at ../../../gobject/gsignal.c:3465
+        return_accu = 0x7fffffffd830
+        accu = {g_type = 20, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        emission = {next = 0x0, instance = 0x555555d528a0, ihint = {signal_id = 411, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 93824994656608}
+        instance_type = <optimized out>
+        emission_return = {g_type = 20, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, 
+              v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        rtype = 20
+        static_scope = 0
+        fastpath_handler = <optimized out>
+        closure = <optimized out>
+        run_type = <optimized out>
+        hlist = <optimized out>
+        l = <optimized out>
+        fastpath = <optimized out>
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 1, single_va_closure_is_valid = <optimized out>, 
+          single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, 
+          va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+        __func__ = "signal_emit_valist_unlocked"
+#98 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x555555d528a0, signal_id=411, detail=0, var_args=var_args@entry=0x7fffffffd910) at ../../../gobject/gsignal.c:3304
+No locals.
+#99 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x555555d528a0, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffd9f0, reg_save_area = 0x7fffffffd930}}
+#100 0x00007ffff6fa334e in gdk_surface_handle_event.isra.0 (event=event@entry=0x555556897330) at ../../../gdk/gdksurface.c:3036
+        surface = 0x555555d528a0
+        begin_time = 11212251802475
+        handled = 0
+#101 0x00007ffff6efbbec in _gdk_event_emit (event=0x555556897330) at ../../../gdk/gdkevents.c:491
+No locals.
+#102 gdk_event_source_dispatch (source=<optimized out>, callback=<optimized out>, user_data=<optimized out>) at ../../../gdk/broadway/gdkeventsource.c:378
+        display = <optimized out>
+        event = 0x555556897330
+#103 0x00007ffff7c5bb9b in g_main_dispatch (context=0x555555710fb0) at ../../../glib/gmain.c:3591
+        user_data = 0x0
+        callback = 0x0
+        gaig_temp = <optimized out>
+        gaig_temp = <optimized out>
+        cb_data = 0x0
+        need_destroy = <optimized out>
+        dispatch = 0x7ffff6f00590 <gdk_wayland_event_source_dispatch>
+        prev_source = 0x0
+        was_in_call = 0
+        cb_funcs = 0x0
+        begin_time_nsec = 11212251793618
+        source = 0x55555579df60
+        current = 0x5555557188d0
+        i = 0
+        __func__ = "g_main_dispatch"
+#104 0x00007ffff7c5d1d7 in g_main_context_dispatch_unlocked (context=0x555555710fb0) at ../../../glib/gmain.c:4451
+No locals.
+#105 g_main_context_iterate_unlocked (context=context@entry=0x555555710fb0, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../../../glib/gmain.c:4516
+        max_priority = 2147483647
+        timeout_usec = 19185
+        some_ready = 1
+        nfds = 3
+        allocated_nfds = <optimized out>
+        fds = 0x5555562c99c0
+        begin_time_nsec = <optimized out>
+#106 0x00007ffff7c5d3c3 in g_main_context_iteration (context=context@entry=0x555555710fb0, may_block=may_block@entry=1) at ../../../glib/gmain.c:4582
+        retval = <optimized out>
+#107 0x00007ffff7ea2acd in g_application_run (application=application@entry=0x5555556fa8b0, argc=argc@entry=1, argv=argv@entry=0x7fffffffdde8) at ../../../gio/gapplication.c:2742
+        arguments = 0x55555577c520
+        status = 0
+        context = 0x555555710fb0
+        acquired_context = <optimized out>
+        __func__ = "g_application_run"
+#108 0x000055555558c5d3 in main (argc=1, argv=0x7fffffffdde8) at ../src/nautilus-main.c:77
+        retval = <optimized out>
+        application = 0x5555556fa8b0
+(gdb) 
+

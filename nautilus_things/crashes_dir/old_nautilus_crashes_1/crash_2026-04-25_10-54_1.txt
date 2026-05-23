@@ -1,0 +1,201 @@
+denixx@denixx-u2604-1:~$ DEBUGINFOD_URLS=https://debuginfod.ubuntu.com gdb nautilus
+GNU gdb (Ubuntu 17.1-2ubuntu1) 17.1
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from nautilus...
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.ubuntu.com>
+Enable debuginfod for this session? (y or [n]) y
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+(No debugging symbols found in nautilus)
+(gdb) start
+❌️ Function "main" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) n
+Starting program: /usr/bin/nautilus 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffeebff6c0 (LWP 10528)]
+[New Thread 0x7fffee3fe6c0 (LWP 10529)]
+[New Thread 0x7fffedbfd6c0 (LWP 10530)]
+[New Thread 0x7fffed3fc6c0 (LWP 10532)]
+[New Thread 0x7fffecbfb6c0 (LWP 10533)]
+[New Thread 0x7fffdffff6c0 (LWP 10534)]
+[New Thread 0x7fffdf7fe6c0 (LWP 10535)]
+** Message: 10:51:10.024: Connecting to org.freedesktop.Tracker3.Miner.Files
+[New Thread 0x7fffdeffd6c0 (LWP 10536)]
+[New Thread 0x7fffde7fc6c0 (LWP 10537)]
+[New Thread 0x7fffddffb6c0 (LWP 10538)]
+[New Thread 0x7fffdd7fa6c0 (LWP 10540)]
+[New Thread 0x7fffdcbff6c0 (LWP 10541)]
+[New Thread 0x7fffc3fff6c0 (LWP 10542)]
+[New Thread 0x7fffc37fe6c0 (LWP 10543)]
+[New Thread 0x7fffc2ffd6c0 (LWP 10544)]
+[New Thread 0x7fffc27fc6c0 (LWP 10545)]
+[New Thread 0x7fffc1ffb6c0 (LWP 10546)]
+[New Thread 0x7fffc17fa6c0 (LWP 10547)]
+[New Thread 0x7fffc0ff96c0 (LWP 10548)]
+[New Thread 0x7fffbbfff6c0 (LWP 10549)]
+[New Thread 0x7fffbb7fe6c0 (LWP 10550)]
+[New Thread 0x7fffbaffd6c0 (LWP 10551)]
+[New Thread 0x7fffba7fc6c0 (LWP 10552)]
+[New Thread 0x7fffb9ffb6c0 (LWP 10553)]
+[New Thread 0x7fffb97fa6c0 (LWP 10554)]
+[New Thread 0x7fffb4ff96c0 (LWP 10555)]
+[Thread 0x7fffb4ff96c0 (LWP 10555) exited]
+[Thread 0x7fffbbfff6c0 (LWP 10549) exited]
+[Thread 0x7fffde7fc6c0 (LWP 10537) exited]
+[Thread 0x7fffdf7fe6c0 (LWP 10535) exited]
+[Thread 0x7fffdffff6c0 (LWP 10534) exited]
+[Thread 0x7fffecbfb6c0 (LWP 10533) exited]
+[New Thread 0x7fffde7fc6c0 (LWP 10556)]
+[New Thread 0x7fffdf7fe6c0 (LWP 10557)]
+[New Thread 0x7fffdffff6c0 (LWP 10558)]
+[New Thread 0x7fffb4ff96c0 (LWP 10559)]
+[New Thread 0x7fffb57ff6c0 (LWP 10560)]
+[New Thread 0x7fff7f5ff6c0 (LWP 10569)]
+[New Thread 0x7fff7edfe6c0 (LWP 10570)]
+[New Thread 0x7fff7e5fd6c0 (LWP 10571)]
+[New Thread 0x7fff7ddfc6c0 (LWP 10572)]
+[Thread 0x7fff7e5fd6c0 (LWP 10571) exited]
+[Thread 0x7fffb9ffb6c0 (LWP 10553) exited]
+[Thread 0x7fffba7fc6c0 (LWP 10552) exited]
+[Thread 0x7fffdcbff6c0 (LWP 10541) exited]
+[Thread 0x7fffbaffd6c0 (LWP 10551) exited]
+[Thread 0x7fffc1ffb6c0 (LWP 10546) exited]
+[Thread 0x7fffc17fa6c0 (LWP 10547) exited]
+[Thread 0x7fffbb7fe6c0 (LWP 10550) exited]
+[Thread 0x7fffc27fc6c0 (LWP 10545) exited]
+[Thread 0x7fff7ddfc6c0 (LWP 10572) exited]
+[Thread 0x7fffc0ff96c0 (LWP 10548) exited]
+[Thread 0x7fffb97fa6c0 (LWP 10554) exited]
+[Thread 0x7fffc2ffd6c0 (LWP 10544) exited]
+[Thread 0x7fffc37fe6c0 (LWP 10543) exited]
+[Thread 0x7fffdeffd6c0 (LWP 10536) exited]
+[New Thread 0x7fffdeffd6c0 (LWP 10596)]
+[New Thread 0x7fffc2ffd6c0 (LWP 10597)]
+[New Thread 0x7fffb97fa6c0 (LWP 10598)]
+[New Thread 0x7fffc37fe6c0 (LWP 10599)]
+[Detaching after fork from child process 10600]
+[New Thread 0x7fffdcbff6c0 (LWP 10603)]
+[Detaching after fork from child process 10604]
+[New Thread 0x7fffc27fc6c0 (LWP 10608)]
+[New Thread 0x7fffc1ffb6c0 (LWP 10609)]
+[New Thread 0x7fffc17fa6c0 (LWP 10610)]
+[Thread 0x7fffb97fa6c0 (LWP 10598) exited]
+[Thread 0x7fffc37fe6c0 (LWP 10599) exited]
+[New Thread 0x7fffc37fe6c0 (LWP 10623)]
+[New Thread 0x7fffb97fa6c0 (LWP 10624)]
+[New Thread 0x7fffc0ff96c0 (LWP 10625)]
+[New Thread 0x7fffbbbff6c0 (LWP 10626)]
+[Thread 0x7fffdcbff6c0 (LWP 10603) exited]
+[Detaching after fork from child process 10682]
+[New Thread 0x7fffdcbff6c0 (LWP 10696)]
+[New Thread 0x7fffdc9c66c0 (LWP 10697)]
+[Detaching after fork from child process 10698]
+[New Thread 0x7fffdc7c56c0 (LWP 10699)]
+[New Thread 0x7fffc03e86c0 (LWP 10705)]
+[Detaching after fork from child process 10706]
+[Thread 0x7fffdc7c56c0 (LWP 10699) exited]
+[Thread 0x7fffdcbff6c0 (LWP 10696) exited]
+free(): invalid size
+
+Thread 1 "nautilus" received signal SIGABRT, Aborted.
+Download failed: Некоректний аргумент.  Continuing without source file ./nptl/./nptl/pthread_kill.c.
+__pthread_kill_implementation (threadid=<optimized out>, signo=6, no_tid=0) at ./nptl/pthread_kill.c:44
+⚠️ warning: 44	./nptl/pthread_kill.c: Немає такого файла або каталогу
+(gdb) bt
+#0  __pthread_kill_implementation (threadid=<optimized out>, signo=6, no_tid=0) at ./nptl/pthread_kill.c:44
+#1  __pthread_kill_internal (threadid=<optimized out>, signo=6) at ./nptl/pthread_kill.c:89
+#2  __GI___pthread_kill (threadid=<optimized out>, signo=signo@entry=6) at ./nptl/pthread_kill.c:100
+#3  0x00007ffff5245b7e in __GI_raise (sig=sig@entry=6) at ../sysdeps/posix/raise.c:26
+#4  0x00007ffff52288ec in __GI_abort () at ./stdlib/abort.c:77
+#5  0x00007ffff5229979 in __libc_message_impl (vma_name=vma_name@entry=0x7ffff53db569 "glibc: fatal", fmt=fmt@entry=0x7ffff53deba5 "%s\n") at ../sysdeps/posix/libc_fatal.c:138
+#6  0x00007ffff52b0bac in __libc_message_wrapper (vmaname=0x7ffff53db569 "glibc: fatal", fmt=0x7ffff53deba5 "%s\n") at ../include/stdio.h:203
+#7  malloc_printerr (str=<optimized out>) at ./malloc/malloc.c:5341
+#8  0x00007ffff52b0bc4 in malloc_printerr_tail (str=<optimized out>) at ./malloc/malloc.c:5358
+#9  0x00007ffff6d37889 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#10 0x000055555562b227 in ?? ()
+#11 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#12 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#13 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#14 0x00007ffff6be162f in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#15 0x00007ffff6be227a in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#16 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#17 0x00007ffff6c4e120 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#18 0x00007ffff6c537a0 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#19 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#20 0x00007ffff6c1bcaa in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#21 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#22 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#23 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#24 0x00007ffff6c1bcaa in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#25 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#26 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#27 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#28 0x00007ffff6b2cd6e in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#29 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#30 0x00007ffff6c7e906 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#31 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#32 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#33 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#34 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#35 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#36 0x00007ffff56c1a8c in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+#37 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#38 0x00007ffff56c8b00 in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+#39 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#40 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#41 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#42 0x00007ffff568e54f in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+#43 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#44 0x00007ffff56c703c in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+#45 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#46 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#47 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#48 0x00007ffff5651404 in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+#49 0x00007ffff56598fd in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+#50 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#51 0x00007ffff6b1d230 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#52 0x00007ffff6d37e7f in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#53 0x00007ffff56dbde6 in ?? () from /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+--Type <RET> for more, q to quit, c to continue without paging--
+#54 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#55 0x00007ffff6d4a441 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#56 0x00007ffff6d37fb7 in gtk_widget_allocate () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#57 0x00007ffff6d46f9b in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#58 0x00007ffff6c48294 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#59 0x00007ffff6af0165 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#60 0x00007ffff7d89cc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#61 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#62 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#63 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#64 0x00007ffff7d87bc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#65 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#66 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#67 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#68 0x00007ffff6f71854 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#69 0x00007ffff7c5d9f1 in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#70 0x00007ffff7c5bb9b in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#71 0x00007ffff7c5d1d7 in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#72 0x00007ffff7c5d3c3 in g_main_context_iteration () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#73 0x00007ffff7ea2acd in g_application_run () from /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0
+#74 0x000055555558c5d3 in ?? ()
+#75 0x00007ffff522a601 in __libc_start_call_main (main=main@entry=0x55555558c4f0, argc=argc@entry=1, argv=argv@entry=0x7fffffffde78) at ../sysdeps/nptl/libc_start_call_main.h:59
+#76 0x00007ffff522a718 in __libc_start_main_impl (main=0x55555558c4f0, argc=1, argv=0x7fffffffde78, init=<optimized out>, fini=<optimized out>, rtld_fini=<optimized out>, stack_end=0x7fffffffde68) at ../csu/libc-start.c:360
+#77 0x000055555558c645 in ?? ()
+(gdb) 
+

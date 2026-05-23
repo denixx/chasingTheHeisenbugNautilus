@@ -1,0 +1,9 @@
+G_SLICE=always-malloc G_DEBUG=gc-friendly \
+valgrind --tool=memcheck \
+         --num-callers=40 \
+         --track-origins=yes \
+         --read-var-info=yes \
+         --leak-check=no \
+         --suppressions=$HOME/vg/glib.supp \
+         nautilus 2> nautilus-vg_2nd.log
+

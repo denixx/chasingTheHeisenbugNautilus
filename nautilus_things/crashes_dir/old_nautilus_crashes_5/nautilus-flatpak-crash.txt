@@ -1,0 +1,721 @@
+Signal        Stop	Print	Pass to program	Description
+SIGPIPE       No	No	Yes		Broken pipe
+Starting program: /app/bin/nautilus --new-window /home/denixx
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.gnome.org/>
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7ffff11ff6c0 (LWP 21)]
+[New Thread 0x7ffff09fe6c0 (LWP 22)]
+[New Thread 0x7ffff01fd6c0 (LWP 23)]
+[New Thread 0x7fffef9fc6c0 (LWP 24)]
+[New Thread 0x7fffef1576c0 (LWP 25)]
+[New Thread 0x7fffee9566c0 (LWP 26)]
+[New Thread 0x7fffee1556c0 (LWP 27)]
+[New Thread 0x7fffed9546c0 (LWP 28)]
+[New Thread 0x7fffed1536c0 (LWP 29)]
+[New Thread 0x7fffec9526c0 (LWP 30)]
+[New Thread 0x7fffcbfff6c0 (LWP 31)]
+[New Thread 0x7fffcb7fe6c0 (LWP 32)]
+⚠️ warning: Missing auto-load script at offset 0 in section .debug_gdb_scripts
+of file /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_nouveau.so.
+Use `info auto-load python-scripts [REGEXP]' to list them.
+[New Thread 0x7fffa8fff6c0 (LWP 33)]
+[New Thread 0x7fffa3fff6c0 (LWP 34)]
+[New Thread 0x7fffa33ff6c0 (LWP 35)]
+[New Thread 0x7fffa27ff6c0 (LWP 36)]
+[New Thread 0x7fffca6af6c0 (LWP 37)]
+[New Thread 0x7fffc9eae6c0 (LWP 38)]
+[New Thread 0x7fffb29ff6c0 (LWP 39)]
+[New Thread 0x7fffb20fe6c0 (LWP 40)]
+[New Thread 0x7fffa1ffe6c0 (LWP 41)]
+[New Thread 0x7fffa17fd6c0 (LWP 42)]
+[Thread 0x7fffb20fe6c0 (LWP 40) exited]
+[Thread 0x7fffed9546c0 (LWP 28) exited]
+[Thread 0x7fffee9566c0 (LWP 26) exited]
+[New Thread 0x7fffee9566c0 (LWP 43)]
+[New Thread 0x7fffed9546c0 (LWP 44)]
+[New Thread 0x7fffb20fe6c0 (LWP 45)]
+[New Thread 0x7fffb18fd6c0 (LWP 46)]
+[New Thread 0x7fffb16fc6c0 (LWP 47)]
+[Detaching after fork from child process 48]
+[Thread 0x7fffb20fe6c0 (LWP 45) exited]
+[Thread 0x7fffb18fd6c0 (LWP 46) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 52)]
+[Thread 0x7fffb18fd6c0 (LWP 52) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 53)]
+[Thread 0x7fffb18fd6c0 (LWP 53) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 54)]
+[Thread 0x7fffb18fd6c0 (LWP 54) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 55)]
+[Thread 0x7fffb18fd6c0 (LWP 55) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 56)]
+[Thread 0x7fffb18fd6c0 (LWP 56) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 57)]
+[Thread 0x7fffb18fd6c0 (LWP 57) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 58)]
+[Thread 0x7fffb18fd6c0 (LWP 58) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 59)]
+[Thread 0x7fffb18fd6c0 (LWP 59) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 60)]
+[Thread 0x7fffb18fd6c0 (LWP 60) exited]
+[New Thread 0x7fffb20fe6c0 (LWP 61)]
+[Thread 0x7fffed1536c0 (LWP 29) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 62)]
+[Thread 0x7fffb18fd6c0 (LWP 62) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 63)]
+[Thread 0x7fffb18fd6c0 (LWP 63) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 64)]
+[Thread 0x7fffb18fd6c0 (LWP 64) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 65)]
+[Thread 0x7fffb18fd6c0 (LWP 65) exited]
+[New Thread 0x7fffed1536c0 (LWP 66)]
+[Thread 0x7fffa17fd6c0 (LWP 42) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 67)]
+[Thread 0x7fffb18fd6c0 (LWP 67) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 68)]
+[Thread 0x7fffb18fd6c0 (LWP 68) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 69)]
+[Thread 0x7fffb18fd6c0 (LWP 69) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 70)]
+[Thread 0x7fffb18fd6c0 (LWP 70) exited]
+[New Thread 0x7fffb18fd6c0 (LWP 71)]
+[Thread 0x7fffb18fd6c0 (LWP 71) exited]
+[New Thread 0x7fffa17fd6c0 (LWP 72)]
+[New Thread 0x7fffb18fd6c0 (LWP 73)]
+[Thread 0x7fffec9526c0 (LWP 30) exited]
+[Thread 0x7fffb18fd6c0 (LWP 73) exited]
+
+Thread 1 "nautilus" received signal SIGSEGV, Segmentation fault.
+0x00007ffff74e5a4a in dispatch_event (display=display@entry=0x5555557bd1a0, queue=queue@entry=0x55555617a9a0) at ../src/wayland-client.c:1686
+1686		proxy_destroyed = !!(proxy->flags & WL_PROXY_FLAG_DESTROYED);
+#0  0x00007ffff74e5a4a in dispatch_event (display=display@entry=0x5555557bd1a0, queue=queue@entry=0x55555617a9a0) at ../src/wayland-client.c:1686
+        closure = 0x5555562524f0
+        proxy = 0x555500000000
+        opcode = 0
+        proxy_destroyed = <optimized out>
+#1  0x00007ffff74e5f43 in dispatch_queue (display=0x5555557bd1a0, queue=0x55555617a9a0) at ../src/wayland-client.c:1853
+        count = 0
+#2  wl_display_dispatch_queue_pending (display=0x5555557bd1a0, queue=0x55555617a9a0) at ../src/wayland-client.c:2190
+        ret = <optimized out>
+#3  0x00007fffa9fca5d1 in wsi_wl_swapchain_queue_present () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#4  0x00007fffa9fbdcff in wsi_common_queue_present () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#5  0x00007ffff6df2923 in gdk_vulkan_context_end_frame (draw_context=<optimized out>, context_data=<optimized out>, painted=<optimized out>) at ../gdk/gdkvulkancontext.c:981
+        context = <optimized out>
+        priv = <optimized out>
+        present = <optimized out>
+        present_regions = {sType = VK_STRUCTURE_TYPE_PRESENT_REGIONS_KHR, pNext = 0x7fffffffca40, swapchainCount = 1, pRegions = 0x7fffffffca10}
+        present_region = {rectangleCount = 3, pRectangles = 0x7fffffffc990}
+        fence_info = {sType = VK_STRUCTURE_TYPE_SWAPCHAIN_PRESENT_FENCE_INFO_KHR, pNext = 0x0, swapchainCount = 1, pFences = 0x555555d963c8}
+        pNext = <optimized out>
+#6  0x00007ffff6d65bc8 in gdk_vulkan_context_wayland_end_frame (context=0x555555d96500 [GdkWaylandVulkanContext], context_data=0x0, painted=0x555555d20130) at ../gdk/wayland/gdkvulkancontext-wayland.c:73
+        surface = 0x555555dc7f80 [GdkWaylandToplevel]
+        impl = 0x555555dc7f80 [GdkWaylandToplevel]
+        dx = 0
+        dy = 0
+#7  0x00007ffff6db29a9 in gdk_draw_context_end_frame_full (context=<optimized out>, context_data=<optimized out>) at ../gdk/gdkdrawcontext.c:508
+        priv = 0x555555d964d0
+#8  0x00007ffff6e7ee7d in gsk_gpu_renderer_render (renderer=<optimized out>, root=0x5555561d1000 [GskTransformNode], region=<optimized out>) at ../gsk/gpu/gskgpurenderer.c:499
+        self = <optimized out>
+        priv = 0x555556170800
+        frame = 0x5555563f97b0 [GskVulkanFrame]
+        backbuffer = 0x5555557f9580 [GskVulkanImage]
+        render_region = 0x555556a7b450
+        opaque_tmp = {origin = {x = 40, y = 25}, size = {width = 860, height = 550}}
+        opaque = <optimized out>
+        scale = 1
+        depth = <optimized out>
+        timestamp = 16556910081
+#9  0x00007ffff6e29a2d in gsk_renderer_render (renderer=renderer@entry=0x555556170870 [GskVulkanRenderer], root=root@entry=0x5555561d1000 [GskTransformNode], region=region@entry=0x555556d0ccc0) at ../gsk/gskrenderer.c:479
+        priv = <optimized out>
+        renderer_class = 0x5555561be5a0
+        clip = 0x5555565528e0
+        offload = 0x55555671fd90
+#10 0x00007ffff6b171ac in gtk_widget_render (widget=<optimized out>, surface=<optimized out>, region=0x555556d0ccc0) at ../gtk/gtkwidget.c:12288
+        priv = <optimized out>
+        snapshot = <optimized out>
+        renderer = 0x555556170870 [GskVulkanRenderer]
+        root = 0x5555561d1000 [GskTransformNode]
+        x = 25
+        y = 25
+        before_snapshot = <optimized out>
+        before_render = <optimized out>
+#11 0x00007ffff6b1f619 in surface_render (surface=<optimized out>, region=<optimized out>, widget=<optimized out>) at ../gtk/gtkwindow.c:4936
+#16 0x00007ffff7f502f3 in <emit signal 'render' on instance 0x555555dc7f80 [GdkWaylandToplevel]> (instance=instance@entry=0x555555dc7f80, signal_id=<optimized out>, detail=detail@entry=0) at ../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffd1a0, reg_save_area = 0x7fffffffd0e0}}
+    #12 0x00007ffff6d36251 in _gdk_marshal_BOOLEAN__BOXEDv (closure=<optimized out>, return_value=0x7fffffffcfc0, instance=<optimized out>, args=<optimized out>, marshal_data=<optimized out>, n_params=<optimized out>, param_types=0x555555dc7500) at gdk/gdkmarshalers.c:130
+                cc = <optimized out>
+                data1 = <optimized out>
+                data2 = <optimized out>
+                callback = <optimized out>
+                v_return = <optimized out>
+                arg0 = 0x555556d0ccc0
+                args_copy = {{gp_offset = 32, fp_offset = 48, overflow_arg_area = 0x7fffffffd1a0, reg_save_area = 0x7fffffffd0e0}}
+    #13 0x00007ffff7f32936 in _g_closure_invoke_va (closure=closure@entry=0x555556240860, return_value=return_value@entry=0x7fffffffcfc0, instance=instance@entry=0x555555dc7f80, args=args@entry=0x7fffffffd0c0, n_params=n_params@entry=1, param_types=param_types@entry=0x555555dc7500) at ../gobject/gclosure.c:980
+                marshal = 0x7ffff6d361a0 <_gdk_marshal_BOOLEAN__BOXEDv>
+                marshal_data = 0x0
+                in_marshal = 0
+                reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x25800000000, data = 0x0, notifiers = 0x555555dc6bf0}, atomic_int = 2}
+                real_closure = 0x555556240840
+    #14 0x00007ffff7f4970d in signal_emit_valist_unlocked (instance=instance@entry=0x555555dc7f80, signal_id=signal_id@entry=405, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd0c0) at ../gobject/gsignal.c:3465
+                return_accu = 0x7fffffffcfc0
+                accu = {g_type = 0x14 [gboolean], data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+                emission = {next = 0x7fffffffd310, instance = 0x555555dc7f80, ihint = {signal_id = 405, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 0x5555557c2bc0 [GdkWaylandToplevel/GdkWaylandSurface/GdkSurface]}
+                instance_type = <optimized out>
+                emission_return = {g_type = 0x14 [gboolean], data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+                rtype = 0x14 [gboolean]
+                static_scope = 0
+                fastpath_handler = <optimized out>
+                closure = <optimized out>
+                run_type = <optimized out>
+                hlist = <optimized out>
+                l = <optimized out>
+                fastpath = <optimized out>
+                instance_and_params = <optimized out>
+                param_values = <optimized out>
+                node = <optimized out>
+                i = <optimized out>
+                node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 1, single_va_closure_is_valid = <optimized out>, single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+    #15 0x00007ffff7f50238 in g_signal_emit_valist (instance=0x555555dc7f80, signal_id=405, detail=0, var_args=0x7fffffffd0c0) at ../gobject/gsignal.c:3304
+#17 0x00007ffff6de70c6 in gdk_surface_paint_on_clock (clock=<optimized out>, data=0x555555dc7f80) at ../gdk/gdksurface.c:1374
+        handled = 32767
+        surface = <optimized out>
+        expose_region = 0x555556d0ccc0
+        _g_boolean_var_34 = <optimized out>
+        __inst = <optimized out>
+        __t = <optimized out>
+        __r = <optimized out>
+#18 gdk_surface_paint_on_clock (clock=<optimized out>, data=0x555555dc7f80) at ../gdk/gdksurface.c:1350
+        surface = 0x555555dc7f80 [GdkWaylandToplevel]
+        expose_region = <optimized out>
+        handled = <optimized out>
+#22 0x00007ffff7f502f3 in <emit signal 'paint' on instance 0x555555dc8b20 [GdkFrameClockIdle]> (instance=instance@entry=0x555555dc8b20, signal_id=<optimized out>, detail=detail@entry=0) at ../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffd580, reg_save_area = 0x7fffffffd4c0}}
+    #19 0x00007ffff7f32936 in _g_closure_invoke_va (closure=closure@entry=0x555555dc8c70, return_value=return_value@entry=0x0, instance=instance@entry=0x555555dc8b20, args=args@entry=0x7fffffffd4a0, n_params=n_params@entry=0, param_types=param_types@entry=0x0) at ../gobject/gclosure.c:980
+                marshal = 0x7ffff7f34d60 <g_cclosure_marshal_VOID__VOIDv>
+                marshal_data = 0x0
+                in_marshal = 0
+                reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x7fffffffd290, notifiers = 0x7ffff7f32936 <_g_closure_invoke_va+438>}, atomic_int = 2}
+                real_closure = 0x555555dc8c50
+    #20 0x00007ffff7f4a4d9 in signal_emit_valist_unlocked (instance=instance@entry=0x555555dc8b20, signal_id=signal_id@entry=414, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd4a0) at ../gobject/gsignal.c:3465
+                return_accu = 0x0
+                accu = {g_type = 0x0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+                emission = {next = 0x0, instance = 0x555555dc8b20, ihint = {signal_id = 414, detail = 0, run_type = (G_SIGNAL_RUN_FIRST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 0x555555dc9400 [GdkFrameClockIdle/GdkFrameClock]}
+                instance_type = <optimized out>
+                emission_return = {g_type = 0x0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+                rtype = 0x4 [void]
+                static_scope = 0
+                fastpath_handler = <optimized out>
+                closure = <optimized out>
+                run_type = <optimized out>
+                hlist = <optimized out>
+                l = <optimized out>
+                fastpath = <optimized out>
+                instance_and_params = <optimized out>
+                param_values = <optimized out>
+                node = <optimized out>
+                i = <optimized out>
+                node_copy = {signal_id = <optimized out>, itype = <optimized out>, name = <optimized out>, destroyed = <optimized out>, flags = <optimized out>, n_params = 0, single_va_closure_is_valid = <optimized out>, single_va_closure_is_after = <optimized out>, param_types = <optimized out>, return_type = <optimized out>, class_closure_bsa = <optimized out>, accumulator = <optimized out>, c_marshaller = <optimized out>, va_marshaller = <optimized out>, emission_hooks = <optimized out>, single_va_closure = <optimized out>}
+    #21 0x00007ffff7f50238 in g_signal_emit_valist (instance=0x555555dc8b20, signal_id=414, detail=0, var_args=0x7fffffffd4a0) at ../gobject/gsignal.c:3304
+#23 0x00007ffff6dbc27d in _gdk_frame_clock_emit_paint (frame_clock=frame_clock@entry=0x555555dc8b20 [GdkFrameClockIdle]) at ../gdk/gdkframeclock.c:741
+        before = 16556909984592
+#24 0x00007ffff6dbd32d in gdk_frame_clock_paint_idle (data=0x555555dc8b20, data@entry=<error reading variable: value has been optimized out>) at ../gdk/gdkframeclockidle.c:634
+        clock = 0x555555dc8b20 [GdkFrameClockIdle]
+        clock_idle = 0x555555dc8b20 [GdkFrameClockIdle]
+        priv = 0x555555dc8880
+        skip_to_resume_events = 0
+        timings = 0x555556610f50
+        before = 16556908979246
+#25 0x00007ffff7b05c61 in g_timeout_dispatch (source=0x5555564544e0, callback=<optimized out>, user_data=<optimized out>) at ../glib/gmain.c:5324
+        timeout_source = 0x5555564544e0
+        again = <optimized out>
+#26 0x00007ffff7b0188b in g_main_dispatch (context=context@entry=0x555555730150) at ../glib/gmain.c:3591
+        dispatch = 0x7ffff7b05c40 <g_timeout_dispatch>
+        prev_source = 0x0
+        begin_time_nsec = 16556907679650
+        was_in_call = 0
+        user_data = 0x555555dc8b20
+        callback = 0x7ffff6dbd530 <gdk_frame_clock_flush_idle>
+        cb_funcs = 0x7ffff7bfe260 <g_source_callback_funcs>
+        cb_data = 0x5555567403e0
+        need_destroy = <optimized out>
+        source = 0x5555564544e0
+        current = 0x5555557376a0
+        i = 0
+#27 0x00007ffff7b04cb7 in g_main_context_dispatch_unlocked (context=0x555555730150) at ../glib/gmain.c:4451
+#28 g_main_context_iterate_unlocked (context=context@entry=0x555555730150, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../glib/gmain.c:4516
+        max_priority = 1
+        timeout_usec = 0
+        some_ready = 1
+        nfds = 3
+        allocated_nfds = <optimized out>
+        fds = 0x555555813640
+        begin_time_nsec = <optimized out>
+#29 0x00007ffff7b05513 in g_main_context_iteration (context=context@entry=0x555555730150, may_block=may_block@entry=1) at ../glib/gmain.c:4582
+        retval = <optimized out>
+#30 0x00007ffff7cff3ad in g_application_run (application=application@entry=0x555555717b70 [NautilusApplication], argc=argc@entry=3, argv=argv@entry=0x7fffffffd978) at ../gio/gapplication.c:2742
+        arguments = 0x55555579dec0
+        status = 0
+        context = 0x555555730150
+        acquired_context = <optimized out>
+#31 0x000055555559b253 in main (argc=3, argv=0x7fffffffd978) at ../src/nautilus-main.c:77
+        retval = <optimized out>
+        application = 0x555555717b70 [NautilusApplication]
+
+Thread 49 (Thread 0x7fffa17fd6c0 (LWP 72) "pool-13"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xadc, mutex=0x5555557280c0, end_time=16556976037) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x5555557280c8, mutex=mutex@entry=0x5555557280c0, end_time=end_time@entry=16556976037) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x5555557280c0, wait=1, end_time=16556976037) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7b3984a in g_thread_pool_wait_for_new_task (pool=0x555555729ae0) at ../glib/gthreadpool.c:262
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc0012c0) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 43 (Thread 0x7fffed1536c0 (LWP 66) "pool-12"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xae0, mutex=0x5555557280c0, end_time=16556978248) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x5555557280c8, mutex=mutex@entry=0x5555557280c0, end_time=end_time@entry=16556978248) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x5555557280c0, wait=1, end_time=16556978248) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7b3984a in g_thread_pool_wait_for_new_task (pool=0x555555729ae0) at ../glib/gthreadpool.c:262
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc001bc0) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 38 (Thread 0x7fffb20fe6c0 (LWP 61) "pool-11"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xadd, mutex=0x5555557280c0, end_time=16556976699) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x5555557280c8, mutex=mutex@entry=0x5555557280c0, end_time=end_time@entry=16556976699) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x5555557280c0, wait=1, end_time=16556976699) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7b3984a in g_thread_pool_wait_for_new_task (pool=0x555555729ae0) at ../glib/gthreadpool.c:262
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc000e40) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 28 (Thread 0x7fffb16fc6c0 (LWP 47) "gly-hdl-loader"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=0, nr=61) at cancellation.c:49
+#2  0x00007ffff594ad84 in __syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=0, nr=61) at cancellation.c:75
+#3  0x00007ffff59bb63f in __GI___wait4 (pid=<optimized out>, stat_loc=<optimized out>, options=<optimized out>, usage=<optimized out>) at ../sysdeps/unix/sysv/linux/wait4.c:30
+#4  0x00007ffff78a1e8b in std::sys::process::unix::unix::Process::wait () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#5  0x00007ffff7699e2c in std::sys::backtrace::__rust_begin_short_backtrace () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#6  0x00007ffff76a2df9 in core::ops::function::FnOnce::call_once{{vtable.shim}} () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#7  0x00007ffff78b3401 in std::sys::thread::unix::Thread::new::thread_start () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#8  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#9  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 25 (Thread 0x7fffed9546c0 (LWP 44) "async-io"):
+#0  0x00007ffff776c823 in async_io::reactor::ReactorLock::react () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#1  0x00007ffff776bee2 in std::sys::backtrace::__rust_begin_short_backtrace () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#2  0x00007ffff776baec in core::ops::function::FnOnce::call_once{{vtable.shim}} () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#3  0x00007ffff78b3401 in std::sys::thread::unix::Thread::new::thread_start () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#4  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#5  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 24 (Thread 0x7fffee9566c0 (LWP 43) "gly-global-exec"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff78b2cc5 in std::sys::sync::condvar::futex::Condvar::wait () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#2  0x00007ffff781cd3b in parking::Inner::park () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#3  0x00007ffff7765610 in async_global_executor::threading::thread_main_loop () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#4  0x00007ffff7763b79 in std::sys::backtrace::__rust_begin_short_backtrace () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#5  0x00007ffff7763a1f in core::ops::function::FnOnce::call_once{{vtable.shim}} () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#6  0x00007ffff78b3401 in std::sys::thread::unix::Thread::new::thread_start () at /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 22 (Thread 0x7fffa1ffe6c0 (LWP 41) "pool-9"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xade, mutex=0x5555557280c0, end_time=16556977349) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x5555557280c8, mutex=mutex@entry=0x5555557280c0, end_time=end_time@entry=16556977349) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x5555557280c0, wait=1, end_time=16556977349) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7b3984a in g_thread_pool_wait_for_new_task (pool=0x555555729ae0) at ../glib/gthreadpool.c:262
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc001e70) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 20 (Thread 0x7fffb29ff6c0 (LWP 39) "nautilu:disk$3"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x5555557d3524, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555557d3500, mutex=0x5555557d34d0, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555557d3500, mutex=0x5555557d34d0) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 19 (Thread 0x7fffc9eae6c0 (LWP 38) "nautilu:disk$2"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x5555557d3524, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555557d3500, mutex=0x5555557d34d0, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555557d3500, mutex=0x5555557d34d0) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 18 (Thread 0x7fffca6af6c0 (LWP 37) "nautilu:disk$1"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x5555557d3524, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555557d3500, mutex=0x5555557d34d0, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555557d3500, mutex=0x5555557d34d0) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 17 (Thread 0x7fffa27ff6c0 (LWP 36) "nautilu:disk$0"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x5555558357e0, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x5555558357e0, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x5555558357e0, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555558357c0, mutex=0x555555835790, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555558357c0, mutex=0x555555835790) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 16 (Thread 0x7fffa33ff6c0 (LWP 35) "nautilu:disk$0"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x5555557fcfc0, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x5555557fcfc0, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x5555557fcfc0, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555557fcfa0, mutex=0x5555557fcf70, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555557fcfa0, mutex=0x5555557fcf70) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 15 (Thread 0x7fffa3fff6c0 (LWP 34) "nautilu:disk$0"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x555555834700, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x555555834700, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x555555834700, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555558346e0, mutex=0x5555558346b0, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555558346e0, mutex=0x5555558346b0) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 14 (Thread 0x7fffa8fff6c0 (LWP 33) "nautilu:disk$0"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=0, a6=a6@entry=4294967295, nr=202) at cancellation.c:49
+#2  0x00007ffff594b3ac in __futex_abstimed_wait_common64 (private=0, futex_word=0x5555557d3524, expected=<optimized out>, op=<optimized out>, abstime=0x0, cancel=true) at futex-internal.c:57
+#3  __futex_abstimed_wait_common (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0, cancel=cancel@entry=true) at futex-internal.c:87
+#4  0x00007ffff594b40f in __GI___futex_abstimed_wait_cancelable64 (futex_word=futex_word@entry=0x5555557d3524, expected=<optimized out>, clockid=clockid@entry=0, abstime=abstime@entry=0x0, private=private@entry=0) at futex-internal.c:139
+#5  0x00007ffff594da7e in __pthread_cond_wait_common (cond=0x5555557d3500, mutex=0x5555557d34d0, clockid=0, abstime=0x0) at pthread_cond_wait.c:421
+#6  ___pthread_cond_wait (cond=0x5555557d3500, mutex=0x5555557d34d0) at pthread_cond_wait.c:453
+#7  0x00007fffaa17817d in cnd_wait () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#8  0x00007fffaa141f0c in util_queue_thread_func () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#9  0x00007fffaa1780dc in impl_thrd_routine () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 13 (Thread 0x7fffcb7fe6c0 (LWP 32) "[pango] fontcon"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b3885b in g_cond_wait_impl (cond=0x5555557b7928, mutex=0x5555557b7920) at ../glib/gthread-posix.c:1026
+#2  g_cond_wait (cond=cond@entry=0x5555557b7928, mutex=mutex@entry=0x5555557b7920) at ../glib/gthread.c:1686
+#3  0x00007ffff7ac9d8c in g_async_queue_pop_intern_unlocked (queue=0x5555557b7920, wait=1, end_time=-1) at ../glib/gasyncqueue.c:376
+#4  0x00007ffff7aca27c in g_async_queue_pop (queue=queue@entry=0x5555557b7920) at ../glib/gasyncqueue.c:410
+#5  0x00007ffff5135b09 in fc_thread_func (data=0x5555557b7920) at ../pango/pangofc-fontmap.c:998
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x5555557b7280) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 12 (Thread 0x7fffcbfff6c0 (LWP 31) "pool-7"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xda, mutex=0x555555728300, end_time=16571078861) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x555555728308, mutex=mutex@entry=0x555555728300, end_time=end_time@entry=16571078861) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x555555728300, wait=1, end_time=16571078861) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7aca3fd in g_async_queue_timeout_pop (queue=0x555555728300, timeout=timeout@entry=15000000) at ../glib/gasyncqueue.c:502
+#5  0x00007ffff7b3969f in g_thread_pool_wait_for_new_pool () at ../glib/gthreadpool.c:169
+#6  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:394
+#7  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc001980) at ../glib/gthread.c:893
+#8  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#9  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 8 (Thread 0x7fffee1556c0 (LWP 27) "pool-3"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xae1, mutex=0x5555557280c0, end_time=16556978684) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x5555557280c8, mutex=mutex@entry=0x5555557280c0, end_time=end_time@entry=16556978684) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x5555557280c0, wait=1, end_time=16556978684) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7b3984a in g_thread_pool_wait_for_new_task (pool=0x555555729ae0) at ../glib/gthreadpool.c:262
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc001080) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 6 (Thread 0x7fffef1576c0 (LWP 25) "pool-0"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b38d5b in g_cond_wait_until_impl (cond=0xadf, mutex=0x5555557280c0, end_time=16556977483) at ../glib/gthread-posix.c:1159
+#2  g_cond_wait_until (cond=cond@entry=0x5555557280c8, mutex=mutex@entry=0x5555557280c0, end_time=end_time@entry=16556977483) at ../glib/gthread.c:1782
+#3  0x00007ffff7ac9d4d in g_async_queue_pop_intern_unlocked (queue=0x5555557280c0, wait=1, end_time=16556977483) at ../glib/gasyncqueue.c:379
+#4  0x00007ffff7b3984a in g_thread_pool_wait_for_new_task (pool=0x555555729ae0) at ../glib/gthreadpool.c:262
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x7fffdc000c00) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 5 (Thread 0x7fffef9fc6c0 (LWP 24) "pool-1"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b3885b in g_cond_wait_impl (cond=0x55555574b348, mutex=0x55555574b340) at ../glib/gthread-posix.c:1026
+#2  g_cond_wait (cond=cond@entry=0x55555574b348, mutex=mutex@entry=0x55555574b340) at ../glib/gthread.c:1686
+#3  0x00007ffff7ac9d8c in g_async_queue_pop_intern_unlocked (queue=0x55555574b340, wait=1, end_time=-1) at ../glib/gasyncqueue.c:376
+#4  0x00007ffff7b396fb in g_thread_pool_wait_for_new_task (pool=0x55555574ca30) at ../glib/gthreadpool.c:245
+#5  g_thread_pool_thread_proxy (data=<optimized out>) at ../glib/gthreadpool.c:325
+#6  0x00007ffff7b39019 in g_thread_proxy (data=0x55555574ca90) at ../glib/gthread.c:893
+#7  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#8  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 4 (Thread 0x7ffff01fd6c0 (LWP 23) "gdbus"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=8, a6=a6@entry=0, nr=271) at cancellation.c:49
+#2  0x00007ffff594ad84 in __syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=8, a6=a6@entry=0, nr=271) at cancellation.c:75
+#3  0x00007ffff59c51d6 in __GI_ppoll (fds=fds@entry=0x7fffe0030d50, nfds=nfds@entry=6, timeout=<optimized out>, timeout@entry=0x0, sigmask=sigmask@entry=0x0) at ../sysdeps/unix/sysv/linux/ppoll.c:42
+#4  0x00007ffff7b04dd1 in ppoll (__fds=0x7fffe0030d50, __nfds=6, __timeout=0x0, __ss=0x0) at /usr/include/x86_64-linux-gnu/bits/poll2.h:101
+#5  g_main_context_poll_unlocked (priority=<optimized out>, context=0x5555557358e0, timeout_usec=<optimized out>, fds=0x7fffe0030d50, n_fds=6) at ../glib/gmain.c:4837
+#6  g_main_context_iterate_unlocked (context=0x5555557358e0, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../glib/gmain.c:4511
+#7  0x00007ffff7b05807 in g_main_loop_run (loop=0x555555735ad0) at ../glib/gmain.c:4721
+#8  0x00007ffff7d40eb2 in gdbus_shared_thread_func (user_data=0x5555557374c0) at ../gio/gdbusprivate.c:284
+#9  0x00007ffff7b39019 in g_thread_proxy (data=0x555555735af0) at ../glib/gthread.c:893
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 3 (Thread 0x7ffff09fe6c0 (LWP 22) "gmain"):
+#0  __syscall_cancel_arch () at ../sysdeps/unix/sysv/linux/x86_64/syscall_cancel.S:56
+#1  0x00007ffff594ad3c in __internal_syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=8, a6=a6@entry=0, nr=271) at cancellation.c:49
+#2  0x00007ffff594ad84 in __syscall_cancel (a1=<optimized out>, a2=<optimized out>, a3=<optimized out>, a4=<optimized out>, a5=a5@entry=8, a6=a6@entry=0, nr=271) at cancellation.c:75
+#3  0x00007ffff59c51d6 in __GI_ppoll (fds=fds@entry=0x7fffe8000be0, nfds=nfds@entry=2, timeout=<optimized out>, timeout@entry=0x7ffff09fd810, sigmask=sigmask@entry=0x0) at ../sysdeps/unix/sysv/linux/ppoll.c:42
+#4  0x00007ffff7b04dd1 in ppoll (__fds=0x7fffe8000be0, __nfds=2, __timeout=0x7ffff09fd810, __ss=0x0) at /usr/include/x86_64-linux-gnu/bits/poll2.h:101
+#5  g_main_context_poll_unlocked (priority=<optimized out>, context=0x555555729d70, timeout_usec=<optimized out>, fds=0x7fffe8000be0, n_fds=2) at ../glib/gmain.c:4837
+#6  g_main_context_iterate_unlocked (context=context@entry=0x555555729d70, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../glib/gmain.c:4511
+#7  0x00007ffff7b05513 in g_main_context_iteration (context=0x555555729d70, may_block=may_block@entry=1) at ../glib/gmain.c:4582
+#8  0x00007ffff7b05561 in glib_worker_main (data=<optimized out>) at ../glib/gmain.c:6790
+#9  0x00007ffff7b39019 in g_thread_proxy (data=0x555555729f70) at ../glib/gthread.c:893
+#10 0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#11 0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 2 (Thread 0x7ffff11ff6c0 (LWP 21) "pool-spawner"):
+#0  syscall () at ../sysdeps/unix/sysv/linux/x86_64/syscall.S:38
+#1  0x00007ffff7b3885b in g_cond_wait_impl (cond=0x555555729b48, mutex=0x555555729b40) at ../glib/gthread-posix.c:1026
+#2  g_cond_wait (cond=cond@entry=0x555555729b48, mutex=mutex@entry=0x555555729b40) at ../glib/gthread.c:1686
+#3  0x00007ffff7ac9d8c in g_async_queue_pop_intern_unlocked (queue=0x555555729b40, wait=1, end_time=-1) at ../glib/gasyncqueue.c:376
+#4  0x00007ffff7b392f4 in g_thread_pool_spawn_thread (data=<optimized out>) at ../glib/gthreadpool.c:297
+#5  0x00007ffff7b39019 in g_thread_proxy (data=0x555555729bb0) at ../glib/gthread.c:893
+#6  0x00007ffff594e56a in start_thread (arg=<optimized out>) at pthread_create.c:448
+#7  0x00007ffff59d1e94 in clone () at ../sysdeps/unix/sysv/linux/x86_64/clone.S:100
+
+Thread 1 (Thread 0x7ffff1819d00 (LWP 18) "nautilus"):
+#0  0x00007ffff74e5a4a in dispatch_event (display=display@entry=0x5555557bd1a0, queue=queue@entry=0x55555617a9a0) at ../src/wayland-client.c:1686
+#1  0x00007ffff74e5f43 in dispatch_queue (display=0x5555557bd1a0, queue=0x55555617a9a0) at ../src/wayland-client.c:1853
+#2  wl_display_dispatch_queue_pending (display=0x5555557bd1a0, queue=0x55555617a9a0) at ../src/wayland-client.c:2190
+#3  0x00007fffa9fca5d1 in wsi_wl_swapchain_queue_present () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#4  0x00007fffa9fbdcff in wsi_common_queue_present () at /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+#5  0x00007ffff6df2923 in gdk_vulkan_context_end_frame (draw_context=<optimized out>, context_data=<optimized out>, painted=<optimized out>) at ../gdk/gdkvulkancontext.c:981
+#6  0x00007ffff6d65bc8 in gdk_vulkan_context_wayland_end_frame (context=0x555555d96500 [GdkWaylandVulkanContext], context_data=0x0, painted=0x555555d20130) at ../gdk/wayland/gdkvulkancontext-wayland.c:73
+#7  0x00007ffff6db29a9 in gdk_draw_context_end_frame_full (context=<optimized out>, context_data=<optimized out>) at ../gdk/gdkdrawcontext.c:508
+#8  0x00007ffff6e7ee7d in gsk_gpu_renderer_render (renderer=<optimized out>, root=0x5555561d1000 [GskTransformNode], region=<optimized out>) at ../gsk/gpu/gskgpurenderer.c:499
+#9  0x00007ffff6e29a2d in gsk_renderer_render (renderer=renderer@entry=0x555556170870 [GskVulkanRenderer], root=root@entry=0x5555561d1000 [GskTransformNode], region=region@entry=0x555556d0ccc0) at ../gsk/gskrenderer.c:479
+#10 0x00007ffff6b171ac in gtk_widget_render (widget=<optimized out>, surface=<optimized out>, region=0x555556d0ccc0) at ../gtk/gtkwidget.c:12288
+#11 0x00007ffff6b1f619 in surface_render (surface=<optimized out>, region=<optimized out>, widget=<optimized out>) at ../gtk/gtkwindow.c:4936
+#16 0x00007ffff7f502f3 in <emit signal 'render' on instance 0x555555dc7f80 [GdkWaylandToplevel]> (instance=instance@entry=0x555555dc7f80, signal_id=<optimized out>, detail=detail@entry=0) at ../gobject/gsignal.c:3624
+    #12 0x00007ffff6d36251 in _gdk_marshal_BOOLEAN__BOXEDv (closure=<optimized out>, return_value=0x7fffffffcfc0, instance=<optimized out>, args=<optimized out>, marshal_data=<optimized out>, n_params=<optimized out>, param_types=0x555555dc7500) at gdk/gdkmarshalers.c:130
+    #13 0x00007ffff7f32936 in _g_closure_invoke_va (closure=closure@entry=0x555556240860, return_value=return_value@entry=0x7fffffffcfc0, instance=instance@entry=0x555555dc7f80, args=args@entry=0x7fffffffd0c0, n_params=n_params@entry=1, param_types=param_types@entry=0x555555dc7500) at ../gobject/gclosure.c:980
+    #14 0x00007ffff7f4970d in signal_emit_valist_unlocked (instance=instance@entry=0x555555dc7f80, signal_id=signal_id@entry=405, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd0c0) at ../gobject/gsignal.c:3465
+    #15 0x00007ffff7f50238 in g_signal_emit_valist (instance=0x555555dc7f80, signal_id=405, detail=0, var_args=0x7fffffffd0c0) at ../gobject/gsignal.c:3304
+#17 0x00007ffff6de70c6 in gdk_surface_paint_on_clock (clock=<optimized out>, data=0x555555dc7f80) at ../gdk/gdksurface.c:1374
+#18 gdk_surface_paint_on_clock (clock=<optimized out>, data=0x555555dc7f80) at ../gdk/gdksurface.c:1350
+#22 0x00007ffff7f502f3 in <emit signal 'paint' on instance 0x555555dc8b20 [GdkFrameClockIdle]> (instance=instance@entry=0x555555dc8b20, signal_id=<optimized out>, detail=detail@entry=0) at ../gobject/gsignal.c:3624
+    #19 0x00007ffff7f32936 in _g_closure_invoke_va (closure=closure@entry=0x555555dc8c70, return_value=return_value@entry=0x0, instance=instance@entry=0x555555dc8b20, args=args@entry=0x7fffffffd4a0, n_params=n_params@entry=0, param_types=param_types@entry=0x0) at ../gobject/gclosure.c:980
+    #20 0x00007ffff7f4a4d9 in signal_emit_valist_unlocked (instance=instance@entry=0x555555dc8b20, signal_id=signal_id@entry=414, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd4a0) at ../gobject/gsignal.c:3465
+    #21 0x00007ffff7f50238 in g_signal_emit_valist (instance=0x555555dc8b20, signal_id=414, detail=0, var_args=0x7fffffffd4a0) at ../gobject/gsignal.c:3304
+#23 0x00007ffff6dbc27d in _gdk_frame_clock_emit_paint (frame_clock=frame_clock@entry=0x555555dc8b20 [GdkFrameClockIdle]) at ../gdk/gdkframeclock.c:741
+#24 0x00007ffff6dbd32d in gdk_frame_clock_paint_idle (data=0x555555dc8b20, data@entry=<error reading variable: value has been optimized out>) at ../gdk/gdkframeclockidle.c:634
+#25 0x00007ffff7b05c61 in g_timeout_dispatch (source=0x5555564544e0, callback=<optimized out>, user_data=<optimized out>) at ../glib/gmain.c:5324
+#26 0x00007ffff7b0188b in g_main_dispatch (context=context@entry=0x555555730150) at ../glib/gmain.c:3591
+#27 0x00007ffff7b04cb7 in g_main_context_dispatch_unlocked (context=0x555555730150) at ../glib/gmain.c:4451
+#28 g_main_context_iterate_unlocked (context=context@entry=0x555555730150, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../glib/gmain.c:4516
+#29 0x00007ffff7b05513 in g_main_context_iteration (context=context@entry=0x555555730150, may_block=may_block@entry=1) at ../glib/gmain.c:4582
+#30 0x00007ffff7cff3ad in g_application_run (application=application@entry=0x555555717b70 [NautilusApplication], argc=argc@entry=3, argv=argv@entry=0x7fffffffd978) at ../gio/gapplication.c:2742
+#31 0x000055555559b253 in main (argc=3, argv=0x7fffffffd978) at ../src/nautilus-main.c:77
+Warning: the current language does not match this frame.
+From                To                  Syms Read   Shared Object Library
+0x00007ffff7fc5000  0x00007ffff7fff000  Yes         /lib64/ld-linux-x86-64.so.2
+0x00007ffff7f99000  0x00007ffff7fa5000  Yes         /app/lib/libnautilus-extension.so.4
+0x00007ffff7f80000  0x00007ffff7f99000  Yes         /app/lib/libcloudproviders.so.0
+0x00007ffff7c00000  0x00007ffff7e01000  Yes         /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0
+0x00007ffff7f1a000  0x00007ffff7f80000  Yes         /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+0x00007ffff7a9f000  0x00007ffff7c00000  Yes         /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+0x00007ffff7600000  0x00007ffff7a13000  Yes (*)     /usr/lib/x86_64-linux-gnu/libglycin-2.so.0
+0x00007ffff7ecd000  0x00007ffff7f18000  Yes (*)     /usr/lib/x86_64-linux-gnu/libglycin-gtk4-2.so.0
+0x00007ffff6800000  0x00007ffff74c9000  Yes         /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+0x00007ffff7e59000  0x00007ffff7ecd000  Yes         /usr/lib/x86_64-linux-gnu/libpango-1.0.so.0
+0x00007ffff7e28000  0x00007ffff7e59000  Yes         /usr/lib/x86_64-linux-gnu/libgdk_pixbuf-2.0.so.0
+0x00007ffff66b0000  0x00007ffff6800000  Yes         /usr/lib/x86_64-linux-gnu/libcairo.so.2
+0x00007ffff7e0a000  0x00007ffff7e28000  Yes         /usr/lib/x86_64-linux-gnu/libgraphene-1.0.so.0
+0x00007ffff7e01000  0x00007ffff7e08000  Yes         /usr/lib/x86_64-linux-gnu/libgmodule-2.0.so.0
+0x00007ffff7a85000  0x00007ffff7a9f000  Yes         /app/lib/libgnome-autoar-0.so.0
+0x00007ffff7a5f000  0x00007ffff7a85000  Yes         /app/lib/libgnome-desktop-4.so.2
+0x00007ffff6400000  0x00007ffff662f000  Yes         /usr/lib/x86_64-linux-gnu/libicuuc.so.77
+0x00007ffff6000000  0x00007ffff63be000  Yes         /usr/lib/x86_64-linux-gnu/libicui18n.so.77
+0x00007ffff5c00000  0x00007ffff5e02000  Yes         /usr/lib/x86_64-linux-gnu/libadwaita-1.so.0
+0x00007ffff7a2b000  0x00007ffff7a5d000  Yes         /app/lib/libportal.so.1
+0x00007ffff7a22000  0x00007ffff7a2b000  Yes         /app/lib/libportal-gtk4.so.1
+0x00007ffff75ca000  0x00007ffff7600000  Yes         /usr/lib/x86_64-linux-gnu/libselinux.so.1
+0x00007ffff74f0000  0x00007ffff75ca000  Yes         /usr/lib/x86_64-linux-gnu/libtinysparql-3.0.so.0
+0x00007ffff5f01000  0x00007ffff6000000  Yes         /usr/lib/x86_64-linux-gnu/libm.so.6
+0x00007ffff5ab3000  0x00007ffff5c00000  Yes         /usr/lib/x86_64-linux-gnu/libX11.so.6
+0x00007ffff74dd000  0x00007ffff74f0000  Yes         /usr/lib/x86_64-linux-gnu/libwayland-client.so.0
+0x00007ffff6683000  0x00007ffff66b0000  Yes         /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+0x00007ffff58b4000  0x00007ffff5ab3000  Yes         /usr/lib/x86_64-linux-gnu/libc.so.6
+0x00007ffff6669000  0x00007ffff6683000  Yes         /usr/lib/x86_64-linux-gnu/libz.so.1
+0x00007ffff5eaa000  0x00007ffff5f01000  Yes         /usr/lib/x86_64-linux-gnu/libmount.so.1
+0x00007ffff74cd000  0x00007ffff74dd000  Yes         /usr/lib/x86_64-linux-gnu/libffi.so.8
+0x00007ffff5808000  0x00007ffff58b4000  Yes         /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0
+0x00007ffff5e3e000  0x00007ffff5eaa000  Yes         /usr/lib/x86_64-linux-gnu/liblcms2.so.2
+0x00007ffff57b5000  0x00007ffff5808000  Yes         /usr/lib/x86_64-linux-gnu/libfontconfig.so.1
+0x00007ffff663c000  0x00007ffff6669000  Yes         /usr/lib/x86_64-linux-gnu/libseccomp.so.2
+0x00007ffff63ec000  0x00007ffff6400000  Yes         /usr/lib/x86_64-linux-gnu/libpangocairo-1.0.so.0
+0x00007ffff5680000  0x00007ffff57b5000  Yes         /usr/lib/x86_64-linux-gnu/libharfbuzz.so.0
+0x00007ffff5548000  0x00007ffff5680000  Yes         /usr/lib/x86_64-linux-gnu/libharfbuzz-subset.so.0
+0x00007ffff63cb000  0x00007ffff63ec000  Yes         /usr/lib/x86_64-linux-gnu/libfribidi.so.0
+0x00007ffff6631000  0x00007ffff663c000  Yes         /usr/lib/x86_64-linux-gnu/libcairo-gobject.so.2
+0x00007ffff5422000  0x00007ffff5548000  Yes         /usr/lib/x86_64-linux-gnu/libepoxy.so.0
+0x00007ffff5e18000  0x00007ffff5e3e000  Yes         /usr/lib/x86_64-linux-gnu/libgstplay-1.0.so.0
+0x00007ffff5341000  0x00007ffff5422000  Yes         /usr/lib/x86_64-linux-gnu/libgstvideo-1.0.so.0
+0x00007ffff51da000  0x00007ffff5341000  Yes         /usr/lib/x86_64-linux-gnu/libgstreamer-1.0.so.0
+0x00007ffff5144000  0x00007ffff51da000  Yes         /usr/lib/x86_64-linux-gnu/libgstgl-1.0.so.0
+0x00007ffff63c1000  0x00007ffff63cb000  Yes         /usr/lib/x86_64-linux-gnu/libgstallocators-1.0.so.0
+0x00007ffff5e04000  0x00007ffff5e18000  Yes         /usr/lib/x86_64-linux-gnu/libXi.so.6
+0x00007ffff5127000  0x00007ffff5144000  Yes         /usr/lib/x86_64-linux-gnu/libpangoft2-1.0.so.0
+0x00007ffff50a1000  0x00007ffff5127000  Yes         /usr/lib/x86_64-linux-gnu/libvulkan.so.1
+0x00007ffff5066000  0x00007ffff50a1000  Yes         /usr/lib/x86_64-linux-gnu/libpng16.so.16
+0x00007ffff4fcf000  0x00007ffff5066000  Yes         /usr/lib/x86_64-linux-gnu/libtiff.so.6
+0x00007ffff4f29000  0x00007ffff4fcf000  Yes         /usr/lib/x86_64-linux-gnu/libjpeg.so.62
+0x00007ffff4ecd000  0x00007ffff4f29000  Yes         /usr/lib/x86_64-linux-gnu/libxkbcommon.so.0
+0x00007ffff4ec8000  0x00007ffff4ecd000  Yes         /usr/lib/x86_64-linux-gnu/libwayland-egl.so.1
+0x00007ffff4eb4000  0x00007ffff4ec8000  Yes         /usr/lib/x86_64-linux-gnu/libXext.so.6
+0x00007ffff4ea6000  0x00007ffff4eb4000  Yes         /usr/lib/x86_64-linux-gnu/libXcursor.so.1
+0x00007ffff4ea1000  0x00007ffff4ea6000  Yes         /usr/lib/x86_64-linux-gnu/libXdamage.so.1
+0x00007ffff4e99000  0x00007ffff4ea1000  Yes         /usr/lib/x86_64-linux-gnu/libXfixes.so.3
+0x00007ffff4e8c000  0x00007ffff4e99000  Yes         /usr/lib/x86_64-linux-gnu/libXrandr.so.2
+0x00007ffff4e87000  0x00007ffff4e8c000  Yes         /usr/lib/x86_64-linux-gnu/libXinerama.so.1
+0x00007ffff4e5f000  0x00007ffff4e87000  Yes         /usr/lib/x86_64-linux-gnu/libcairo-script-interpreter.so.2
+0x00007ffff4db9000  0x00007ffff4e5f000  Yes         /usr/lib/x86_64-linux-gnu/libcups.so.2
+0x00007ffff4dac000  0x00007ffff4db9000  Yes         /usr/lib/x86_64-linux-gnu/libthai.so.0
+0x00007ffff4ce2000  0x00007ffff4dac000  Yes         /usr/lib/x86_64-linux-gnu/libfreetype.so.6
+0x00007ffff4cd6000  0x00007ffff4ce2000  Yes         /usr/lib/x86_64-linux-gnu/libXrender.so.1
+0x00007ffff4caa000  0x00007ffff4cd6000  Yes         /usr/lib/x86_64-linux-gnu/libxcb.so.1
+0x00007ffff4c9a000  0x00007ffff4caa000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-render.so.0
+0x00007ffff4c95000  0x00007ffff4c9a000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-shm.so.0
+0x00007ffff4bde000  0x00007ffff4c95000  Yes         /usr/lib/x86_64-linux-gnu/libpixman-1.so.0
+0x00007ffff4b06000  0x00007ffff4bde000  Yes         /usr/lib/x86_64-linux-gnu/libarchive.so.13
+0x00007ffff4afb000  0x00007ffff4b06000  Yes         /usr/lib/x86_64-linux-gnu/libxkbregistry.so.0
+0x00007ffff2c00000  0x00007ffff4a6f000  Yes         /usr/lib/x86_64-linux-gnu/libicudata.so.77
+0x00007ffff2800000  0x00007ffff2aaa000  Yes         /usr/lib/x86_64-linux-gnu/libstdc++.so.6
+0x00007ffff4af1000  0x00007ffff4afb000  Yes         /usr/lib/x86_64-linux-gnu/libministream.so.1
+0x00007ffff4ac5000  0x00007ffff4af1000  Yes         /usr/lib/x86_64-linux-gnu/libjson-glib-1.0.so.0
+0x00007ffff2ab1000  0x00007ffff2c00000  Yes         /usr/lib/x86_64-linux-gnu/libxml2.so.16
+0x00007ffff268a000  0x00007ffff2800000  Yes         /usr/lib/x86_64-linux-gnu/libsqlite3.so.0
+0x00007ffff4a87000  0x00007ffff4ac5000  Yes         /usr/lib/x86_64-linux-gnu/libblkid.so.1
+0x00007ffff265e000  0x00007ffff268a000  Yes         /usr/lib/x86_64-linux-gnu/libexpat.so.1
+0x00007ffff263b000  0x00007ffff265e000  Yes         /usr/lib/x86_64-linux-gnu/libgraphite2.so.3
+0x00007ffff25f9000  0x00007ffff263b000  Yes         /usr/lib/x86_64-linux-gnu/libgsttag-1.0.so.0
+0x00007ffff25b0000  0x00007ffff25f9000  Yes         /usr/lib/x86_64-linux-gnu/libgstpbutils-1.0.so.0
+0x00007ffff252a000  0x00007ffff25b0000  Yes         /usr/lib/x86_64-linux-gnu/libgstbase-1.0.so.0
+0x00007ffff247f000  0x00007ffff252a000  Yes         /usr/lib/x86_64-linux-gnu/liborc-0.4.so.0
+0x00007ffff2463000  0x00007ffff247f000  Yes         /usr/lib/x86_64-linux-gnu/libunwind.so.8
+0x00007ffff23b2000  0x00007ffff2463000  Yes         /usr/lib/x86_64-linux-gnu/libdw.so.1
+0x00007ffff4a74000  0x00007ffff4a87000  Yes         /usr/lib/x86_64-linux-gnu/libEGL.so.1
+0x00007ffff237f000  0x00007ffff23b2000  Yes         /usr/lib/x86_64-linux-gnu/libGLX.so.0
+0x00007ffff2375000  0x00007ffff237f000  Yes         /usr/lib/x86_64-linux-gnu/libwayland-cursor.so.0
+0x00007ffff2aac000  0x00007ffff2ab1000  Yes         /usr/lib/x86_64-linux-gnu/libX11-xcb.so.1
+0x00007ffff235c000  0x00007ffff2375000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libdrm.so.2
+0x00007ffff22dd000  0x00007ffff235c000  Yes         /usr/lib/x86_64-linux-gnu/libwebp.so.7
+0x00007ffff2212000  0x00007ffff22dd000  Yes         /usr/lib/x86_64-linux-gnu/libzstd.so.1
+0x00007ffff21e1000  0x00007ffff2212000  Yes         /usr/lib/x86_64-linux-gnu/liblzma.so.5
+0x00007ffff21ba000  0x00007ffff21e1000  Yes         /usr/lib/x86_64-linux-gnu/liblzo2.so.2
+0x00007ffff21aa000  0x00007ffff21ba000  Yes         /usr/lib/x86_64-linux-gnu/libavahi-common.so.3
+0x00007ffff2196000  0x00007ffff21aa000  Yes         /usr/lib/x86_64-linux-gnu/libavahi-client.so.3
+0x00007ffff2090000  0x00007ffff2196000  Yes         /usr/lib/x86_64-linux-gnu/libssl.so.3
+0x00007ffff1a00000  0x00007ffff2004000  Yes         /usr/lib/x86_64-linux-gnu/libcrypto.so.3
+0x00007ffff2086000  0x00007ffff2090000  Yes         /usr/lib/x86_64-linux-gnu/libdatrie.so.1
+0x00007ffff2071000  0x00007ffff2086000  Yes         /usr/lib/x86_64-linux-gnu/libbz2.so.1
+0x00007ffff2062000  0x00007ffff2071000  Yes         /usr/lib/x86_64-linux-gnu/libbrotlidec.so.1
+0x00007ffff205c000  0x00007ffff2062000  Yes         /usr/lib/x86_64-linux-gnu/libXau.so.6
+0x00007ffff2051000  0x00007ffff205c000  Yes         /usr/lib/x86_64-linux-gnu/libacl.so.1
+0x00007ffff2026000  0x00007ffff204f000  Yes         /usr/lib/x86_64-linux-gnu/liblz4.so.1
+0x00007ffff2017000  0x00007ffff2026000  Yes         /usr/lib/x86_64-linux-gnu/libeconf.so.0
+0x00007ffff1976000  0x00007ffff1a00000  Yes         /usr/lib/x86_64-linux-gnu/libgstaudio-1.0.so.0
+0x00007ffff1958000  0x00007ffff1976000  Yes         /usr/lib/x86_64-linux-gnu/libelf.so.1
+0x00007ffff18a0000  0x00007ffff1958000  Yes         /usr/lib/x86_64-linux-gnu/libGLdispatch.so.0
+0x00007ffff200c000  0x00007ffff2015000  Yes         /usr/lib/x86_64-linux-gnu/libsharpyuv.so.0
+0x00007ffff1849000  0x00007ffff18a0000  Yes         /usr/lib/x86_64-linux-gnu/libdbus-1.so.3
+0x00007ffff1826000  0x00007ffff1849000  Yes         /usr/lib/x86_64-linux-gnu/libbrotlicommon.so.1
+0x00007ffff2004000  0x00007ffff200c000  Yes         /usr/lib/x86_64-linux-gnu/libattr.so.1
+0x00007ffff1600000  0x00007ffff1810000  Yes         /usr/lib/x86_64-linux-gnu/libsystemd.so.0
+0x00007ffff1576000  0x00007ffff15b1000  Yes         /usr/lib/x86_64-linux-gnu/gio/modules/libgvfsdbus.so
+0x00007ffff1532000  0x00007ffff1576000  Yes         /usr/lib/x86_64-linux-gnu/gvfs/libgvfscommon.so
+0x00007fffef158000  0x00007fffef1fc000  Yes         /usr/lib/x86_64-linux-gnu/tinysparql-3.0/libtracker-parser-libicu.so
+0x00007ffff149d000  0x00007ffff14a9000  Yes (*)     /usr/lib/x86_64-linux-gnu/gtk-4.0/4.0.0/immodules/libim-ibus.so
+0x00007fffcaf72000  0x00007fffcaffe000  Yes (*)     /usr/lib/x86_64-linux-gnu/libibus-1.0.so.5
+0x00007fffcaf56000  0x00007fffcaf72000  Yes         /usr/lib/x86_64-linux-gnu/gtk-4.0/4.0.0/immodules/libim-fcitx5.so
+0x00007fffec001000  0x00007fffec00d000  Yes         /usr/lib/x86_64-linux-gnu/libFcitx5GClient.so.2
+0x00007fffcaf1d000  0x00007fffcaf26000  Yes         /app/lib/nautilus/extensions-4/libtotem-properties-page.so
+0x00007fffcaf15000  0x00007fffcaf1d000  Yes         /app/lib/nautilus/extensions-4/libnautilus-image-properties.so
+0x00007fffcae3a000  0x00007fffcae76000  Yes         /app/lib/libgexiv2-0.16.so.4
+0x00007fffcaa00000  0x00007fffcae38000  Yes         /app/lib/libexiv2.so.28
+0x00007fffca9f6000  0x00007fffcaa00000  Yes         /app/lib/libINIReader.so.0
+0x00007fffca9f1000  0x00007fffca9f6000  Yes         /app/lib/libinih.so.0
+0x00007fffca9cf000  0x00007fffca9f1000  Yes         /usr/lib/x86_64-linux-gnu/gio/modules/libgioremote-volume-monitor.so
+0x00007fffca810000  0x00007fffca93b000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libGLX_nvidia.so.0
+0x00007fffca774000  0x00007fffca810000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libnvidia-glsi.so.595.58.03
+0x00007fffcae7b000  0x00007fffcae81000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libnvidia-tls.so.595.58.03
+0x00007fffb9800000  0x00007fffbbe20000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libnvidia-glcore.so.595.58.03
+0x00007fffcae76000  0x00007fffcae7b000  Yes         /usr/lib/x86_64-linux-gnu/libdl.so.2
+0x00007fffca76f000  0x00007fffca774000  Yes         /usr/lib/x86_64-linux-gnu/libpthread.so.0
+0x00007fffca76a000  0x00007fffca76f000  Yes         /usr/lib/x86_64-linux-gnu/librt.so.1
+0x00007fffb3c00000  0x00007fffb9664000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libnvidia-gpucomp.so.595.58.03
+0x00007fffca74d000  0x00007fffca76a000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-glx.so.0
+0x00007fffca73a000  0x00007fffca74d000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-randr.so.0
+0x00007fffca733000  0x00007fffca73a000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-dri3.so.0
+0x00007fffca72e000  0x00007fffca733000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-present.so.0
+0x00007fffca725000  0x00007fffca72e000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-sync.so.1
+0x00007fffca71a000  0x00007fffca725000  Yes         /usr/lib/x86_64-linux-gnu/libxcb-xfixes.so.0
+0x00007fffca6d9000  0x00007fffca704000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libnvidia-allocator.so.1
+0x00007fffca93c000  0x00007fffca941000  Yes         /usr/lib/x86_64-linux-gnu/libxshmfence.so.1
+0x00007fffb2a00000  0x00007fffb3abc000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_nouveau.so
+0x00007fffc8400000  0x00007fffc91cc000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_lvp.so
+0x00007fffab000000  0x00007fffb1248000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libLLVM.so.21.1
+0x00007fffa9e00000  0x00007fffaaf62000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libvulkan_radeon.so
+0x00007fffca6cb000  0x00007fffca6d9000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libdrm_amdgpu.so.1
+0x00007fffca6b0000  0x00007fffca6cb000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/default/lib/libVkLayer_MESA_device_select.so
+0x00007fffa9400000  0x00007fffa9df7000  Yes (*)     /usr/lib/x86_64-linux-gnu/GL/nvidia-595-58-03/lib/libnvidia-glvkspirv.so.595.58.03
+(*): Shared library is missing debugging information.

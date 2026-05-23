@@ -1,0 +1,158 @@
+denixx@denixx-u2604-1:~$ DEBUGINFOD_URLS=https://debuginfod.ubuntu.com gdb nautilus
+GNU gdb (Ubuntu 17.1-2ubuntu1) 17.1
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from nautilus...
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.ubuntu.com>
+Enable debuginfod for this session? (y or [n]) y
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+(No debugging symbols found in nautilus)
+(gdb) start
+❌️ Function "main" not defined.
+Make breakpoint pending on future shared library load? (y or [n]) n
+Starting program: /usr/bin/nautilus 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffeebff6c0 (LWP 10147)]
+[New Thread 0x7fffee3fe6c0 (LWP 10148)]
+[New Thread 0x7fffedbfd6c0 (LWP 10149)]
+[New Thread 0x7fffed3fc6c0 (LWP 10151)]
+[New Thread 0x7fffecbfb6c0 (LWP 10152)]
+[New Thread 0x7fffdffff6c0 (LWP 10153)]
+[New Thread 0x7fffdf7fe6c0 (LWP 10154)]
+[New Thread 0x7fffdeffd6c0 (LWP 10155)]
+** Message: 10:46:08.379: Connecting to org.freedesktop.Tracker3.Miner.Files
+[New Thread 0x7fffde7fc6c0 (LWP 10156)]
+[New Thread 0x7fffddffb6c0 (LWP 10157)]
+[New Thread 0x7fffdd7fa6c0 (LWP 10158)]
+[New Thread 0x7fffdcbff6c0 (LWP 10159)]
+[New Thread 0x7fffbffff6c0 (LWP 10160)]
+[New Thread 0x7fffbf7fe6c0 (LWP 10161)]
+[New Thread 0x7fffbeffd6c0 (LWP 10162)]
+[New Thread 0x7fffbe7fc6c0 (LWP 10163)]
+[New Thread 0x7fffbdffb6c0 (LWP 10164)]
+[New Thread 0x7fffbd7fa6c0 (LWP 10165)]
+[New Thread 0x7fffbcff96c0 (LWP 10166)]
+[New Thread 0x7fffaffff6c0 (LWP 10167)]
+[New Thread 0x7fffaf7fe6c0 (LWP 10168)]
+[New Thread 0x7fffaeffd6c0 (LWP 10169)]
+[New Thread 0x7fffae7fc6c0 (LWP 10170)]
+[New Thread 0x7fffadffb6c0 (LWP 10171)]
+[New Thread 0x7fffad7fa6c0 (LWP 10172)]
+[New Thread 0x7fffacff96c0 (LWP 10173)]
+[New Thread 0x7fffa7fff6c0 (LWP 10174)]
+[New Thread 0x7fffa77fe6c0 (LWP 10175)]
+[New Thread 0x7fff86bff6c0 (LWP 10176)]
+[New Thread 0x7fff85fff6c0 (LWP 10177)]
+[New Thread 0x7fff9ffff6c0 (LWP 10178)]
+[New Thread 0x7fff9f7fe6c0 (LWP 10179)]
+[New Thread 0x7fff9effd6c0 (LWP 10180)]
+[Thread 0x7fffadffb6c0 (LWP 10171) exited]
+[Thread 0x7fffbe7fc6c0 (LWP 10163) exited]
+[Thread 0x7fffbeffd6c0 (LWP 10162) exited]
+[Thread 0x7fffbffff6c0 (LWP 10160) exited]
+[Thread 0x7fffdf7fe6c0 (LWP 10154) exited]
+[Thread 0x7fffde7fc6c0 (LWP 10156) exited]
+[Thread 0x7fffdffff6c0 (LWP 10153) exited]
+[Thread 0x7fffdeffd6c0 (LWP 10155) exited]
+[New Thread 0x7fffdeffd6c0 (LWP 10188)]
+[New Thread 0x7fffde7fc6c0 (LWP 10189)]
+[New Thread 0x7fffdf7fe6c0 (LWP 10190)]
+[New Thread 0x7fffdffff6c0 (LWP 10191)]
+[Detaching after fork from child process 10192]
+[New Thread 0x7fffbffff6c0 (LWP 10195)]
+[Detaching after fork from child process 10196]
+[Thread 0x7fffdf7fe6c0 (LWP 10190) exited]
+[Thread 0x7fffdffff6c0 (LWP 10191) exited]
+[New Thread 0x7fffdffff6c0 (LWP 10202)]
+[New Thread 0x7fffdf7fe6c0 (LWP 10203)]
+[New Thread 0x7fffbeffd6c0 (LWP 10204)]
+[Thread 0x7fffa77fe6c0 (LWP 10175) exited]
+[Thread 0x7fffaffff6c0 (LWP 10167) exited]
+[Thread 0x7fffbdffb6c0 (LWP 10164) exited]
+[Thread 0x7fffbffff6c0 (LWP 10195) exited]
+
+Thread 1 "nautilus" received signal SIGSEGV, Segmentation fault.
+0x00007ffff6d39860 in gtk_widget_dispose_template () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+(gdb) bt
+#0  0x00007ffff6d39860 in gtk_widget_dispose_template () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#1  0x0000555555631ed0 in ?? ()
+#2  0x00007ffff7d79685 in g_object_unref () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#3  0x00007ffff6bedc21 in gtk_list_item_set_child () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#4  0x00007ffff6c63938 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#5  0x00007ffff6be7d80 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#6  0x00007ffff6be7df5 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#7  0x00007ffff7d79685 in g_object_unref () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#8  0x00007ffff7c45b3e in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#9  0x00007ffff7c470ed in g_hash_table_remove_all () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#10 0x00007ffff7c48e9a in g_hash_table_destroy () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#11 0x00007ffff6be8413 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#12 0x00007ffff6bef178 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#13 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#14 0x00007ffff7d87bc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#15 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#16 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#17 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#18 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#19 0x00007ffff7d87bc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#20 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#21 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#22 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#23 0x00007ffff6c72cf9 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#24 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#25 0x00007ffff7d87bc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#26 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#27 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#28 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#29 0x00007ffff6d1d193 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#30 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#31 0x00007ffff7d87bc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#32 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#33 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#34 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#35 0x00007ffff6b95558 in ?? () from /usr/lib/x86_64-linux-gnu/libgtk-4.so.1
+#36 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#37 0x00007ffff7d87bc9 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#38 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#39 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#40 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#41 0x00007ffff7e89d3a in g_list_store_splice () from /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0
+#42 0x00005555555fa584 in ?? ()
+#43 0x00007ffff6073056 in ?? () from /usr/lib/x86_64-linux-gnu/libffi.so.8
+#44 0x00007ffff606ed16 in ?? () from /usr/lib/x86_64-linux-gnu/libffi.so.8
+#45 0x00007ffff60717ae in ffi_call () from /usr/lib/x86_64-linux-gnu/libffi.so.8
+#46 0x00007ffff7d6fe3e in g_cclosure_marshal_generic () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#47 0x00007ffff7d6968c in g_closure_invoke () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#48 0x00007ffff7d880c1 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#49 0x00007ffff7d89b66 in ?? () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#50 0x00007ffff7d89dc8 in g_signal_emit_valist () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#51 0x00007ffff7d89e83 in g_signal_emit () from /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0
+#52 0x00005555555fac2a in ?? ()
+#53 0x00005555555fad67 in ?? ()
+--Type <RET> for more, q to quit, c to continue without paging--
+#54 0x00007ffff7c5d9f1 in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#55 0x00007ffff7c5bb9b in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#56 0x00007ffff7c5d1d7 in ?? () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#57 0x00007ffff7c5d3c3 in g_main_context_iteration () from /usr/lib/x86_64-linux-gnu/libglib-2.0.so.0
+#58 0x00007ffff7ea2acd in g_application_run () from /usr/lib/x86_64-linux-gnu/libgio-2.0.so.0
+#59 0x000055555558c5d3 in ?? ()
+#60 0x00007ffff522a601 in __libc_start_call_main (main=main@entry=0x55555558c4f0, argc=argc@entry=1, argv=argv@entry=0x7fffffffde78) at ../sysdeps/nptl/libc_start_call_main.h:59
+#61 0x00007ffff522a718 in __libc_start_main_impl (main=0x55555558c4f0, argc=1, argv=0x7fffffffde78, init=<optimized out>, fini=<optimized out>, rtld_fini=<optimized out>, stack_end=0x7fffffffde68) at ../csu/libc-start.c:360
+#62 0x000055555558c645 in ?? ()
+(gdb) 
+

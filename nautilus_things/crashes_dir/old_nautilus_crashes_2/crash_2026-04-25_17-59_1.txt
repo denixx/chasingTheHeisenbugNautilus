@@ -1,0 +1,319 @@
+denixx@denixx-u2604-1:~$ DEBUGINFOD_URLS=https://debuginfod.ubuntu.com gdb nautilus
+GNU gdb (Ubuntu 17.1-2ubuntu1) 17.1
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from nautilus...
+Reading symbols from /usr/lib/debug/.build-id/05/6718ac2937766b0bf4c9827cd2661af4707c87.debug...
+(gdb) start
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.ubuntu.com>
+Enable debuginfod for this session? (y or [n]) y
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+Temporary breakpoint 1 at 0x384f0: file ../src/nautilus-main.c, line 48.
+Starting program: /usr/bin/nautilus 
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+
+Temporary breakpoint 1, main (argc=1, argv=0x7fffffffde78) at ../src/nautilus-main.c:48
+⚠️ warning: 48	../src/nautilus-main.c: Немає такого файла або каталогу
+(gdb) c
+Continuing.
+[New Thread 0x7fffeebff6c0 (LWP 14469)]
+[New Thread 0x7fffee3fe6c0 (LWP 14470)]
+[New Thread 0x7fffedbfd6c0 (LWP 14471)]
+[New Thread 0x7fffed3fc6c0 (LWP 14473)]
+[New Thread 0x7fffecbfb6c0 (LWP 14474)]
+[New Thread 0x7fffdffff6c0 (LWP 14475)]
+[New Thread 0x7fffdf7fe6c0 (LWP 14476)]
+** Message: 17:58:24.193: Connecting to org.freedesktop.Tracker3.Miner.Files
+[New Thread 0x7fffdeffd6c0 (LWP 14477)]
+[New Thread 0x7fffde7fc6c0 (LWP 14478)]
+[New Thread 0x7fffddffb6c0 (LWP 14479)]
+[New Thread 0x7fffdd3ff6c0 (LWP 14480)]
+[New Thread 0x7fffdcbfe6c0 (LWP 14481)]
+[New Thread 0x7fffc3fff6c0 (LWP 14482)]
+[New Thread 0x7fffc37fe6c0 (LWP 14483)]
+[New Thread 0x7fffc2ffd6c0 (LWP 14484)]
+[New Thread 0x7fffc27fc6c0 (LWP 14485)]
+[New Thread 0x7fffc1ffb6c0 (LWP 14486)]
+[New Thread 0x7fffc17fa6c0 (LWP 14487)]
+[New Thread 0x7fffc0ff96c0 (LWP 14488)]
+[New Thread 0x7fffabfff6c0 (LWP 14489)]
+[New Thread 0x7fffab7fe6c0 (LWP 14490)]
+[New Thread 0x7fffaaffd6c0 (LWP 14491)]
+[New Thread 0x7fffaa7fc6c0 (LWP 14492)]
+[New Thread 0x7fffa9ffb6c0 (LWP 14493)]
+[New Thread 0x7fffa97fa6c0 (LWP 14494)]
+[New Thread 0x7fffa8ff96c0 (LWP 14495)]
+[New Thread 0x7fffa87f86c0 (LWP 14496)]
+[Thread 0x7fffa8ff96c0 (LWP 14495) exited]
+[Thread 0x7fffa9ffb6c0 (LWP 14493) exited]
+[Thread 0x7fffc1ffb6c0 (LWP 14486) exited]
+[Thread 0x7fffdcbfe6c0 (LWP 14481) exited]
+[Thread 0x7fffdd3ff6c0 (LWP 14480) exited]
+[Thread 0x7fffdeffd6c0 (LWP 14477) exited]
+[Thread 0x7fffdf7fe6c0 (LWP 14476) exited]
+[New Thread 0x7fffdeffd6c0 (LWP 14497)]
+[New Thread 0x7fffdd3ff6c0 (LWP 14498)]
+[New Thread 0x7fffa9ffb6c0 (LWP 14499)]
+[New Thread 0x7fffc1ffb6c0 (LWP 14500)]
+[New Thread 0x7fffdcbfe6c0 (LWP 14501)]
+[New Thread 0x7fffa8ff96c0 (LWP 14510)]
+[New Thread 0x7fff979ff6c0 (LWP 14511)]
+[New Thread 0x7fff971fe6c0 (LWP 14512)]
+[New Thread 0x7fff969fd6c0 (LWP 14513)]
+[New Thread 0x7fff961fc6c0 (LWP 14514)]
+[New Thread 0x7fff959fb6c0 (LWP 14515)]
+[Thread 0x7fff971fe6c0 (LWP 14512) exited]
+[Thread 0x7fffabfff6c0 (LWP 14489) exited]
+[Thread 0x7fff959fb6c0 (LWP 14515) exited]
+[Thread 0x7fffc2ffd6c0 (LWP 14484) exited]
+[Thread 0x7fffc37fe6c0 (LWP 14483) exited]
+[Thread 0x7fff979ff6c0 (LWP 14511) exited]
+[New Thread 0x7fff979ff6c0 (LWP 14516)]
+[New Thread 0x7fff959fb6c0 (LWP 14517)]
+[New Thread 0x7fffabfff6c0 (LWP 14518)]
+[New Thread 0x7fff971fe6c0 (LWP 14519)]
+[Detaching after fork from child process 14520]
+[New Thread 0x7fffc37fe6c0 (LWP 14523)]
+[Detaching after fork from child process 14524]
+[Thread 0x7fffabfff6c0 (LWP 14518) exited]
+[Thread 0x7fff971fe6c0 (LWP 14519) exited]
+[Thread 0x7fffc37fe6c0 (LWP 14523) exited]
+[New Thread 0x7fffc37fe6c0 (LWP 14564)]
+[New Thread 0x7fff971fe6c0 (LWP 14565)]
+[Detaching after fork from child process 14566]
+[New Thread 0x7fffabfff6c0 (LWP 14567)]
+[Thread 0x7fffc37fe6c0 (LWP 14564) exited]
+[Thread 0x7fffabfff6c0 (LWP 14567) exited]
+
+Thread 1 "nautilus" received signal SIGSEGV, Segmentation fault.
+Download failed: Некоректний аргумент.  Continuing without source file ./malloc/./malloc/malloc.c.
+0x00007ffff52b1297 in unlink_chunk (p=p@entry=0x55555693c370, av=0x7ffff5412ac0 <main_arena>) at ./malloc/malloc.c:1600
+⚠️ warning: 1600	./malloc/malloc.c: Немає такого файла або каталогу
+(gdb) bt full
+#0  0x00007ffff52b1297 in unlink_chunk (p=p@entry=0x55555693c370, av=0x7ffff5412ac0 <main_arena>) at ./malloc/malloc.c:1600
+        fd = 0x555556767e40
+        bk = 0x555500000000
+#1  0x00007ffff52b2475 in _int_free_merge_chunk (av=0x7ffff5412ac0 <main_arena>, p=0x55555693c370, size=<optimized out>) at ./malloc/malloc.c:4440
+        prevsize = <optimized out>
+        nextchunk = <optimized out>
+        nextsize = 32
+#2  0x00007ffff52b26b4 in _int_free_chunk (av=0x7ffff5412ac0 <main_arena>, p=<optimized out>, size=<optimized out>, have_lock=<optimized out>) at ./malloc/malloc.c:4368
+        err = 11
+#3  0x00007ffff7d8ea33 in g_type_free_instance (instance=<optimized out>) at ../../../gobject/gtype.c:1979
+        node = <optimized out>
+        class = <optimized out>
+        allocated = <optimized out>
+        private_size = <optimized out>
+        ivar_size = <optimized out>
+        __func__ = "g_type_free_instance"
+#4  0x00007ffff7d79707 in g_object_unref (_object=0x55555693c3a0) at ../../../gobject/gobject.c:4926
+        object = 0x55555693c3a0
+        old_ref = 1
+        toggle_notify = 0xbbed4cb883fdc900
+        toggle_data = 0x7fffffffc0c8
+        nqueue_is_frozen = 1
+        obj_gtype = <optimized out>
+        retry_beginning = <optimized out>
+        retry_decrement = <optimized out>
+        __func__ = "g_object_unref"
+#5  0x00007ffff6d994a5 in gtk_css_node_style_cache_unref (cache=0x555556751d10) at ../../../gtk/gtkcssnodestylecache.c:64
+No locals.
+#6  gtk_css_node_style_cache_unref (cache=0x555556751d10) at ../../../gtk/gtkcssnodestylecache.c:57
+No locals.
+#7  0x00007ffff7c45b3e in g_hash_table_remove_all_nodes (hash_table=0x555556712c70, notify=<optimized out>, destruction=<optimized out>) at ../../../glib/ghash.c:665
+        i = 5
+        key = <optimized out>
+        value = <optimized out>
+        old_size = <optimized out>
+        old_keys = 0x555556602770
+        old_values = 0x555555749f40
+        old_hashes = 0x5555557736b0
+        old_have_big_keys = 1
+        old_have_big_values = 1
+#8  0x00007ffff7c48e1b in g_hash_table_remove_all_nodes (hash_table=0x555556712c70, notify=1, destruction=1) at ../../../glib/ghash.c:587
+        i = <optimized out>
+        key = <optimized out>
+        value = <optimized out>
+        old_size = <optimized out>
+        old_keys = <optimized out>
+        old_values = <optimized out>
+        old_hashes = <optimized out>
+        old_have_big_keys = <optimized out>
+        old_have_big_values = <optimized out>
+#9  g_hash_table_unref (hash_table=0x555556712c70) at ../../../glib/ghash.c:1446
+        __func__ = <optimized out>
+        _g_boolean_var_32 = <optimized out>
+#10 g_hash_table_unref (hash_table=0x555556712c70) at ../../../glib/ghash.c:1440
+--Type <RET> for more, q to quit, c to continue without paging--c
+        __func__ = "g_hash_table_unref"
+#11 0x00007ffff6d994b3 in gtk_css_node_style_cache_unref (cache=0x555556767770) at ../../../gtk/gtkcssnodestylecache.c:66
+No locals.
+#12 gtk_css_node_style_cache_unref (cache=0x555556767770) at ../../../gtk/gtkcssnodestylecache.c:57
+No locals.
+#13 0x00007ffff6d9badd in gtk_css_node_do_ensure_style (cssnode=cssnode@entry=0x555555a079d0, filter=filter@entry=0x7fffffffc4f0, current_time=current_time@entry=3278481372) at ../../../gtk/gtkcssnode.c:952
+        _pp = 0x555555a07a28
+        _ptr = <optimized out>
+        new_style = <optimized out>
+        style_changed = <optimized out>
+#14 0x00007ffff6d9bdb5 in gtk_css_node_ensure_style (cssnode=0x555555a079d0, filter=0x7fffffffc4f0, current_time=3278481372) at ../../../gtk/gtkcssnode.c:1001
+        sibling = <optimized out>
+#15 0x00007ffff6d9bde9 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555a079d0, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1329
+        child = <optimized out>
+        bloomed = 0
+#16 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555a07a80, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555a079d0
+        bloomed = 1
+#17 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555a06330, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555a07a80
+        bloomed = 1
+#18 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555a00410, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555a06330
+        bloomed = 1
+#19 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555a02a60, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555a00410
+        bloomed = 1
+#20 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x55555589ebf0, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555a02a60
+        bloomed = 1
+#21 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x55555578eb80, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x55555589ebf0
+        bloomed = 1
+#22 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555824e60, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x55555578eb80
+        bloomed = 1
+#23 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555bcdf60, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555824e60
+        bloomed = 1
+#24 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555b6b970, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555bcdf60
+        bloomed = 1
+#25 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555973560, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555b6b970
+        bloomed = 1
+#26 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x555555819af0, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555973560
+        bloomed = 1
+#27 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x55555584ea80, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x555555819af0
+        bloomed = 1
+#28 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x55555587cb20, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x55555584ea80
+        bloomed = 1
+#29 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x5555558686d0, filter=filter@entry=0x7fffffffc4f0, timestamp=timestamp@entry=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x55555587cb20
+        bloomed = 1
+#30 0x00007ffff6d9beb7 in gtk_css_node_validate_internal (cssnode=cssnode@entry=0x55555587cbd0, filter=filter@entry=0x7fffffffc4f0, timestamp=3278481372) at ../../../gtk/gtkcssnode.c:1351
+        child = 0x5555558686d0
+        bloomed = 1
+#31 0x00007ffff6d9ecdd in gtk_css_node_validate (cssnode=0x55555587cbd0) at ../../../gtk/gtkcssnode.c:1371
+        filter = {
+          buckets = '\000' <\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377 109 \377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377.>, "\001", '\000' <\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377 259 \377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377\377.>...}
+        timestamp = <optimized out>
+        before = 3278477631328
+        __func__ = "gtk_css_node_validate"
+#32 0x00007ffff7d6968c in g_closure_invoke (closure=0x555555d1da10, return_value=0x0, n_param_values=1, param_values=0x7fffffffd750, invocation_hint=0x7fffffffd6a0) at ../../../gobject/gclosure.c:916
+        marshal = 0x7ffff7d6e700 <g_cclosure_marshal_VOID__VOID>
+        marshal_data = 0x0
+        in_marshal = 0
+        reffed_flags = {flags = {ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0}, closure = {
+            ref_count = 2, meta_marshal_nouse = 0, n_guards = 0, n_fnotifiers = 0, n_inotifiers = 0, in_inotify = 0, floating = 0, derivative_flag = 0, in_marshal = 0, is_invalid = 0, marshal = 0x0, data = 0x0, notifiers = 0x0}, 
+          atomic_int = 2}
+        real_closure = 0x555555d1d9f0
+        __func__ = "g_closure_invoke"
+#33 0x00007ffff7d881a5 in signal_emit_unlocked_R (node=node@entry=0x7fffffffd860, detail=detail@entry=0, instance=instance@entry=0x5555557e0020, emission_return=emission_return@entry=0x0, 
+    instance_and_params=instance_and_params@entry=0x7fffffffd750) at ../../../gobject/gsignal.c:4002
+        tmp = <optimized out>
+        handler = 0x5555561d3880
+        accumulator = <optimized out>
+        emission = {next = 0x0, instance = 0x5555557e0020, ihint = {signal_id = 417, detail = 0, run_type = (G_SIGNAL_RUN_LAST | G_SIGNAL_ACCUMULATOR_FIRST_RUN)}, state = EMISSION_RUN, chain_type = 4}
+        class_closure = <optimized out>
+        hlist = <optimized out>
+        handler_list = 0x5555561d3880
+        return_accu = <optimized out>
+        accu = {g_type = 0, data = {{v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}, {v_int = 0, v_uint = 0, v_long = 0, v_ulong = 0, v_int64 = 0, 
+              v_uint64 = 0, v_float = 0, v_double = 0, v_pointer = 0x0}}}
+        signal_id = <optimized out>
+        max_sequential_handler_number = <optimized out>
+        return_value_altered = <optimized out>
+        n_params = <optimized out>
+        EMIT_RESTART = <optimized out>
+        __func__ = <optimized out>
+#34 0x00007ffff7d89b66 in signal_emit_valist_unlocked (instance=instance@entry=0x5555557e0020, signal_id=signal_id@entry=417, detail=detail@entry=0, var_args=var_args@entry=0x7fffffffd9c0) at ../../../gobject/gsignal.c:3561
+        instance_and_params = <optimized out>
+        param_values = <optimized out>
+        node = <optimized out>
+        i = <optimized out>
+        node_copy = <optimized out>
+        __func__ = "signal_emit_valist_unlocked"
+#35 0x00007ffff7d89dc8 in g_signal_emit_valist (instance=0x5555557e0020, signal_id=417, detail=0, var_args=var_args@entry=0x7fffffffd9c0) at ../../../gobject/gsignal.c:3304
+No locals.
+#36 0x00007ffff7d89e83 in g_signal_emit (instance=instance@entry=0x5555557e0020, signal_id=<optimized out>, detail=detail@entry=0) at ../../../gobject/gsignal.c:3624
+        var_args = {{gp_offset = 24, fp_offset = 48, overflow_arg_area = 0x7fffffffdaa0, reg_save_area = 0x7fffffffd9e0}}
+#37 0x00007ffff6f7162c in _gdk_frame_clock_emit_update (frame_clock=0x5555557e0020) at ../../../gdk/gdkframeclock.c:717
+        before = 3278477576085
+#38 gdk_frame_clock_paint_idle (data=0x5555557e0020, data@entry=<error reading variable: value has been optimized out>) at ../../../gdk/gdkframeclockidle.c:579
+        clock = 0x5555557e0020
+        clock_idle = 0x5555557e0020
+        priv = 0x5555557dfd80
+        skip_to_resume_events = 0
+        timings = 0x555555d5ec20
+        before = 3278477573941
+        __func__ = "gdk_frame_clock_paint_idle"
+#39 0x00007ffff7c5d9f1 in g_timeout_dispatch (source=0x5555566db320, callback=<optimized out>, user_data=<optimized out>) at ../../../glib/gmain.c:5324
+        timeout_source = 0x5555566db320
+        again = <optimized out>
+#40 0x00007ffff7c5bb9b in g_main_dispatch (context=0x555555710fb0) at ../../../glib/gmain.c:3591
+        user_data = 0x5555557e0020
+        callback = 0x7ffff6f71b10 <gdk_frame_clock_flush_idle>
+        gaig_temp = <optimized out>
+        gaig_temp = <optimized out>
+        cb_data = 0x555556868220
+        need_destroy = <optimized out>
+        dispatch = 0x7ffff7c5d9d0 <g_timeout_dispatch>
+        prev_source = 0x0
+        was_in_call = 0
+        cb_funcs = 0x7ffff7d51380 <g_source_callback_funcs>
+        begin_time_nsec = 3278476659144
+        source = 0x5555566db320
+        current = 0x5555557188d0
+        i = 0
+        __func__ = "g_main_dispatch"
+#41 0x00007ffff7c5d1d7 in g_main_context_dispatch_unlocked (context=0x555555710fb0) at ../../../glib/gmain.c:4451
+No locals.
+#42 g_main_context_iterate_unlocked (context=context@entry=0x555555710fb0, block=block@entry=1, dispatch=dispatch@entry=1, self=<optimized out>) at ../../../glib/gmain.c:4516
+        max_priority = 1
+        timeout_usec = 0
+        some_ready = 1
+        nfds = 3
+        allocated_nfds = <optimized out>
+        fds = 0x5555562aab00
+        begin_time_nsec = <optimized out>
+#43 0x00007ffff7c5d3c3 in g_main_context_iteration (context=context@entry=0x555555710fb0, may_block=may_block@entry=1) at ../../../glib/gmain.c:4582
+        retval = <optimized out>
+#44 0x00007ffff7ea2acd in g_application_run (application=application@entry=0x5555556fa8b0, argc=argc@entry=1, argv=argv@entry=0x7fffffffde78) at ../../../gio/gapplication.c:2742
+        arguments = 0x55555577c5e0
+        status = 0
+        context = 0x555555710fb0
+        acquired_context = <optimized out>
+        __func__ = "g_application_run"
+#45 0x000055555558c5d3 in main (argc=1, argv=0x7fffffffde78) at ../src/nautilus-main.c:77
+        retval = <optimized out>
+        application = 0x5555556fa8b0
+(gdb) 
+

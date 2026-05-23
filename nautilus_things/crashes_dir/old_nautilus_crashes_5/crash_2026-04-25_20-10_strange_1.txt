@@ -1,0 +1,45 @@
+denixx@denixx-u2604-1:~$ DEBUGINFOD_URLS=https://debuginfod.ubuntu.com G_SLICE=always-malloc G_DEBUG=fatal-criticals,fatal-warnings,gc-friendly MALLOC_CHECK_=3 MALLOC_PERTURB_=85 gdb -ex run --args nautilus
+GNU gdb (Ubuntu 17.1-2ubuntu1) 17.1
+Copyright (C) 2025 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from nautilus...
+Reading symbols from /usr/lib/debug/.build-id/05/6718ac2937766b0bf4c9827cd2661af4707c87.debug...
+Starting program: /usr/bin/nautilus 
+
+This GDB supports auto-downloading debuginfo from the following URLs:
+  <https://debuginfod.ubuntu.com>
+Enable debuginfod for this session? (y or [n]) y
+Debuginfod has been enabled.
+To make this setting permanent, add 'set debuginfod enabled on' to .gdbinit.
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/usr/lib/x86_64-linux-gnu/libthread_db.so.1".
+[New Thread 0x7fffeebff6c0 (LWP 34347)]
+[New Thread 0x7fffee3fe6c0 (LWP 34348)]
+[New Thread 0x7fffedbfd6c0 (LWP 34349)]
+[New Thread 0x7fffed3fc6c0 (LWP 34351)]
+[New Thread 0x7fffecbfb6c0 (LWP 34352)]
+[New Thread 0x7fffdffff6c0 (LWP 34353)]
+** Message: 20:09:38.708: Connecting to org.freedesktop.Tracker3.Miner.Files
+[Thread 0x7fffecbfb6c0 (LWP 34352) exited]
+[Thread 0x7fffed3fc6c0 (LWP 34351) exited]
+[Thread 0x7fffedbfd6c0 (LWP 34349) exited]
+[Thread 0x7fffee3fe6c0 (LWP 34348) exited]
+[Thread 0x7fffeebff6c0 (LWP 34347) exited]
+[Thread 0x7ffff052c440 (LWP 34343) exited]
+[Thread 0x7fffdffff6c0 (LWP 34353) exited]
+[New process 34343]
+[Inferior 1 (process 34343) exited normally]
+(gdb) 
+

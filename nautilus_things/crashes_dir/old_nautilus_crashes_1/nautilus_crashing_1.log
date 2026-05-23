@@ -1,0 +1,31 @@
+кві 25 08:50:49 denixx-u2604-1 dbus-daemon[5545]: [session uid=1000 pid=5545 pidfd=5] Activating via systemd: service name='org.freedesktop.portal.Desktop' unit='xdg-desktop-portal.service' requested by ':1.82' (uid=1000 pid=7040 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:50:50 denixx-u2604-1 gnome-shell[6024]: DING: GNOME nautilus 50.0
+кві 25 08:51:40 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.130' (uid=1000 pid=8250 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:52:49 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.130' (uid=1000 pid=8250 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:53:20 denixx-u2604-1 kernel: nautilus[8250]: segfault at 63c600000028 ip 0000743062cd56ca sp 00007ffd8b724cf0 error 4 in libwayland-client.so.0.24.0[86ca,743062cd3000+7000] likely on CPU 11 (core 5, socket 0)
+кві 25 08:53:25 denixx-u2604-1 whoopsie-upload-all[8808]: INFO:root:Collecting info for /var/crash/_usr_bin_nautilus.1000.crash...
+кві 25 08:53:27 denixx-u2604-1 whoopsie-upload-all[8808]: INFO:root:Marking /var/crash/_usr_bin_nautilus.1000.crash for whoopsie upload
+кві 25 08:53:27 denixx-u2604-1 whoopsie-upload-all[8808]: INFO:root:  missing (remaining: 20 s): /var/crash/_usr_bin_nautilus.1000.uploaded
+кві 25 08:53:27 denixx-u2604-1 whoopsie[9064]: [08:53:27] Found .crash corresponding to .upload (/var/crash/_usr_bin_nautilus.1000.crash)
+кві 25 08:53:27 denixx-u2604-1 whoopsie[9064]: [08:53:27] Parsing /var/crash/_usr_bin_nautilus.1000.crash.
+кві 25 08:53:27 denixx-u2604-1 whoopsie[9064]: [08:53:27] Uploading /var/crash/_usr_bin_nautilus.1000.crash.
+кві 25 08:53:29 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.142' (uid=1000 pid=9070 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:53:56 denixx-u2604-1 dbus-daemon[5545]: [session uid=1000 pid=5545 pidfd=5] Activating service name='org.gnome.Loupe' requested by ':1.121' (uid=1000 pid=9070 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:54:42 denixx-u2604-1 kernel: nautilus[9070]: segfault at 64bb00000028 ip 000078402363a6ca sp 00007fff9218fd60 error 4 in libwayland-client.so.0.24.0[86ca,784023638000+7000] likely on CPU 10 (core 5, socket 0)
+кві 25 08:54:42 denixx-u2604-1 whoopsie[9284]: [08:54:42] Found .crash corresponding to .upload (/var/crash/_usr_bin_nautilus.1000.crash)
+кві 25 08:54:46 denixx-u2604-1 whoopsie[9301]: [08:54:46] Found .crash corresponding to .upload (/var/crash/_usr_bin_nautilus.1000.crash)
+кві 25 08:54:46 denixx-u2604-1 whoopsie-upload-all[9300]: INFO:root:Collecting info for /var/crash/_usr_bin_nautilus.1000.crash...
+кві 25 08:54:48 denixx-u2604-1 whoopsie-upload-all[9300]: INFO:root:Marking /var/crash/_usr_bin_nautilus.1000.crash for whoopsie upload
+кві 25 08:54:48 denixx-u2604-1 whoopsie-upload-all[9300]: INFO:root:  missing (remaining: 20 s): /var/crash/_usr_bin_nautilus.1000.uploaded
+кві 25 08:54:48 denixx-u2604-1 whoopsie[9561]: [08:54:48] Found .crash corresponding to .upload (/var/crash/_usr_bin_nautilus.1000.crash)
+кві 25 08:54:48 denixx-u2604-1 whoopsie[9561]: [08:54:48] Parsing /var/crash/_usr_bin_nautilus.1000.crash.
+кві 25 08:54:48 denixx-u2604-1 whoopsie[9561]: [08:54:48] Uploading /var/crash/_usr_bin_nautilus.1000.crash.
+кві 25 08:54:50 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.146' (uid=1000 pid=9566 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:55:34 denixx-u2604-1 whoopsie[9651]: [08:55:34] Found .crash corresponding to .upload (/var/crash/_usr_bin_nautilus.1000.crash)
+кві 25 08:55:34 denixx-u2604-1 whoopsie-upload-all[9649]: INFO:root:/var/crash/_usr_bin_nautilus.1000.crash already marked for upload, skipping
+кві 25 08:55:34 denixx-u2604-1 whoopsie[9657]: [08:55:34] Found .crash corresponding to .upload (/var/crash/_usr_bin_nautilus.1000.crash)
+кві 25 08:55:50 denixx-u2604-1 dbus-daemon[5545]: [session uid=1000 pid=5545 pidfd=5] Activating service name='org.gnome.TextEditor' requested by ':1.123' (uid=1000 pid=9566 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 08:58:15 denixx-u2604-1 kernel: nautilus[9566]: segfault at 5be200000028 ip 000071facd2a66ca sp 00007ffd4d0fea70 error 4 in libwayland-client.so.0.24.0[86ca,71facd2a4000+7000] likely on CPU 2 (core 1, socket 0)
+кві 25 08:58:20 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.162' (uid=1000 pid=11817 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 09:03:10 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.178' (uid=1000 pid=17250 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
+кві 25 09:03:46 denixx-u2604-1 dbus-daemon[2498]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.181' (uid=1000 pid=17377 comm="/usr/bin/nautilus --gapplication-service" label="unconfined")
