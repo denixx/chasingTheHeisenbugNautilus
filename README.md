@@ -8,13 +8,13 @@ The whole process took a while. Three weeks. Now there is a fix for this issue, 
 
 It was interesting to complete this investigation and share this experience, first of all, with friends, and, secondly, with colleagues who are "given" these tools, and whom I can help to master AI as a tool faster.
 
-So, if you still have the question, “What part of work can be delegated to AI” if you work in IT?
+So, if you still have the question, "What part of work can be delegated to AI" if you work in IT?
 
-For May 2026 the answer, without access to “Superior” models like Mythos (does it exist?) or something similar from other providers, and without an unlimited subscription, not much can be delegated. Should AI write code? No. But work is already underway on this, and it seems that for those who can already write/edit, and, most importantly, read code, the main duty of AI for you will be “Rubber Duck on Steroids”. Should you give the model work that you cannot verify? Absolutely not. By doing such things, you are effectively investing in a false result. 😊
+For May 2026 the answer, without access to "Superior" models like Mythos (does it exist?) or something similar from other providers, and without an unlimited subscription, not much can be delegated. Should AI write code? No. But work is already underway on this, and it seems that for those who can already write/edit, and, most importantly, read code, the main duty of AI for you will be "Rubber Duck on Steroids". Should you give the model work that you cannot verify? Absolutely not. By doing such things, you are effectively investing in a false result. 😊
 
 The point I am trying to make is that you shouldn’t rely on AI as the one that should think for now. Absolutely not.
 
-Why is that? I will tell you what I have learned during this period and, perhaps, tell a little secret behind the message “ChatGPT can be wrong. Check important information" right below the text input field on the relevant site in the context of what this means for you as an IT professional.
+Why is that? I will tell you what I have learned during this period and, perhaps, tell a little secret behind the message "ChatGPT can be wrong. Check important information" right below the text input field on the relevant site in the context of what this means for you as an IT professional.
 
 ## Plot
 
@@ -24,7 +24,7 @@ While setting up the AI-IDE in this newly made OS, I noticed that I didn't like 
 
 Well, I think I'll try to figure out what it is and what, most likely, will bother me in the future on my work laptop, when the 26.04.1 release comes out. After all, I am most likely to have the same problem there.
 
-“I already have a personal subscription to the AI-agent-in-IDE, let’s use the communication with it to the benefit of the open source project”, I thought.
+"I already have a personal subscription to the AI-agent-in-IDE, let’s use the communication with it to the benefit of the open source project", I thought.
 
 Sounds quite nice, but only as long as you use it to figure out what's going wrong and to improve your understanding of the problem. And then show or tell the maintainer of the project about those findings.
 
@@ -52,7 +52,7 @@ In fact, models have a time limit to give an answer. These models are lazy – d
 
 Obviously, we are unlikely to make use of code generation for $20. It’s just a rubber duck on steroids that can guide you. No more.
 
-Do you remember my case of trying to find where the error is in the code with the help of AI? I asked the AI how to fix the app and tried to give the result to a maintainer of the Files application as something that he, a poor guy, will have to deal with… well, that's rude, as they say on Reddit. 😊
+Do you remember my case of trying to find where the error is in the code with the help of AI? I asked the AI how to fix the app and tried to give the result to a maintainer of the Files application as something that he, a poor guy, will have to deal with... well, that's rude, as they say on Reddit. 😊
 
 Khalid, please accept my apologies.
 
@@ -64,9 +64,9 @@ In the end, when I was able to figure out how to reproduce the bug quickly on my
 
 As a result of live interaction, rather than AI’s outputs, this bug has been fixed and will no longer be a problem for me working in a new OS. Also, it will no longer be a problem for anyone else.
 
-When interacting with AI, it’s vital to know the subscription level of the person asking. If it is only $20 or $40, then it will not be possible to get many "insights" from AI. Personally, I will resort to it only when I am stuck with something. Or ask it "here is an application on Spring Framework 3, I want to convert it from “war-packaging” to executable jar with Spring Boot 3.5. Make me a plan so I can move in this direction.” I’ve already done this twice, and it worked out better than thinking about it all myself.
+When interacting with AI, it’s vital to know the subscription level of the person asking. If it is only $20 or $40, then it will not be possible to get many "insights" from AI. Personally, I will resort to it only when I am stuck with something. Or ask it "here is an application on Spring Framework 3, I want to convert it from war-packaging to executable jar with Spring Boot 3.5. Make me a plan so I can move in this direction."" I’ve already done this twice, and it worked out better than thinking about it all myself.
 
-What am I talking about? An improved rubber duck still won’t be able to write code for you. You can’t tell an agent: “My Files app has disappeared from the screen. Can you fix it?” It is a futile hope of finding a solution. You’d better talk to a real person to find a solution. You can’t come to someone with a copy-paste from an AI conversation. It is disrespectful to the recipient of such a message as they will then need to reread the content of the entire context. I.e. all the questions and answers that you provided to the agent to understand what exactly and how to interpret it.
+What am I talking about? An improved rubber duck still won’t be able to write code for you. You can’t tell an agent: "My Files app has disappeared from the screen. Can you fix it?" It is a futile hope of finding a solution. You’d better talk to a real person to find a solution. You can’t come to someone with a copy-paste from an AI conversation. It is disrespectful to the recipient of such a message as they will then need to reread the content of the entire context. I.e. all the questions and answers that you provided to the agent to understand what exactly and how to interpret it.
 
 Yesterday, I reread my chats and downloaded them using the AI chat transcript export function in the IDE. It took me quite a long time to reread them. AI likes to invent words that don’t exist. What kind of code could we be talking about? My favourite one is the phrase "мікро-дриснути" ([search here](ai_chats_exports/ai_nautilus_agent_chat_export_1.md)) in the file ai_nautilus_agent_chat_export_1.md.😊
 
@@ -81,8 +81,8 @@ To sum up, you should:
 If you make a list of what you can:
 - Ask some simple questions, such as, "How is Present Continuous different from Present Simple?" - yes!
 - "I'm stuck, I'm doing this and that, but I get this error, what could it be?" - yes!
-- "Look at this project, build a plan to migrate to Spring Boot 3.5 , make a plan to `upgrade.md` file» - yes! And then doing the work according to this plan is much easier when there are such adored AI lists, like the one you are reading now. This one is made by a human.
-- “Look, AI wrote me a piece of code, but it doesn’t work well …” - a redflag . No! You didn’t check the machine’s output, and no one would like to deal with it, because that would mean that someone would have to figure out what you fed the machine (check the context).
+- "Look at this project, build a plan to migrate to Spring Boot 3.5 , make a plan to `upgrade.md` file" - yes! And then doing the work according to this plan is much easier when there are such adored AI lists, like the one you are reading now. This one is made by a human.
+- "Look, AI wrote me a piece of code, but it doesn’t work well ..." - a redflag . No! You didn’t check the machine’s output, and no one would like to deal with it, because that would mean that someone would have to figure out what you fed the machine (check the context).
 - Run brainstorming sessions like the one you're reading the results of now - yes! AI makes it much easier to tinker with what you're doing for the first time.
 - To give AI all your personal accounts and say "do the work for me" - no. Moreover, it is very dangerous from the point of view of maintaining the security of IT processes.
 - To give AI some kind of full access to the system and say "do whatever you want, but fix the crash in the Files app" - no.
@@ -99,7 +99,7 @@ It would be helpful to give a Gary Bernhardt thread here. [https://x.com/garyber
 
 Or rather, this humorous response from Ryan Cavanaugh on Gary's thread. [https://x.com/SeaRyanC/status/1631910395790397441](https://x.com/SeaRyanC/status/1631910395790397441)
 
-«I'm excited to stop writing code and start writing machine-readable specifications of precise intended behavior». ©
+"I'm excited to stop writing code and start writing machine-readable specifications of precise intended behavior". ©
 
 I've never seen a more apt joke.
 
@@ -107,10 +107,10 @@ Given the recent news that prices for Advanced models have increased several tim
 
 Mass code generation is not available yet. Yes, there is some news that gives hope for our magical thinking: [https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_the-research-community-spent-decades-figuring-share-7458345219030319104-Dbpb/](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_the-research-community-spent-decades-figuring-share-7458345219030319104-Dbpb/)
 
-«some unknown amount of compute thrown at Mythos vs other models» ©
+"some unknown amount of compute thrown at Mythos vs other models" ©
 
 Nobody will give us that. Don't expect it. Write good code yourself and don't take AI answers outside of your chat with an agent.
 
-The fix for the Nautilus heisenbug was not the one suggested by the AI. The maintainer of the code did not need the AI’s texts. The maintainer had to understand what the problem was and try some of the options by rebuilding the application code directly on my computer. I was able to prepare the system so that it did not have my personal data, plus provide remote desktop login. Relying on his “feelings” and “impressions”, the maintainer got insights by interacting with me to confirm the exact changes that had an impact on the absence of the bug. Later he tested the app on another system and proved that this bug existed not only on AMD processors. He understood what the problem was and provided a patch in the code of the library his project uses, fixing the root cause in a way that was a fix without creating additional bugs.
+The fix for the Nautilus heisenbug was not the one suggested by the AI. The maintainer of the code did not need the AI’s texts. The maintainer had to understand what the problem was and try some of the options by rebuilding the application code directly on my computer. I was able to prepare the system so that it did not have my personal data, plus provide remote desktop login. Relying on his "feelings" and "impressions", the maintainer got insights by interacting with me to confirm the exact changes that had an impact on the absence of the bug. Later he tested the app on another system and proved that this bug existed not only on AMD processors. He understood what the problem was and provided a patch in the code of the library his project uses, fixing the root cause in a way that was a fix without creating additional bugs.
 
 It remains to wait for the update to land in Ubuntu...
