@@ -68,7 +68,7 @@ When interacting with AI, it’s vital to know the subscription level of the per
 
 What am I talking about? An improved rubber duck still won’t be able to write code for you. You can’t tell an agent: “My Files app has disappeared from the screen. Can you fix it?” It is a futile hope of finding a solution. You’d better talk to a real person to find a solution. You can’t come to someone with a copy-paste from an AI conversation. It is disrespectful to the recipient of such a message as they will then need to reread the content of the entire context. I.e. all the questions and answers that you provided to the agent to understand what exactly and how to interpret it.
 
-Yesterday, I reread my chats and downloaded them using the AI chat transcript export function in the IDE. It took me quite a long time to reread them. AI likes to invent words that don’t exist. What kind of code could we be talking about? My favourite one is the phrase "мікро-дриснути" in the file ai_nautilus_agent_chat_export_1.md.😊
+Yesterday, I reread my chats and downloaded them using the AI chat transcript export function in the IDE. It took me quite a long time to reread them. AI likes to invent words that don’t exist. What kind of code could we be talking about? My favourite one is the phrase "мікро-дриснути" ([search here](ai_chats_exports/ai_nautilus_agent_chat_export_1.md)) in the file ai_nautilus_agent_chat_export_1.md.😊
 
 To sum up, you should:
 - Cultivate interaction with people.
