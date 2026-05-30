@@ -1,6 +1,6 @@
 ## Гонитва за (гейзен)багом
 
-English translation is here [Eng](README.md)
+English translation is here [Eng](README.md), [or as a blog post](https://dnxb42.blogspot.com/2026/05/chasing-heisenbug.html)
 
 Українською текст є тут [Укр](Chasing_the__heisen_bug_Ukr.md)
 
